@@ -1,4 +1,6 @@
 {
-    "python.pythonPath": "/Users/rapha/Documents/Github/py-sql-tasks/.venv"
-    
+    "python.pythonPath": "/Users/rapha/Documents/Github/py-sql-tasks/.venv",
+    "files.exclude": {
+        "**/__pycache__": true
+    }
 }

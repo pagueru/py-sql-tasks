@@ -1,8 +1,4 @@
 {
-    "python.pythonPath": "/Users/rapha/Documents/Github/py-sql-tasks/.venv",
-    "python.testing.pytestArgs": [
-        "tests"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "/Users/rapha/Documents/Github/py-sql-tasks/.venv"
+    
 }

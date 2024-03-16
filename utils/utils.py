@@ -1,66 +1,22 @@
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
-
-'''
-- A ideia do utils.py é trazer funcionalidades padrões para os projetos simultâneos
-- Para isso, importa as principais bibliotecas utilizadas nos projetos
-- Enquanto o projeto não tomar forma para ganhar um repositório próprio, será mantido em py-sandbox para experimentação
-'''
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# - Importação de bibliotecas - #
-
-# Permite funcionalidades para interações com o sistema
-import os
-
-# Permite que os comandos sejam executados em segundo plano
-import subprocess
-
-# Permite funcionalidades para interações com o sistema
-import sys
-
-# Fornece funcionalidades para a medição e maniputalação de datas
-from datetime import datetime
-
-# Permite funcionalidades para o interpretador
-import sys
-
-# 
-import shutil
-
-# Possibilita a anotação de tipos indicando que uma variável, argumento ou valor de retorno deve ser uma lista.
-from typing import List, Any
-
-# 
-from pathlib import Path
-
-# Habilita o logging para retorno de mensagens de erro e informações no terminal
-import logging 
-
-# Fornece funcionalidades para a edição de cores e estilos de texto no terminal
-from colorama import init, Fore, Style
-
-# 
-from datetime import datetime
-
-# 
-from functools import wraps
-
-# 
-import inspect
-
-# Habilita o Pandas e fornece a manipulação do arquivo Excel em um DataFrame
-import pandas as pd
-
-# 
-from tabulate import tabulate as tb
+# Importação de bibliotecas atrás do __init__.py
+from __init__ import *
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 # Limpa o terminal
 os.system('cls' if os.name == 'nt' else 'clear')
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+# Carregar as variáveis de ambiente do arquivo YAML
+def load_environment_variables_from_yaml(yaml_file):
+    with open(yaml_file, 'r') as file:
+        env_vars = yaml.safe_load(file)
+        for group, variables in env_vars.items():
+            for key, value in variables.items():
+                os.environ[f"{group.upper()}_{key}"] = str(value)
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
@@ -109,12 +65,11 @@ def define_data_hora_formatada() -> datetime.strftime:
 
 # Retorna uma mensagem manual de configuração do logger
 def logger_manual(level_name: str = None) -> str:
-
     if level_name is None:
         level_name = 'info'.upper()
     else:
         level_name.upper()
-    return print(f'{define_data_hora_formatada()} - {green('INFO')} - Nível de logger configurado como {format_logging(level_name)}.')
+    return print(f'{define_data_hora_formatada()} - {green('INFO')} - Nível de logger configurado como {formatar_logger(level_name)}.')
 
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
@@ -130,7 +85,7 @@ def alert(self, message, *args, **kws):
 logging.Logger.alert = alert
 
 # Mapeia os níveis de log para cores correspondentes 
-def format_logging(levelname: str):
+def formatar_logger(levelname: str):
     colors = {
         'DEBUG': Fore.CYAN,
         'INFO': Fore.GREEN,
@@ -151,7 +106,7 @@ def configurar_logger(atributo_nome: str = __name__, level_name: str = 'info') -
         # Adiciona um filtro para adicionar o levelname formatado
         class LevelnameFormatter(logging.Filter):
             def filter(self, record):
-                record.levelname_formatted = format_logging(record.levelname)
+                record.levelname_formatted = formatar_logger(record.levelname)
                 return True
         
         # Cria e configura o logger
@@ -204,9 +159,6 @@ def limpar_terminal(bool: bool = True) -> None:
         logger.error(f'Erro ao limpar o terminal:\n{e}')
         
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
-
-# Permite a tipagem de parâmetros
-from typing import NewType, Union, List
         
 # Permite que os comandos sejam executados em segundo plano
 def executar_comandos_bash(comandos: List[str]) -> None:  # type: ignore
@@ -228,17 +180,21 @@ def formatar_dataframe(dataframe: pd.DataFrame, flag: bool=False) -> pd.DataFram
     
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# Permite a tipagem de parâmetros
-from typing import NewType, NoReturn, Callable
-
 # Finaliza o script
-def finaliza_script() -> NoReturn:
-    logger.info(f'Finalizando o script...')
-    exit()
+def finalizar_script(flag: bool = True) -> NoReturn:
+    '''
+    Finaliza o script com base no valor da flag.
     
-# Finaliza o script com erro
-def finaliza_script_com_erro() -> NoReturn:
-    logger.info(f'Finalizando o script devido a um erro.')
+    - Se a flag for True, o script é finalizado normalmente.
+    - Se a flag for False, o script é finalizado devido a um erro.
+    
+    Parâmetros:
+        flag (bool): Indica se o script está finalizando normalmente ou devido a um erro.
+    '''
+    if flag:
+        logger.info(f'Finalizando o script...')
+    else:
+        logger.info(f'Finalizando o script devido a um erro.')
     exit()
 
 # Declara um tipo extensões de arquivos (exemplo: '.csv', '.txt', '.py'...)
@@ -294,14 +250,6 @@ def configurar_arquivo_log(diretorio_do_arquivo: Path = None, fg_nome_dinamico: 
 
     except Exception as e:
         logger.error(f'Erro ao configurar o arquivo de log: {e}')
-
-def main():
-    print('Olá mundo')
-
-if __name__ == '__main__':
-    configurar_arquivo_log()
-    main()
-
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 

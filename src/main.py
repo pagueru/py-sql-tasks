@@ -1,63 +1,46 @@
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+#////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-# Permite funcionalidades para o interpretador
-import sys
+# Importação de bibliotecas atrás do __init__.py
+from __init__ import *
 
-# Permite funcionalidades para interações com o sistema
-import os
+# Importa as funcionalidades padrões do projeto
+from utils.utils import *
 
-# Obtém o nome do script sem o caminho completo
-nome_script = os.path.basename(sys.argv[0])
+# Limpa o terminal
+limpar_terminal(True)
 
-# Limpa o terminal antes de executar o script
-os.system('cls' if os.name == 'nt' else 'clear') # 'nt' para Windows e 'clear' para Linux ou macOS
+# Define se deve mostrar o log de execução das funções
+logger_execucao_funcao = 'info'
 
-# Retorna mensagem de início do script
-print(f'➔ Iniciando o script "{nome_script}" ...')
+# Configura o logger
+logger = configurar_logger(__name__, logger_execucao_funcao)
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+# Define a mensagem de nivel de logger
+logger_manual(logging.getLevelName(logger.level))
 
-# Habilita o SQL Alchemy e fornece a interação com bancos de dados relacionais
-from sqlalchemy import create_engine, text
+# Configura o arquivo de log
+configurar_arquivo_log()
 
-# Formata dados tabulares em uma variedade de estilos de tabela para exibição em consoles ou em outros contextos de texto
-from tabulate import tabulate as tb
+# Obtém o nome do script
+nome_script = Path(__file__).name
 
-# Habilita o Pandas e fornece a manipulação do arquivo Excel em um DataFrame
-import pandas as pd
+# Obtém o diretório completo do script com o nome do arquivo .py
+diretorio_completo_script_arquivo = Path(__file__).parent
 
-# Permite codificar e decodificar dados no formato .json
-import json
+# Obtém o diretório da pasta do script
+diretorio_pasta_script = Path(__file__).parent.parent
 
-# Habilita funcionalidades para buscar e manipular padrões de texto
-import re
+# Mensagem de inicialização
+logger.info(f'Iniciando o script {cyan(nome_script)} no diretório {green(diretorio_completo_script_arquivo)}.')
 
-# Habilita a manipulação de datas e horas, permitindo operações como formatação, manipulação e cálculos com datas e horas.
-from datetime import datetime
-
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
-
-# Habilita o logging para retorno de mensagens de erro e informações no terminal
-import logging
-
-def criar_logger(): 
-    try:
-        logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO) # Configurar o logger
-        logger = logging.getLogger(__name__) # Criar um objeto logger
-        logger.setLevel(logging.INFO) # Configurar o nível de log
-        logger.info(f'Configuração do Logger executada com sucesso.')
-    except Exception as e:
-        logger.error(f'Erro ao criar o logger:\n{e}')
-    return logger
-
-logger = criar_logger()
+exit()
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+#////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
 
 # Carrega as variáveis encontradas no arquivo .env como variáveis de ambiente 
-from os import getenv
-from dotenv import load_dotenv
-
 caminho_dotenv = os.path.join(os.path.dirname(__file__), 'tokens.env') # Caminho completo do arquivo 'tokens.env' no diretório
 load_dotenv(caminho_dotenv) # Execução do carregamento
 
@@ -101,6 +84,8 @@ verifica_variaveis_dotenv(
     'DELIMITADOR'
 )
 
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+#////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 # Define o o nome do arquivo dinâmico para a exportação
@@ -317,9 +302,11 @@ obter_consultas_sql(caminho_arquivo=caminho_arquivo_sql, nome_arquivo_exportacao
 sys.exit()
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+#////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 # Define a main
-def main():
+def main() -> None:
         
     # Define a consulta
     obter_consultas_sql(caminho_arquivo_sql,'exportacao_teste')
@@ -343,7 +330,12 @@ def main():
     exportar_dataframe(df=df, caminho_exportacao=arquivo_csv, codificacao=codificacao, qualificador=qualificador, delimitador=delimitador)
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+#////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# Executa a main
+# Executa o script chamando a função main
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except Exception as e:
+        logger.error(f'Erro durante a execução do script: {e}')

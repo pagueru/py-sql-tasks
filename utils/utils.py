@@ -3,20 +3,49 @@
 # Importação de bibliotecas atrás do __init__.py
 from __init__ import *
 
-#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
-
 # Limpa o terminal
 os.system('cls' if os.name == 'nt' else 'clear')
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 # Carregar as variáveis de ambiente do arquivo YAML
-def load_environment_variables_from_yaml(yaml_file):
-    with open(yaml_file, 'r') as file:
-        env_vars = yaml.safe_load(file)
-        for group, variables in env_vars.items():
-            for key, value in variables.items():
-                os.environ[f"{group.upper()}_{key}"] = str(value)
+def carrega_yaml(arquivo_yaml: Path) -> dict:
+    '''
+    Carrega as variáveis de ambiente do arquivo .yaml.
+
+    Parâmetros:
+        arquivo_yaml (Path): caminho do arquivo .yaml.
+    '''
+    with open(arquivo_yaml, 'r') as arquivo:
+        dados_yaml = yaml.safe_load(arquivo)
+    for grupo, variaveis in dados_yaml.items():
+        for chave, valor in variaveis.items():
+            os.environ[f'{grupo.upper()}_{chave.upper()}'] = str(valor)
+        return dados_yaml
+
+def lista_variaveis_yaml(arquivo_yaml: Path) -> list:
+    with open(arquivo_yaml, 'r') as arquivo:
+        dados_yaml = yaml.safe_load(arquivo)
+        
+        variaveis = []
+        for chave, valor in dados_yaml.items():
+            if isinstance(valor, dict):
+                for sub_chave, sub_valor in valor.items():
+                    if sub_chave.isupper():
+                        variaveis.append(sub_chave)
+            else:
+                if chave.isupper():
+                    variaveis.append(chave)
+                
+        return variaveis
+
+# Verifica se todas as variáveis estão definidas
+def valida_variaveis(*args):
+    for variaveis in args:
+        if os.getenv(variaveis) is None:
+            logging.info(f'A variável de ambiente "{variaveis}" não foi definida. Verifique o arquivo .env.')
+            sys.exit()
+    logger.info('Todas as variáveis de ambiente foram definidas.')
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
@@ -71,18 +100,25 @@ def logger_manual(level_name: str = None) -> str:
         level_name.upper()
     return print(f'{define_data_hora_formatada()} - {green('INFO')} - Nível de logger configurado como {formatar_logger(level_name)}.')
 
-
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# Define um novo nível de log personalizado
-logging.addLevelName(25, 'ALERT')
-
-# Define o método para chamar o novo nível
-def alert(self, message, *args, **kws):
-    self._log(25, message, args, **kws) 
+# Cria um novo nível de log personalizado
+def define_logger_personalizado(nome_log: str, nivel: int):
     
-# Vincula o novo nível de log ao objeto logging
-logging.Logger.alert = alert
+    # Define um novo nível de log personalizado
+    logging.addLevelName(nivel, nome_log.upper())
+    
+    def funcao_log(self, message: str, *args, **kws):
+        if self.isEnabledFor(nivel):
+            self._log(nivel, message, args, **kws) 
+    
+    # Define o nome da função dinamicamente
+    funcao_log.__name__ = nome_log.lower()
+    
+    # Vincula o novo nível de log ao objeto Logger
+    setattr(logging.Logger, nome_log.lower(), funcao_log)
+
+define_logger_personalizado('ALERT', 25)
 
 # Mapeia os níveis de log para cores correspondentes 
 def formatar_logger(levelname: str):

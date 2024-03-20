@@ -1,20 +1,8 @@
-# Define os acesso ao banco de dados
+
+# Configurações de conexão
 banco_de_dados:
   SERVER_NAME: 'RAPHAEL-PC'
   DATABASE_NAME: 'dbLilith'
   USERNAME: 'sa'
   PASSWORD: '123'
-  TRUSTED_CONNECTION: true
-
-# Define o caminho da exportação
-exportacao:
-  NOME_ARQUIVO: 'exportacao'
-  DIRETORIO_ARQUIVO: 'C:\\Users\\rapha\\Desktop'
-  CAMINHO_JSON: 'C:\\Users\\rapha\\Desktop\\consultas_extracao.json'
-  CAMINHO_SQL: 'C:\\Users\\rapha\\Desktop\\consultas_extracao.sql'
-
-# Define as configurações de codificação do .csv
-csv:
-  CODIFICACAO: 'utf-8'
-  QUALIFICADOR: '"'
-  DELIMITADOR: ';'
+  TRUSTED_CONNECTION: true  # Define o tipo de conxão (False = Autenticação do Windows; True = Autenticação com usuário e senha)

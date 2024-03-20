@@ -133,6 +133,10 @@ celerybeat.pid
 **/*.vscode
 **/*.yml
 **/*.yaml
+*./env
+*./vscode
+*./yml
+*./yaml
 env/
 venv/
 ENV/

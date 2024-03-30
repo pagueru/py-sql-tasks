@@ -1,0 +1,1387 @@
+ID_TRANSACAO,DATA,TIPO,DESCRICAO,NEW,VALOR
+dadfa601-c886-4646-9e45-0d86a24384ec,2019-10-29,Outras transações,Transações de serviços da sua conta digital,Transações de serviços da sua conta digital,21.67
+acba5dfa-b379-4245-9f68-379d3cf8c723,2019-11-02,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-11.99
+29146466-17bd-4099-8a9a-deb02c2c1876,2019-11-05,Transferência Recebida,Transferência Recebida,Transferência Recebida,100.0
+b2ee976e-5bcb-492a-a875-24de2d6587a7,2019-11-06,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-11.99
+5a8f6f41-8342-46c9-ab44-aecd07dc026c,2019-11-07,Transferência Recebida,Transferência Recebida,Transferência Recebida,300.0
+d62a7138-327f-479c-8fde-9fcf7c9545da,2019-11-09,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-24.9
+dc3f4e31-4974-4d5b-8f50-9234cafe27d7,2019-11-12,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-12.99
+309570da-1935-4e49-9690-25534c7f3c94,2019-11-13,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-12.99
+f475c8b1-9663-42cd-bf74-2057a45733e3,2019-11-15,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.02
+fccb749d-4f40-41f6-961e-51c7bc3bddf6,2019-11-20,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-100.0
+af24a61f-5035-4b71-97a4-1f23eb130c5a,2019-11-22,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-100.0
+da809c6e-012e-435a-8968-cce0a42d9e7a,2019-11-28,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-39.99
+54164a07-02e3-4722-bc66-27e83a007f33,2019-11-30,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-50.0
+9a8e4b93-9dbf-44c5-873e-b3d67c3f3157,2019-12-02,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-56.84
+fc821178-06a5-4461-b40c-d3d1050149b8,2019-12-09,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-144.47
+161b872b-267b-4982-be46-cd2dc47cef5d,2019-12-09,Transferência Recebida,Transferência Recebida,Transferência Recebida,144.47
+e0086360-3339-11ea-bd29-c3f17f8dbbb4,2020-01-09,Outras transações,Transações de serviços da sua conta digital,Transações de serviços da sua conta digital,20.0
+2bd63fc5-de24-4565-b483-ecd0a0ae68bf,2020-01-13,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-20.0
+365187c6-8ec2-4d09-9a6d-d5b104bb70bf,2020-03-02,Transferência Recebida,Transferência Recebida,Transferência Recebida,100.0
+111a4183-a593-4ef0-8e11-1d7b5c503447,2020-03-05,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-100.0
+152a45a9-b639-4d03-893f-e564f7bd51d3,2020-03-17,Transferência Recebida,Transferência Recebida,Transferência Recebida,300.0
+ca2c5f0d-ee5f-4101-b4aa-9585c1a1974b,2020-03-21,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-100.0
+d52032db-e15c-4bbb-b035-ba5075c04515,2020-04-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.46
+3b15f951-0faa-405b-a18a-def347f4be87,2020-05-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.36
+14f5e0b4-905a-4f94-bd3c-832a2ce2f520,2020-05-20,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-17.5
+9539183f-4f45-48f4-bceb-7b83fb96ca36,2020-05-25,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-11.99
+2555bbf5-d304-4e1e-82d8-aac93a43c29d,2020-05-27,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-32.5
+541384e2-eba2-4333-964a-24b47a672574,2020-05-28,Transferência Recebida,Transferência Recebida,Transferência Recebida,500.0
+1d9f0fcc-8a0f-475a-819a-2b4d89206dec,2020-05-29,Cartão da Conta,Microsoft*store          Sao Paulo    Br,Microsoft Store,-1.0
+6440d24b-662e-4b36-b6fb-2a10cedfca9f,2020-05-30,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-34.0
+18a7a6ad-be72-45e4-8319-720145afb95d,2020-05-30,Cartão da Conta,Hering Basica            Conselheiro Lbr,Hering Basica,-99.99
+5643102d-75a2-4086-abf5-38e288ceec4a,2020-06-01,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-17.01
+13f39c74-1b0d-4d49-8035-9b3f79a38c72,2020-06-06,Cartão da Conta,Supermercado Brasil Lt   Conselheiro Lbr,Supermercado Brasil Lt,-135.62
+967087e8-0a56-424b-a195-3b4839aecae4,2020-06-06,Cartão da Conta,Nacional Tubos E Conex   Conselheiro Lbr,Nacional Tubos E Conex,-22.8
+3f61195d-4895-4ea8-9e06-9106b8cff2cd,2020-06-08,Transferência Recebida,Transferência Recebida,Transferência Recebida,300.0
+292aae3c-4dcb-4922-a9a0-a55b467a1984,2020-06-08,Cartão da Conta,Marshmallow              Conselheiro Lbr,Marshmallow,-31.8
+8feb4517-2656-4ebc-91f7-2b25c1f9f9aa,2020-06-13,Cartão da Conta,Microsoft*store          Sao Paulo    Br,Microsoft Store,-97.47
+0f39836f-1f31-4f89-85d3-0af8503eea37,2020-06-14,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-19.5
+e7a80190-eed6-4b04-a32b-4230d4a2d450,2020-06-15,Cartão da Conta,Mojang                   Stockholm    Se,Mojang,-151.62
+962527a9-9a9e-40cc-9e99-e3167fbb901b,2020-06-15,Cartão da Conta,Mojang                   Stockholm    Se,Mojang,-151.62
+09613b53-5ef5-4881-b10c-9e2078a23e7f,2020-06-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.26
+fd77ef3e-08d8-4a54-90bb-39851d2aeba3,2020-06-18,Transferência Recebida,Transferência Recebida,Transferência Recebida,300.0
+dbc887d0-8dec-4511-9301-0ef35e62ecf7,2020-06-20,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-28.9
+964b5474-3110-4f54-a8f3-e70f6f2b4009,2020-06-23,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-19.5
+0fcca159-7fe5-4f94-88a0-1dc5ebf24696,2020-06-27,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-18.9
+0a7cfc39-b916-4de7-b8b9-674b63289fd1,2020-06-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+e0fa2e28-e443-4808-a0bd-fd5d649bcdf7,2020-06-29,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-19.5
+e7fa1c5a-a49d-4a18-ac79-7220550ec7ac,2020-07-01,Cartão da Conta,Microsoft*subscription   Sao Paulo    Br,Microsoft*subscription,-13.99
+d33c1c06-bfdf-4061-a5ee-be14ce58719f,2020-07-02,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-18.99
+51ea9098-5b61-462e-ae80-8eacb06b232f,2020-07-05,Cartão da Conta,Mercpag*minhaotica       Osasco       Br,Mercpag*minhaotica,-160.2
+05a2eee0-3265-4565-b5a3-a5234c837901,2020-07-09,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-16.95
+4c9a7c5c-7c06-4a38-aab2-5a4765b0ac68,2020-07-09,Transferência Recebida,Transferência Recebida,Transferência Recebida,300.0
+93803c04-ce91-45c8-bf5d-7a2d9b30e156,2020-07-10,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-54.9
+826fdccd-a7ad-48c4-ae34-374446af2d30,2020-07-15,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-105.09
+415374e4-2861-46d9-9d49-36efed0f54d5,2020-07-16,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-81.43
+826fdccd-a7ad-48c4-ae34-374446af2d30,2020-07-16,Estorno Cartão da Conta,Drogaria Online          Sao Paulo    B,Drogaria Online,105.09
+3c1b4504-2a90-44c4-a3a7-6620baa1e53c,2020-07-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.19
+415374e4-2861-46d9-9d49-36efed0f54d5,2020-07-17,Estorno Cartão da Conta,Drogaria Online          Sao Paulo    B,Drogaria Online,81.43
+69645a8e-ea11-4901-a4cf-a4eef62aae76,2020-07-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.08
+1fedda00-3b4a-4525-8f43-339486a16f61,2020-07-21,Cartão da Conta,Steamgames.com 4259522985hamburg      De,Steam,-9.99
+ec4c3cce-ff31-4490-8d46-832b0a754277,2020-07-21,Cartão da Conta,Steamgames.com           425-952-2985 De,Steam,-2.0
+1fedda00-3b4a-4525-8f43-339486a16f61,2020-07-25,Cartão da Conta - Ajuste a Débito,Valor Principal,Valor Principal,-0.88
+a5730844-6ebd-439a-a03b-575ffa8a3c06,2020-07-30,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-16.95
+ec4c3cce-ff31-4490-8d46-832b0a754277,2020-07-30,Estorno Cartão da Conta,Steamgames.com           425-952-2985 D,Steam,2.0
+691a3a64-bb1d-409b-ae25-7ad02bbf0204,2020-07-31,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-54.9
+321d0906-4a4f-4843-b377-1210f8230daa,2020-07-31,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-1.0
+f273de4b-48c5-431c-8551-83c1b73810de,2020-07-31,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-51.34
+89f09c51-8b37-43ec-8a97-f93937e22f1e,2020-08-05,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-16.95
+ec887ba2-af4a-4d30-b5bb-53ec306f26be,2020-08-06,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-36.5
+d12ddb50-d8bc-4186-a376-3e4a97b9d979,2020-08-06,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-18.9
+9bd54a87-5c0c-46ca-a207-a9fee13d467d,2020-08-10,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-19.5
+b1c58ad3-81cb-40b7-88cd-1f7656b87d1d,2020-08-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.15
+1ca15e66-8f83-4320-beca-3aa25fc00d0a,2020-08-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.02
+0ce7641a-75df-4418-a44d-e692e8029e74,2020-08-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.09
+2ef6bad0-c3b8-4dc9-8a60-741b7f4171ae,2020-08-26,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-1.0
+170656c3-8153-4466-905f-092ab4288e49,2020-08-28,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-33.25
+a61765e4-34e7-4602-8ea8-f672aaba7e8f,2020-09-01,Transferência Recebida,Transferência Recebida,Transferência Recebida,500.0
+f8c83e90-0b38-4b48-8b5a-54bd6faba1ff,2020-09-03,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-19.5
+9710b711-d218-44a7-9b91-3422a8e529d0,2020-09-03,Cartão da Conta,Ec*viacaosandra          Osasco       Br,Viação Sandra,-41.35
+75142746-7dc1-4341-81b3-49a4bf5ef218,2020-09-04,Cartão da Conta,Uber        * *trip      Sao Paulo    Br,Uber,-67.82
+18f46ead-c075-4b45-bea2-4f1ad4a12bef,2020-09-05,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-49.0
+8f6d02f0-4b46-41e1-ad3c-bf72ca9c0930,2020-09-05,Cartão da Conta,Uber        * *trip      Sao Paulo    Br,Uber,-5.5
+3f5f0ce0-5d25-4729-aff3-a4411a44fdb8,2020-09-07,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-59.89
+5ac11eac-ca0b-44d4-b01c-18bfed0b0ac7,2020-09-10,Cartão da Conta,Uber        * *trip      Sao Paulo    Br,Uber,-54.85
+8c00a913-b328-4533-9e10-05bfc5a43b2d,2020-09-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.12
+1bd397d4-72c4-4790-a4eb-4f8d34844d64,2020-09-12,Estorno Cartão da Conta,Crunchyroll              Sao Paulo    B,Crunchyroll,1.0
+1bd397d4-72c4-4790-a4eb-4f8d34844d64,2020-09-12,Cartão da Conta,Crunchyroll              Sao Paulo    Br,Crunchyroll,-1.0
+7e721548-cdf9-4d05-95ad-6a31956d3b02,2020-09-14,Transferência Enviada,Transferência entre contas PagBank,Transferência Entre Contas,-57.9
+2dfcb500-5318-4eb2-8edc-b7ab99b9ccdd,2020-09-15,Transferência Enviada,Transferência entre contas PagBank,Transferência Entre Contas,-50.0
+778ec79b-b397-4412-b48a-75728800bedf,2020-09-16,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-26.9
+5b6160e9-cb9d-45e2-a29d-4b11924a805e,2020-09-16,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-36.0
+cc5ebb3d-c71e-47e4-a011-1c6bd1552459,2020-09-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.02
+8a436e4f-f472-49b3-859a-6d5a2834af0d,2020-09-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.04
+eb0b062f-5a9a-435a-8752-675d0ae0d687,2020-09-18,Estorno Cartão da Conta,Uber        * *trip      Sao Paulo    B,Uber,5.95
+eb0b062f-5a9a-435a-8752-675d0ae0d687,2020-09-18,Cartão da Conta,Uber        * *trip      Sao Paulo    Br,Uber,-5.95
+3a85bbe9-2aef-44de-922a-29b3d8d4028e,2020-09-19,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-19.8
+22e70336-c08b-4955-96fa-f3ab14ecae06,2020-09-19,Estorno Cartão da Conta,Uberbr Uber * Pending    Sao Paulo    B,Uber,8.06
+22e70336-c08b-4955-96fa-f3ab14ecae06,2020-09-19,Cartão da Conta,Uberbr Uber * Pending    Sao Paulo    Br,Uber,-8.06
+153809e6-f0c0-4088-a189-6c4f7ecfeb36,2020-09-21,Estorno Cartão da Conta,Amazonprimebr            Sao Paulo    B,Amazon Prime,1.39
+153809e6-f0c0-4088-a189-6c4f7ecfeb36,2020-09-21,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-1.39
+70c8dea6-8124-4976-94ba-671c2c4e3a7f,2020-09-21,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-16.95
+15f579bb-f0c3-4b80-93c3-adf529b380d1,2020-09-21,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-23.12
+aad9dc42-6722-414a-a55d-aec6eb929c5c,2020-09-22,Cartão da Conta,Steamgames.com           425-952-2985 De,Steam,-5.3
+fca232b3-12c0-490e-91b2-599c10a35f75,2020-09-23,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-30.4
+aad9dc42-6722-414a-a55d-aec6eb929c5c,2020-09-28,Cartão da Conta - Ajuste a Débito,Steam Purchase           Seattle      De,Steam,-0.29
+a7fd429c-392b-4235-b2c1-2b4f648d8d99,2020-10-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.12
+452ae9ce-5919-40eb-a3da-6674d80ba3ee,2020-10-02,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-54.9
+4c681cb1-9a94-4478-a6e0-6bd288d4af46,2020-10-16,Transferência Recebida,Transferência Recebida,Transferência Recebida,1000.0
+8cd20427-0bad-4ad6-92f0-bfc8962d26b1,2020-10-17,Cartão da Conta,Azul   *hbtu5fcoelho     Barueri      Br,Azul Linhas Aéreas Brasileiras,-447.61
+c7eddf02-a4c3-42d5-b3f5-939605e005ab,2020-10-18,Cartão da Conta,Steamgames.com 4259522985hamburg      De,Steam,-9.24
+5d919878-2021-4436-a200-c1579b044e00,2020-10-21,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-32.13
+0b32e027-2c74-497b-b3c2-18627701e000,2020-10-21,Estorno Cartão da Conta,Picpay *verificacao      Vitoria      B,Verificação PicPay,2.74
+0b32e027-2c74-497b-b3c2-18627701e000,2020-10-21,Cartão da Conta,Picpay *verificacao      Vitoria      Br,Verificação PicPay,-2.74
+194b9bea-7aaa-4259-a42e-c28aee9bbb97,2020-10-22,Cartão da Conta,Mihoyo Limited           Hong Kong    Hk,Mihoyo Limited,-18.9
+c7eddf02-a4c3-42d5-b3f5-939605e005ab,2020-10-22,Cartão da Conta - Ajuste a Débito,Steamgames.com 4259522985hamburg      De,Steam,-0.5
+194b9bea-7aaa-4259-a42e-c28aee9bbb97,2020-10-25,Cartão da Conta - Ajuste a Débito,Mihoyo Limited           Hong Kong    Hk,Mihoyo Limited,-1.09
+c8a5ac82-e488-43a5-97c4-d54ddd5fde4b,2020-10-30,Cartão da Conta,Steamgames.com 4259522985hamburg      De,Steam,-29.95
+eb00a1aa-907f-4884-946b-4b86d5417750,2020-10-30,Cartão da Conta,Steamgames.com           425-952-2985 De,Steam,-29.95
+05082d23-f4e4-43ce-9ed1-c8e0b761e8b9,2020-10-31,Cartão da Conta,Steamgames.com           425-952-2985 De,Steam,-28.49
+76121dd7-a5f6-4521-a342-45d65c9442d2,2020-10-31,Cartão da Conta,Steamgames.com 4259522985hamburg      De,Steam,-28.49
+72f23818-6f63-4a92-b54c-a866be4de493,2020-11-01,Cartão da Conta,Picpay *jz7 Pagamento    Sao Paulo    Br,Picpay *jz7 Pagamento,-33.25
+ef9b3d1e-1761-48d6-8f00-6b9ae4ce1e46,2020-11-01,Cartão da Conta,Steamgames.com           425-952-2985 De,Steam,-4.13
+db0887b2-10f8-4389-ba8b-e2d22cb51664,2020-11-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+468eab72-e441-492a-879f-b642fcef0eef,2020-11-03,Cartão da Conta,Mercpago    *centertv    Osasco       Br,Mercado Livre,-100.9
+47c53a3e-5db1-40bf-a7f9-9c5986355912,2020-11-03,Cartão da Conta,Aiqfome Ltda             Maringa      Br,Aiqfome,-25.4
+c8a5ac82-e488-43a5-97c4-d54ddd5fde4b,2020-11-03,Cartão da Conta - Ajuste a Débito,Steamgames.com 4259522985hamburg      De,Steam,-1.67
+76121dd7-a5f6-4521-a342-45d65c9442d2,2020-11-04,Cartão da Conta - Ajuste a Débito,Steamgames.com 4259522985hamburg      De,Steam,-1.69
+05082d23-f4e4-43ce-9ed1-c8e0b761e8b9,2020-11-05,Cartão da Conta - Ajuste a Débito,Steam Purchase           Seattle      De,Steam,-1.69
+eb00a1aa-907f-4884-946b-4b86d5417750,2020-11-05,Cartão da Conta - Ajuste a Débito,Steam Purchase           Seattle      De,Steam,-1.67
+cf746231-3a03-4cf0-835d-2d6d714fd9ad,2020-11-06,Transferência Recebida,Transferência Recebida,Transferência Recebida,1500.0
+ef9b3d1e-1761-48d6-8f00-6b9ae4ce1e46,2020-11-06,Cartão da Conta - Ajuste a Débito,Steam Purchase           Seattle      De,Steam,-0.23
+f118cc37-1c57-4e57-a17d-c6b6fcdbf7f0,2020-11-07,Cartão da Conta,Dafiti *4505455541       Sao Paulo    Br,Dafiti,-229.99
+3cc9dbd5-01e3-4d29-9595-266a2dd9a0b9,2020-11-07,Estorno Cartão da Conta,Ponto Frio.com           Rio De Janeirb,Ponto Frio,1.0
+3cc9dbd5-01e3-4d29-9595-266a2dd9a0b9,2020-11-07,Cartão da Conta,Ponto Frio.com           Rio De Janeirbr,Ponto Frio,-1.0
+b47bd4ff-4b2e-4028-93a4-7a69e61f538a,2020-11-07,Cartão da Conta,Ponto Frio               Campo Bom    Br,Ponto Frio,-65.01
+a43f5950-ec86-4719-9198-2c0358a9ec55,2020-11-13,Cartão da Conta,Vivo Easy*adesao         Sao Paulo    Br,Vivo Easy,-299.99
+83b082e9-64f3-403b-8a48-3df15840164c,2020-11-13,Estorno Cartão da Conta,Vivo Easy*gratis         Sao Paulo    B,Vivo Easy,1.0
+83b082e9-64f3-403b-8a48-3df15840164c,2020-11-13,Cartão da Conta,Vivo Easy*gratis         Sao Paulo    Br,Vivo Easy,-1.0
+fd21d7bf-02dd-47e5-bb9f-5de976718c26,2020-11-13,Estorno Cartão da Conta,Vivo Easy*gratis         Sao Paulo    B,Vivo Easy,1.0
+fd21d7bf-02dd-47e5-bb9f-5de976718c26,2020-11-13,Cartão da Conta,Vivo Easy*gratis         Sao Paulo    Br,Vivo Easy,-1.0
+0effa238-cb82-4342-b75b-6e7d14df4e7a,2020-11-13,Estorno Cartão da Conta,Vivo Easy*gratis         Sao Paulo    B,Vivo Easy,1.0
+0effa238-cb82-4342-b75b-6e7d14df4e7a,2020-11-13,Cartão da Conta,Vivo Easy*gratis         Sao Paulo    Br,Vivo Easy,-1.0
+d7a6efc5-a78b-4b2e-b166-beb8f1af4c36,2020-11-15,Cartão da Conta,Aiqfome*aiqfome Ltda     Maringa      Br,Aiqfome,-35.7
+99bf31ce-8d2d-40de-b000-ee6898ba1354,2020-11-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.29
+b0ad3b05-09c4-4182-8d10-c0392763f1c0,2020-11-19,Cartão da Conta,Nike Com Br              Embu         Br,Nike Com Br,-55.99
+e4ff3894-a4f2-4f3e-9233-2ba48bfe4cfd,2020-11-19,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-8.39
+8f4666f4-7337-4745-aecf-c0104447091d,2020-11-19,Cartão da Conta,Ponto Frio               Campo Bom    Br,Ponto Frio,-35.09
+8f4666f4-7337-4745-aecf-c0104447091d,2020-11-20,Estorno Cartão da Conta,Ponto Frio               Campo Bom    B,Ponto Frio,35.09
+e3da6016-0ad6-41cd-aec9-2e37b5a846ea,2020-11-26,Cartão da Conta,Aiqfome*aiqfome Ltda     Maringa      Br,Aiqfome,-12.8
+da3fda55-b373-414e-8fe3-dee8f356afb3,2020-11-27,Cartão da Conta,Aiqfome*aiqfome Ltda     Maringa      Br,Aiqfome,-21.58
+c3db94dd-defe-45b0-93c5-929d973b04bb,2020-11-27,Cartão da Conta,Magazine Luiza Magazinelufranca       Br,Magazine Luiza Magazinelufranca       Br,-109.9
+3c1b5325-585c-44ca-b83d-6ef6ad89a454,2020-12-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.05
+b2404c3d-27d8-4fc3-a671-260a82747c61,2020-12-09,Cartão da Conta,Mercpago*clickbus        Osasco       Br,ClickBus,-246.83
+52e30271-3f68-4516-b7dc-56e8d270b3db,2020-12-10,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,499.99
+1f93d8fe-7c18-49c6-b0df-260bb403a2ec,2020-12-10,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,0.01
+fbe5e33b-d9d1-4548-8253-57d7632fd814,2020-12-10,Cartão da Conta,Mercpago*clickbus        Osasco       Br,ClickBus,-36.72
+33571bfb-d1db-451c-aa40-04fcd7d4b505,2020-12-16,Estorno Cartão da Conta,99 *99*                  Sao Paulo    B,99app,1.0
+33571bfb-d1db-451c-aa40-04fcd7d4b505,2020-12-16,Cartão da Conta,99 *99*                  Sao Paulo    Br,99app,-1.0
+5c05dfd3-957c-48b8-a4b1-fee0ffa3c979,2020-12-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+44eacca4-9eb0-4afd-ac40-a4fef42fe20c,2020-12-21,Cartão da Conta,Uber        *trip        Sao Paulo    Br,Uber,-10.19
+6f9cd5cc-cd2b-4d2f-b642-3f654e84679c,2020-12-22,Cartão da Conta,Uber        *trip        Sao Paulo    Br,Uber,-16.87
+3e9185f0-6480-4baf-b2d8-e70de1e6017d,2020-12-22,Cartão da Conta,99 *99* Pop 22dez 16h20misao Paulo    Br,99app,-12.5
+71fd5c64-8976-40b5-b373-a516c08b836d,2020-12-22,Estorno Cartão da Conta,Uber* Pending            Www.uber.com.b,Uber,5.82
+71fd5c64-8976-40b5-b373-a516c08b836d,2020-12-22,Cartão da Conta,Uber* Pending            Www.uber.com.br,Uber,-5.82
+5e259835-c0f7-41f9-8e87-e8d887860bdb,2020-12-23,Cartão da Conta,99 *99* Pop 23dez 22h04misao Paulo    Br,99app,-14.1
+3d505d0d-8479-4b84-9950-39b9a407a6d5,2020-12-23,Cartão da Conta,99 *99* Pop 23dez 14h33misao Paulo    Br,99app,-5.0
+6a0931b8-7e9f-4fae-8014-6b61bfef2510,2020-12-23,Cartão da Conta,99 *99* Pop 23dez 13h41misao Paulo    Br,99app,-9.2
+ec519eb3-013d-40e1-ab5d-03f9200a0201,2020-12-23,Cartão da Conta,99 *99* Pop 23dez 12h31misao Paulo    Br,99app,-7.2
+f5cb371a-df3f-4220-8df2-6389b9054d9c,2020-12-24,Estorno Cartão da Conta,Uber        *trip        Sao Paulo    B,Uber,5.66
+f5cb371a-df3f-4220-8df2-6389b9054d9c,2020-12-24,Cartão da Conta,Uber        *trip        Sao Paulo    Br,Uber,-5.66
+924468d1-9461-4a9c-b55f-57f390932b1b,2021-01-02,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-75.0
+c6dc0702-6f31-4394-b057-249e7d1c95a7,2021-01-05,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-66.94
+9d37697d-0453-40a0-befa-9355393b5c2f,2021-01-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.75
+b9909d2b-418b-4b3d-a1d1-937372fb3329,2021-01-07,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-57.39
+9c1a3f72-36d1-492e-9e9d-bc24deee0a88,2021-01-10,Cartão da Conta,Ifood       *ifood       Osasco       Br,iFood,-75.98
+56f9e85c-f45f-4df5-82a6-e65cbb0deb60,2021-01-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.34
+7cd5e738-6578-4ccd-8ea9-415366f37c45,2021-01-11,Cartão da Conta,Uber* Pending            Www.uber.com.br,Uber,-5.66
+495004d9-2515-4a4a-8ad3-fe513829ce9d,2021-01-24,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-26.02
+843e0e86-5bf5-4043-8de3-f2a1c00cc721,2021-01-28,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-18.82
+d481c9b7-5a52-4565-acb2-79ee63a3c182,2021-02-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.68
+524fc4dc-5946-4acf-b505-fcb9cc6d7f75,2021-02-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.19
+a34fde37-8aa2-4bf5-83d3-dc5c5a99f783,2021-03-02,Cartão da Conta,Aiqfome*comida Mineira Ltconselheiro Lbr,Aiqfome,-17.49
+b06b5d0d-1717-468d-a6cb-c9c67f9016ed,2021-03-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.65
+28c41ae2-c552-44cd-a472-027d33b00995,2021-03-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.16
+a67f58e4-7249-445d-8926-d76c5e8712de,2021-03-11,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-40.8
+0370d678-984d-4951-ac7d-8a4c331b5f97,2021-03-16,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-18.9
+1a78723c-0fe9-4632-a344-9a623c59d2b2,2021-03-17,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-13.99
+93e3930f-935e-4cf6-8341-1817545ecf4a,2021-03-18,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-17.9
+0724f69b-9a0f-44d1-ad7c-e948fdd2abe6,2021-03-25,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-4.34
+63377ec4-265b-4de1-8586-980abd44e4bf,2021-03-27,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-17.9
+92960787-9701-427d-ab8e-5c649eb1cfdf,2021-03-27,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-6.61
+15653a39-8abc-4ddd-b520-fbc6ced04d67,2021-03-31,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-17.9
+0adcc986-ac3a-4e0f-b02f-0191e58de031,2021-04-03,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-12.99
+571b3636-f0b7-4b6e-b870-122557e87444,2021-04-04,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-28.0
+986ec034-8337-4b82-957a-9d7e284801fc,2021-04-06,Cartão da Conta,99 *99* Pop 06abr 09h49misao Paulo    Br,99app,-5.8
+70c87c06-4711-49bf-984a-d9e2147c339b,2021-04-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.9
+1cc6201b-4428-4537-aa2b-fe960a992751,2021-04-08,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-11.8
+49ed4eb6-d3bc-4dee-9942-d51113e1adaf,2021-04-09,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-13.0
+bc5b7265-075b-44f3-8f2d-038537886156,2021-04-12,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-20.4
+b54ddb39-9825-4c93-ae39-df256a5153c6,2021-04-12,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-13.0
+fb3c560d-bac9-4091-a72e-1566c243e954,2021-04-14,Cartão da Conta,Aiqfome*hans Maxwell Diasconselheiro Lbr,Aiqfome,-9.1
+10fe58d2-7b1c-4bb3-aab2-fb08ab046c13,2021-04-16,Cartão da Conta,Aiqfome*kleber Thadeu Figconselheiro Lbr,Aiqfome,-12.75
+b42c1e3d-a943-41bb-aa37-8d2d57177741,2021-04-17,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-16.13
+b5920c10-5870-40df-87a5-c637f6529985,2021-04-22,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-33.7
+2e1e18bd-5c0d-44b6-a09b-742e3c1edfd7,2021-04-22,Pix enviado,Transferência Pix,Transferência Pix,-109.99
+12afce6f-9103-49da-b19c-226cc3635e5e,2021-04-30,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-24.03
+f4f62e7d-d1a9-4f91-8ace-2cbddd85d392,2021-04-30,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-34.29
+a8e1cba9-53da-4825-8eba-ff80992bea39,2021-04-30,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-18.95
+3e153c95-fc16-4b3b-b7b1-ab08fa6d5f4e,2021-05-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.35
+f4769505-a379-43cc-93f9-794ffd69249a,2021-05-09,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1966.89
+c97639c6-b434-4a26-ae32-da6a3172b0f6,2021-05-10,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-2000.0
+40e5c963-aafc-4cda-8f2b-e087ac1054ed,2021-05-12,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-47.49
+393fc6ab-a2d2-4839-8419-817c3a67cc4b,2021-05-17,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1500.0
+7892f6c5-156e-4374-8d4d-75c090c08a05,2021-05-21,Pix enviado,Transferência Pix,Transferência Pix,-1629.43
+89ac94a2-77e8-4789-9b60-442cb8f4544a,2021-05-26,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-43.58
+ce39554b-5f47-4e7e-9c26-6d87d28cfd8c,2021-05-26,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,43.58
+616b2232-524b-4962-a888-0476c426c49d,2021-06-05,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-34.5
+7d36a032-8cb3-45be-8882-e40abf25640e,2021-06-05,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,34.5
+74d1eb2f-ff9e-4113-94f7-d6d0ec9796ba,2021-06-10,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-2000.0
+05eaa7ee-e7b5-4991-90a2-019075d65d04,2021-06-10,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,3000.0
+4f439d2a-b7b9-4fe9-8cdc-b017d9b4797a,2021-06-11,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+19c95f51-6172-4c45-88a6-e60d10e13472,2021-06-11,Cartão da Conta,99app       *99app       Sao Paulo    Br,99app,-9.5
+e1a7cea7-8fc3-437a-8812-172c47d0ce8d,2021-06-11,Cartão da Conta,99app       *99app       Sao Paulo    Br,99app,-10.4
+6ecec585-0700-4863-a45f-2a2755cd656b,2021-06-18,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-19.99
+f4e30a26-70d3-4fbb-bd39-8b00a266ed7e,2021-06-18,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-36.54
+015a5841-a0ac-40a7-907e-b00b2e13d497,2021-06-18,Cartão da Conta,99app       *99app       Marilia      Br,99app,-5.8
+e20c3713-9223-418c-a015-362f1567f404,2021-06-21,Pix enviado,Transferência Pix,Transferência Pix,-500.0
+16b975aa-74d2-4182-8385-244d1a512087,2021-06-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+12700ec1-4bd2-4b60-a15e-d1ba24f06333,2021-06-24,Cartão da Conta,Pag*boacompra            Sao Paulo    Br,Pag*boacompra,-99.95
+fb2678a7-0c2e-4ef6-9aa4-320bdb78b205,2021-06-26,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-34.5
+fc71a2f1-48f1-4003-b0a8-dcf87e45754e,2021-06-29,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-26.44
+80f13c5f-90f5-404d-ad08-e94b6eef86f1,2021-07-01,Pix enviado,Transferência Pix,Transferência Pix,-100.5
+a8948761-3e8f-453d-afb8-a9ab531d918d,2021-07-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.36
+195a71db-4c7a-4202-92f4-b86c0f8c28c8,2021-07-11,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-35.5
+b4fd4a51-2da4-4d99-9c9c-71e305045082,2021-07-16,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-26.4
+ed1717d9-2d75-4a1d-8d00-2d90a8bb56b7,2021-07-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1500.0
+8dbbc229-f7c8-4b9e-ad6b-57518af8b032,2021-07-18,Cartão da Conta,Aiqfome*julhian Eduarda Bconselheiro Lbr,Aiqfome,-11.0
+61d0e2bd-dfe7-481d-97ce-5e5b087bb6f9,2021-07-19,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1500.0
+0f0700df-e24d-49d9-9d0b-0cede6f80dac,2021-07-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+b0ed70a3-d15b-49c9-a5a6-baa714f69e77,2021-07-23,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-35.5
+58478779-5041-4335-8d0b-a72744208232,2021-07-24,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-27.8
+e781ca64-6b35-4edc-a3ac-6942930692a2,2021-07-24,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,200.0
+1c516e50-4866-4696-aea4-8182840330d8,2021-07-25,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,2000.0
+dda5ef09-b56c-4032-9672-d12dc5c4c34d,2021-07-26,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-2000.0
+cb55602b-82e5-403a-8623-2071d49a7a74,2021-07-30,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,802.25
+adcf3616-ce3c-43a2-8e08-b680d58240c9,2021-07-31,Cartão da Conta,Aiqfome*radikal Burguer Lconselheiro Lbr,Aiqfome,-17.5
+feff017d-c992-463e-a157-36f880987208,2021-08-01,Cartão da Conta,Aiqfome*m L Vieira       Conselheiro Lbr,Aiqfome,-19.5
+30289d48-124a-44c2-ad5d-637458b17517,2021-08-09,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,550.0
+593ac266-8240-4780-a63c-54079bc055b3,2021-08-09,Renda Fixa,Resgate de CDB,Resgate de CDB,2030.14
+f0b30560-7bc9-4866-80b5-2b8a0ff80b66,2021-08-10,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+1e0d0721-89c9-4f81-ad74-5091c08651ec,2021-08-12,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-35.5
+b56cffab-cdc1-4057-9227-acffc3e6273b,2021-08-12,Pix enviado,Transferência Pix,Transferência Pix,-1500.0
+fe662300-fa95-48d4-a4e9-4ff32141260b,2021-08-12,Pix enviado,Transferência Pix,Transferência Pix,-0.01
+d4e49123-d238-4bb2-89c7-063783c038ad,2021-08-12,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,3172.57
+e51963d6-e02a-4c19-8071-ec2a54326500,2021-08-13,Pix enviado,Transferência Pix,Transferência Pix,-1000.0
+e1e1ce31-3311-40ff-b6b6-88dfb8e46b85,2021-08-13,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,900.0
+801f208a-3862-420d-a4da-f8cc99ef3c0c,2021-08-13,Pix enviado,Transferência Pix,Transferência Pix,-300.0
+4cf653c6-bb42-493b-baa2-5faa3a10f985,2021-08-13,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-4000.0
+e3bf0c6d-ddd7-47dd-8b7d-b9515d0bcba2,2021-08-13,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+cf8e0722-2cf2-4ca3-ad76-20157a4fe3ed,2021-08-14,Pix enviado,Transferência Pix,Transferência Pix,-450.0
+86e97608-bfc0-43e0-8dc8-0e225ec20a79,2021-08-15,Pix enviado,Transferência Pix,Transferência Pix,-70.0
+0de58f5b-f771-4b7b-8ba3-f976f607ee5a,2021-08-16,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-19.9
+e9b35334-24d5-472b-b3dc-0aa7405da2ae,2021-08-16,Cartão da Conta,Aiqfome*carpe Comercio Deconselheiro Lbr,Aiqfome,-19.47
+7c5cc6d8-761a-43d3-b1e2-d04a55c01774,2021-08-17,Renda Fixa,Resgate de CDB,Resgate de CDB,4000.35
+f75ca504-22d6-4890-9007-2aa0796bb4b3,2021-08-18,Pix enviado,Transferência Pix,Transferência Pix,-2000.0
+be9fd6f6-b3e8-461c-9b5d-1886db02145c,2021-08-21,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+11e27ff5-8791-4bfd-8f75-eaae20b9c76f,2021-08-21,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,621.0
+f35efe51-35e6-41c1-ae2c-5ba4e666c1ee,2021-08-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+a679c4a5-e40f-4054-9c70-62ef025cf3b8,2021-08-24,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-46.0
+468bf1cb-3b45-4398-8555-430300c7b5c6,2021-08-25,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+b91cea5b-8c6b-4721-af6c-78868c1ad6fd,2021-08-26,Pix enviado,Transferência Pix,Transferência Pix,-13.0
+5dc91001-9044-4ee1-9211-632d9ed6a3e3,2021-08-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.36
+d332e0f7-aae6-4ed6-a16b-a31ccf13a43c,2021-08-28,Pix enviado,Transferência Pix,Transferência Pix,-17.5
+c58d5397-ac3d-4f13-9002-7f3db2b22ea9,2021-08-29,Cartão da Conta,Aiqfome*kleber Thadeu Figconselheiro Lbr,Aiqfome,-21.9
+3e17b9ef-48f7-4e51-b110-da8535118fef,2021-08-30,Cartão da Conta,99app       *99app       Marilia      Br,99app,-8.7
+b0d8179f-2753-4f7d-8162-2790fafeacd0,2021-08-30,Estorno Cartão da Conta,99app       *99app       Marilia      B,99app,8.7
+b0d8179f-2753-4f7d-8162-2790fafeacd0,2021-08-30,Cartão da Conta,99app       *99app       Marilia      Br,99app,-8.7
+03e31a16-3dae-40df-967b-b092d3a8794f,2021-08-30,Estorno Cartão da Conta,99app       *99app       Marilia      B,99app,8.7
+03e31a16-3dae-40df-967b-b092d3a8794f,2021-08-30,Cartão da Conta,99app       *99app       Marilia      Br,99app,-8.7
+23103acc-86be-4063-bd1a-3210f9c194b9,2021-08-31,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-250.58
+175682b3-d4ec-4860-b51c-4aeefbda9318,2021-09-01,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+9b57655f-abb7-4b9e-9b67-9c9c521dd67c,2021-09-04,Cartão da Conta,Padaria Riwa             Conselheiro Lbr,Padaria Riwa,-11.32
+2e29d258-10ac-4577-86c2-dc1cf722fb52,2021-09-04,Cartão da Conta,Mpl Padaria E Lanchone   Conselheiro Lbr,Mpl Padaria E Lanchone,-17.5
+7e700656-62c6-46c9-a4c0-52f5cee5b8bf,2021-09-06,Pix enviado,Transferência Pix,Transferência Pix,-250.0
+75e0616b-1411-4015-a9ec-63af0997585c,2021-09-06,Pix enviado,Transferência Pix,Transferência Pix,-500.0
+2b6f8ec9-a253-4c15-b9ed-c6628a42d01a,2021-09-06,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1932.0
+dbd14bbf-da3a-4dd0-9785-a1c0b4a0cd65,2021-09-07,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1103.47
+48694338-aa63-4269-94bc-b494996d93fb,2021-09-07,Pix enviado,Transferência Pix,Transferência Pix,-33.94
+b0404cd7-feae-4abd-afe9-b773dce7e24d,2021-09-07,Estorno Cartão da Conta,Ebanx       *spotify     Curitiba     B,Spotify,5.0
+b0404cd7-feae-4abd-afe9-b773dce7e24d,2021-09-07,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-5.0
+db84d166-50c4-448f-a9b7-9566a5f98d15,2021-09-07,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,381.56
+5992b963-5f32-4e92-a6d9-21bcc165b0bc,2021-09-08,Estorno Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,4533.97
+5992b963-5f32-4e92-a6d9-21bcc165b0bc,2021-09-08,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-4533.97
+24de9c99-471d-4341-9884-e37bd0f032da,2021-09-08,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1456.2
+70fdbe90-ccdf-45ff-934f-b4ecad3815c8,2021-09-08,Renda Fixa,Resgate de CDB,Resgate de CDB,2034.14
+b9279039-4ff3-4ee7-9f8d-3b0aa59c722b,2021-09-09,Cartão da Conta,Ebanx Spotify            Curitiba     Br,Spotify,-34.9
+7e471fe4-132c-445a-8861-77dc8790b472,2021-09-09,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+08e79f66-e00b-48fc-9c80-5ebe3e8a1004,2021-09-09,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-4004.43
+905b45e4-1a16-477c-9334-226d40ef1d98,2021-09-13,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+d7852748-c410-4999-bb26-1cfdbfef5743,2021-09-14,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-89.9
+c20d1f29-23bf-4af3-bd3e-465cd3b4d687,2021-09-14,Cartão da Conta,Cacau Show               Conselheiro Lbr,Cacau Show,-29.0
+e18aa4cc-54c6-4c7f-b3de-464587a3cc1a,2021-09-15,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,575.0
+31405d52-ccef-404e-a085-6946a51bbbd0,2021-09-15,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,999.73
+3a3e11ae-76bd-4477-8094-8a715c2bf528,2021-09-15,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+d8d4e57f-8dfd-4495-945b-19db9551a006,2021-09-16,Cartão da Conta,Picpay*alipaybrasilmei   Sao Paulo    Br,Aliexpress,-0.1
+6d7a043f-86c8-466f-a4b6-de51f538ae52,2021-09-16,Cartão da Conta,Picpay*ebanxpagamentos   Sao Paulo    Br,Picpay*ebanxpagamentos,-46.97
+d11483d8-8f03-4e81-a6a4-50b1993d03af,2021-09-16,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-2500.04
+d38fb7c0-be42-4e76-b0dc-f27a31cb1372,2021-09-16,Tesouro Direto,Resgate em Tesouro Direto,Resgate em Tesouro Direto,4006.31
+9e75332a-f52b-4739-827e-d17622d01f23,2021-09-17,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.04
+a6cbe92c-4b62-4abb-9e1e-b2ae775c1b8f,2021-09-17,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-3000.0
+f6f69654-0f04-4ffe-b703-53ee2e6d9e25,2021-09-18,Pix enviado,Transferência Pix,Transferência Pix,-500.0
+5239e725-e5fa-40fc-8519-88582b8e136a,2021-09-19,Cartão da Conta,99*food*the Dog Burguer  Conselheiro Lbr,99app,-18.98
+2b0e6893-c7e9-494c-8749-bfccf1892e23,2021-09-19,Pix enviado,Transferência Pix,Transferência Pix,-30.86
+51377b06-97e9-427d-8fe3-d30b0b526e48,2021-09-20,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,65.3
+abe1159f-7274-4dfc-a9cb-3019790c8b62,2021-09-21,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+5d794e73-032b-468b-b2a5-84711cf83d30,2021-09-22,Pix enviado,Transferência Pix,Transferência Pix,-12.0
+f3cb67f6-3dad-4407-97af-bac1e5f28260,2021-09-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+9304a7eb-f60b-4081-ba6e-08bb206d1be1,2021-09-23,Cartão da Conta,Bravissima Pizzaria      Conselheiro Lbr,Bravissima Pizzaria,-57.09
+d7f4e5ce-098c-4826-a62e-f3bc4c5e4907,2021-09-24,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-36.0
+2e7f76ac-1efa-4425-bb77-60231e0e243b,2021-09-26,Cartão da Conta,Aiqfome*rafael Miranda Deconselheiro Lbr,Aiqfome,-25.0
+fdc06d63-515d-4467-9196-834effd7257f,2021-09-26,Cartão da Conta,Aiqfome*m L Vieira       Conselheiro Lbr,Aiqfome,-24.5
+f4c4c3bd-139d-4223-b3a0-dc05690e1979,2021-09-27,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+d279e08c-a625-4563-912b-869601b5e5f6,2021-09-27,Cartão da Conta,Aiqfome*jorge Jeronimo Daconselheiro Lbr,Aiqfome,-25.0
+ee49ec96-d135-4878-a0d6-f0061d3d4e74,2021-09-28,Cartão da Conta,Restaurante E Churrasc   Conselheiro Lbr,Restaurante E Churrasc,-12.0
+91b4ee0a-1b1b-4a14-a088-db8e739da82e,2021-09-28,Pix enviado,Transferência Pix,Transferência Pix,-80.0
+24308cb1-1299-408e-85a9-1e0840fd1185,2021-09-29,Cartão da Conta,Ebanx*shopee             Curitiba     Br,Shopee,-83.51
+d45e0169-408f-4a64-9afb-843c059a5b60,2021-09-30,Cartão da Conta,Aiqfome*angelita Da Silvaconselheiro Lbr,Aiqfome,-13.6
+04f7295d-1d4d-4985-a298-6d0082b797b4,2021-10-02,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-73.69
+6971e056-83ad-4c4f-b8d9-7fe6c0c0d647,2021-10-02,Cartão da Conta,Nacional Tubos E Conex   Conselheiro Lbr,Nacional Tubos E Conex,-16.4
+1428ff4d-4dce-40d7-a12e-374e4bdf9b60,2021-10-02,Pix enviado,Transferência Pix,Transferência Pix,-21.5
+83f9c46a-eca1-4d58-9caa-57e622b6ab26,2021-10-02,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-39.6
+1e8f6d85-31fa-4d0a-9f61-b1fb171c177f,2021-10-05,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+8e34c113-947f-4504-bdf3-bf01f7336b22,2021-10-05,Cartão da Conta,Forno A Lenha Piz        Conselheiro Lbr,Forno A Lenha Piz,-34.5
+88d0b2a5-a1ef-4b2e-a09b-d9ba5678098c,2021-10-05,Pix enviado,Transferência Pix,Transferência Pix,-1000.0
+66a93ad9-872d-4b38-88b5-5acab2b72a83,2021-10-05,Pix enviado,Transferência Pix,Transferência Pix,-71.58
+105ddfd6-f58a-4da6-b8c0-9b6323b9f56b,2021-10-05,Renda Fixa,Resgate de CDB,Resgate de CDB,1525.31
+68c8a82e-7548-426f-a42e-7077d755a720,2021-10-06,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1158.52
+23d24904-d624-42b1-81bc-533e6a85f6e4,2021-10-06,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1856.02
+e3297de6-8a25-4351-933e-637bce89de3e,2021-10-07,Pix enviado,Transferência Pix,Transferência Pix,-30.0
+2a3ea4cb-5cc6-4718-ad95-380810719dcc,2021-10-07,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1489.96
+99b7c662-b5c3-4652-858a-15e4961baf22,2021-10-08,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-860.21
+35a5f7eb-6c09-48cb-bea0-48ced66de1af,2021-10-09,Cartão da Conta,Ebanx*spotify            Curitiba     Br,Spotify,-34.9
+bac581e3-55fa-4c14-b352-e488e215c27e,2021-10-10,Recarga de Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,-15.9
+32892b60-8d53-4908-8084-bbd5019684ef,2021-10-12,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+ef5281e9-198c-4e58-81a4-85a104599d55,2021-10-12,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-52.47
+d42d709a-10f9-405e-9523-e33fb2465dbb,2021-10-12,Cartão da Conta,Papelaria Viva           Conselheiro Lbr,Papelaria Viva,-5.9
+b43b6f32-01bc-44a1-8512-3b953ba8f5e6,2021-10-13,Pix enviado,Transferência Pix,Transferência Pix,-700.0
+e583926a-a7b0-4999-ba48-51615e320a62,2021-10-14,Estorno Cartão da Conta,Bravissima Pizzaria      Conselheiro Lb,Bravissima Pizzaria,57.09
+332df653-d07f-48b3-bdeb-2e0464c6ea12,2021-10-14,Cartão da Conta,Bravissima Pizzaria      Conselheiro Lbr,Bravissima Pizzaria,-57.09
+e583926a-a7b0-4999-ba48-51615e320a62,2021-10-14,Cartão da Conta,Bravissima Pizzaria      Conselheiro Lbr,Bravissima Pizzaria,-57.09
+1a969b26-e85f-4272-9d44-0de6f00f4412,2021-10-14,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1705.0
+9a3c79ea-f62f-4d52-8c85-ce62b7778170,2021-10-15,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.21
+e0661aab-abe7-4c21-bf01-56ba8d24e41e,2021-10-16,Pix enviado,Transferência Pix,Transferência Pix,-480.0
+a9e2e932-d198-4981-8548-9a9918a48472,2021-10-16,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,550.0
+f9b808f0-59a0-4753-8e68-bf60e119ea98,2021-10-16,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-17.9
+48b77dfe-d451-407d-9965-f6eb741b0629,2021-10-17,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-16.11
+d9137909-6271-4264-9988-d274683a62ee,2021-10-19,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+64ffc829-0fc6-4a67-99f8-ab01731d8f2a,2021-10-19,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-36.0
+c9f7d226-87a8-436c-90a1-9dec299cf194,2021-10-20,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-1770.82
+149b24b9-58c3-4f95-9302-e1ecf5acddd8,2021-10-20,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1015.0
+8d1f5a8b-ef6b-450c-a141-835ce609d8e2,2021-10-20,Pix enviado,Transferência Pix,Transferência Pix,-22.9
+d21d37d7-ffa6-42f2-ae0d-260cb4839724,2021-10-20,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,745.0
+b0c782ca-9c8f-4ec4-a433-57947eb16156,2021-10-21,Pix enviado,Transferência Pix,Transferência Pix,-15.0
+f11995d1-5ac9-49e8-8281-6ef0cf06f428,2021-10-21,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-68.69
+8d9a973e-576b-4ec8-a3cf-d82c670da90c,2021-10-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+da339d6a-acbb-4c67-a8e4-68fb96c30501,2021-10-22,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-11.96
+7d7fde9a-f57b-406f-86ee-7fc29add14bc,2021-10-22,Cartão da Conta,Padaria Riwa             Conselheiro Lbr,Padaria Riwa,-16.81
+7be1a42f-ecb5-4906-90aa-5ff9a85347e4,2021-10-23,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-17.89
+29e424e8-5982-4e17-821b-a7cbd79ecdde,2021-10-25,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-64.14
+cb38d778-12b3-4c78-8184-402535d83e74,2021-10-25,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-15.91
+df993e7f-69ff-41ce-8569-af47748fb87e,2021-10-25,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-2025.05
+224af0cf-ee3a-4d03-8b81-485215f6c3a1,2021-10-25,Renda Fixa,Resgate de CDB,Resgate de CDB,2040.96
+2e0f92c5-175a-4172-914c-ab5dfc13c3be,2021-10-27,Cartão da Conta,Sabores Da Familia       Conselheiro Lbr,Sabores Da Familia,-15.0
+8ee52413-a730-497f-a6bf-9b48e58f1f0b,2021-10-28,Pix enviado,Transferência Pix,Transferência Pix,-200.0
+c28a50e4-eba9-4451-b2d7-c3140f1d85bc,2021-10-28,Cartão da Conta,3458drogasil             Conselheiro Lbr,Drogasil,-17.39
+ae7e7ae2-908b-4e7b-a89b-eb6a6c2a6804,2021-10-28,Cartão da Conta,Padaria Riva             Conselheiro Lbr,Padaria Riva,-19.49
+a60793b6-cfbf-47e2-8513-aaef7f48063f,2021-10-29,Pix enviado,Transferência Pix,Transferência Pix,-17.39
+efcd3560-e87b-460b-b42d-6296673985c4,2021-10-29,Pix enviado,Transferência Pix,Transferência Pix,-17.39
+3d8b12e8-7326-4aca-b949-6d584e9b500a,2021-10-29,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-18.7
+aab4dd9f-e9e8-4299-b54c-4c60331bb233,2021-10-30,Cartão da Conta,Mpl Padaria E Lanchone   Conselheiro Lbr,Mpl Padaria E Lanchone,-8.03
+db819648-8e7d-4aa6-b276-d50966f74d7c,2021-10-31,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-14.03
+acad3c1f-5f6e-44bc-9d64-88962a826622,2021-11-01,Pix enviado,Transferência Pix,Transferência Pix,-250.0
+b7393c0e-2c79-469d-8913-17d089de20d1,2021-11-02,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+59a18de9-4a59-485c-946f-8c00ff8f757c,2021-11-03,Renda Fixa,Resgate de CDB,Resgate de CDB,1476.13
+260a140d-289b-4cfb-87df-029eb6c0166e,2021-11-03,Renda Fixa,Resgate de CDB,Resgate de CDB,15.92
+a1049f5f-c343-444c-8f3b-a7e1e3a099ef,2021-11-03,Renda Fixa,Resgate de CDB,Resgate de CDB,3020.62
+2e890822-c970-4f15-8263-274ff3299222,2021-11-04,Pix enviado,Transferência Pix,Transferência Pix,-4500.0
+3c61e16d-db77-41bb-bebc-0196ba3a0d40,2021-11-05,Cartão da Conta,Linxpay*samurai Japa     Sao Paulo    Br,Samurai Japa Lounge,-37.0
+44ca57d2-1c15-42f5-b04c-40105e9b44f8,2021-11-05,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1061.0
+7b6576af-1ef7-4622-a67a-428ed90bebb1,2021-11-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.21
+5abb70c2-94d6-42f1-ab93-06da5cc859f4,2021-11-06,Cartão da Conta,Mpl Padaria E Lanchone   Conselheiro Lbr,Mpl Padaria E Lanchone,-11.93
+a72b6ab0-8de4-4bdf-b202-7aa6fff53ead,2021-11-07,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-17.9
+b1f2c18c-3e1a-4bc0-8de3-4498da9dfcc3,2021-11-08,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+11810502-2697-44f3-9565-11fa2a584aa7,2021-11-09,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-290.87
+ffc9318b-8324-410e-8b29-3f0b9532f941,2021-11-09,Cartão da Conta,Ebanx*spotify            Curitiba     Br,Spotify,-34.9
+e638a8a6-dcf0-475b-b420-e2702b9058fc,2021-11-11,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-35.56
+30a6fced-594d-4ca6-b007-fe7bb262c1a2,2021-11-12,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,525.0
+012a54b1-463e-48ef-86a9-0bca0a27ef81,2021-11-13,Cartão da Conta,Netflix.com              Sao Paulo    Br,Netflix,-39.9
+1f1f0d36-a5ab-4a2a-b3cb-03cb3b2ba244,2021-11-13,Cartão da Conta,Mpl Padaria E Lanchone   Conselheiro Lbr,Mpl Padaria E Lanchone,-11.12
+71c1300f-0a09-4bd8-8f82-31c00a496357,2021-11-14,Cartão da Conta,Picpay *nr2 Pagamento    Sao Paulo    Br,Picpay *nr2 Pagamento,-17.89
+34ad9f39-511b-4101-8621-fad01a6f6c56,2021-11-14,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,3.34
+5c671563-c902-499e-b1ee-7c944692a983,2021-11-15,Cartão da Conta,Mlp*netshoes             Sao Paulo    Br,Netshoes,-239.99
+baba3030-ed6e-4484-8a4e-fd462c0d878f,2021-11-15,Cartão da Conta,Padaria Riwa             Conselheiro Lbr,Padaria Riwa,-18.0
+d5724b83-95e7-4cfb-9ed8-a2f7292a6b04,2021-11-16,Cartão da Conta,Sabores Da Familia       Conselheiro Lbr,Sabores Da Familia,-15.0
+bf743d13-d211-4344-b6ee-6ced21a224ad,2021-11-16,Pix enviado,Transferência Pix,Transferência Pix,-485.0
+b910fa8a-57f8-4775-8f33-926e5c957056,2021-11-16,Pix enviado,Transferência Pix,Transferência Pix,-6.0
+b7ee8d93-219d-44d7-ba4d-2f426b8cbeed,2021-11-16,Pix enviado,Transferência Pix,Transferência Pix,-500.0
+e632534c-cd13-4c72-8140-5dcb4d883902,2021-11-17,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+e8fe6f56-0291-4279-b000-8d68901769aa,2021-11-18,Cartão da Conta,Refrescar Ltda Me        Conselheiro Lbr,Refrescar Ltda Me,-7.0
+46f87517-5129-4b68-966a-1b2de7a3f555,2021-11-18,Cartão da Conta,Mfp Com De Prod A        Conselheiro Lbr,Mfp Com De Prod A,-34.8
+380def9d-6ee7-4259-8f59-c206d31ad92a,2021-11-19,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,971.01
+69938a16-5eae-4e1c-a32c-471a39042c9e,2021-11-19,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+e9d9eb2e-b2a6-413b-8832-d0e90f76fbe6,2021-11-20,Cartão da Conta,99app       *99app       Gaspar       Br,99app,-8.92
+33e10a49-1e3f-45ed-a06f-f642d832eeeb,2021-11-21,Cartão da Conta,Picpay *vq1 Pagamento    Sao Paulo    Br,Picpay *vq1 Pagamento,-17.9
+09183df3-bbae-4b30-9e95-f97154610ef2,2021-11-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+8f023c66-55d5-4c27-b1e1-d1baa14500df,2021-11-23,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,583.69
+4923bfd0-c1fc-42a3-8355-0e3ef9b03878,2021-11-24,Cartão da Conta,Vivo Easy*diaria Voz     Sao Paulo    Br,Vivo Easy,-29.7
+566bbed6-1285-4de4-88ab-9adf14fd22dc,2021-11-24,Cartão da Conta,Supermercado Brasil      Conselheiro Lbr,Supermercado Brasil,-52.34
+b2439234-ea62-4a1e-8832-0021a56bd103,2021-11-25,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-164.9
+996a033d-ded5-479e-9797-c9bff35e5019,2021-11-25,Pix enviado,Transferência Pix,Transferência Pix,-577.34
+cd7a31d4-5aea-47ac-ab89-5afbc791995c,2021-11-26,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,320.42
+ba714e53-647c-4313-99a6-660c93cca67d,2021-11-27,Cartão da Conta,Marshmallow              Conselheiro Lbr,Marshmallow,-10.6
+13fc7e06-a7ad-4c77-8ec4-74d55deddd6b,2021-11-27,Cartão da Conta,Drogaria Minas Mais      Conselheiro Lbr,Drogaria Minas Mais,-42.84
+373bf002-64d0-446e-aad0-8cf653ed7948,2021-11-27,Cartão da Conta,Mpl Padaria E Lanchone   Conselheiro Lbr,Mpl Padaria E Lanchone,-11.87
+8d0f30fa-9d2c-423d-b022-133439cade3b,2021-11-28,Cartão da Conta,Picpay *vq1 Pagamento    Sao Paulo    Br,Picpay *vq1 Pagamento,-17.9
+8804e5ae-9949-4117-8f3f-421106532d47,2021-11-29,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+2330bc4a-ed55-4516-8051-dd7fffeff318,2021-11-29,Cartão da Conta,Picpay *vq1 Pagamento    Sao Paulo    Br,Picpay *vq1 Pagamento,-11.63
+47da18af-2143-4e0d-856b-57b5cd571e45,2021-11-29,Cartão da Conta,99app       *99app       Sao Paulo    Br,99app,-5.8
+455110ee-995c-4ee0-bb22-949839a3c935,2021-12-02,Cartão da Conta,Sabores Da Familia       Conselheiro Lbr,Sabores Da Familia,-13.0
+676c9aa9-764b-4f5b-bdf4-7f2b9e0962ac,2021-12-03,Cartão da Conta,Sabores Da Familia       Conselheiro Lbr,Sabores Da Familia,-15.0
+51f1e71e-2f4e-4a99-82ce-d7a23e3f13ac,2021-12-03,Pix enviado,Transferência Pix,Transferência Pix,-30.0
+0a216c3c-fa7f-4d41-a1d5-894d8ce655d1,2021-12-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.58
+d7ed3dca-45c8-48f1-b784-0d118b4900b4,2021-12-05,Cartão da Conta,Arnesto Gastro           Conselheiro Lbr,Arnesto Gastro,-64.68
+5dbc74b9-d53b-4cd6-a7d2-982f50be4f47,2021-12-05,Cartão da Conta,Arnesto Gastro           Conselheiro Lbr,Arnesto Gastro,-64.68
+c4af3135-8077-470f-a2f1-866d09b78f18,2021-12-06,Cartão da Conta,Picpay *vq1 Pagamento    Sao Paulo    Br,Picpay *vq1 Pagamento,-23.51
+1a23f878-bd83-4287-bb94-f13869dc3a55,2021-12-06,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,64.68
+930053c3-922a-4ca5-8d46-5322d96a4dd9,2021-12-07,Cartão da Conta,Sabores Da Familia       Conselheiro Lbr,Sabores Da Familia,-15.0
+b46ac4b0-6380-44d7-b0ad-6e12ff77f3c1,2021-12-07,Cartão da Conta,Mundo Das Embalag        Conselheiro Lbr,Mundo Das Embalag,-12.5
+1b6f35a9-35ba-4597-a178-e09e2178c089,2021-12-07,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+28b8c6b3-2a47-48b2-a066-5fafb3a3c093,2021-12-07,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,864.0
+8451a414-03cf-4edf-b5f9-d7a12ec8243e,2021-12-08,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,2260.8
+3eaca7fa-63a3-4fb2-baa5-19af6c5a9d1a,2021-12-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+b1e25382-c234-4599-a2a7-11c33381dfd8,2021-12-09,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+0a040137-892f-4fa9-892f-d590b347d04e,2021-12-09,Cartão da Conta,Vitoria Guimaraes Do Na  Conselheiro Lbr,Vitoria Guimaraes Do Na,-7.5
+7b9b4c81-9788-4241-98d0-c5a2115f5b2e,2021-12-09,Pix enviado,Transferência Pix,Transferência Pix,-93.65
+2501c604-3cc8-4cf5-91e5-44890263d08a,2021-12-09,Cartão da Conta,99app       *99app       Conselheiro Lbr,99app,-8.0
+8b1fad64-ec4e-4437-a081-7e80ac1e1a03,2021-12-09,Estorno Cartão da Conta,Uber* Pending            Www.uber.com.b,Uber,8.92
+8b1fad64-ec4e-4437-a081-7e80ac1e1a03,2021-12-09,Cartão da Conta,Uber* Pending            Www.uber.com.br,Uber,-8.92
+b5d373b1-5ad3-4e71-8cb0-8136a73f024f,2021-12-10,Cartão da Conta,Guapuruvu Comercio De    Campinas     Br,Guapuruvu Comercio De,-5.8
+6b374cce-9dc6-4b62-929b-06d3c47140c0,2021-12-10,Cartão da Conta,Salad Bar Sanduicheria   Confins      Br,Salad Bar Sanduicheria,-7.0
+6e5e2964-a96b-40d4-9f96-ff97591c7462,2021-12-10,Cartão da Conta,Leve Minas               Confins      Br,Leve Minas,-148.0
+e34bb998-352e-44c5-8aa6-13c02b5b8696,2021-12-10,Cartão da Conta,Posto Jockey             Belo Horizontbr,Posto Jockey,-51.07
+157833bf-aaa3-4728-94c7-5770ba60c34f,2021-12-10,Cartão da Conta,Payu*99app               Marilia      Br,99app,-6.6
+10d6fec4-3ac7-4c6b-8c18-5074c5491270,2021-12-11,Cartão da Conta,Quartzo Comercio De Ali  Presidente Prbr,Quartzo Comercio De Ali,-46.8
+ab2efb99-5f3f-4fe1-8a1e-984ec1e766a6,2021-12-11,Cartão da Conta,Max Guanabara            Presidente Prbr,Max Guanabara,-1.57
+f29a75f2-6e9a-448c-9c8f-160aaa2820d7,2021-12-12,Cartão da Conta,Aka Comercio De Produt   Londrina     Br,Aka Comercio De Produt,-104.7
+863747bc-bdc3-4ecb-8ec3-5e72b423640e,2021-12-13,Cartão da Conta,Netflix.com              Sao Paulo    Br,Netflix,-39.9
+c107a4a3-54d5-4db5-a468-d9e138c7e249,2021-12-14,Cartão da Conta,Havaianas                Presidente Prbr,Havaianas,-24.99
+cce48b35-61fb-486b-a07e-a92bc6128c55,2021-12-14,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1174.0
+f63cba60-9289-4741-afcd-8f2eab00c461,2021-12-15,Pix enviado,Transferência Pix,Transferência Pix,-375.0
+72ec39cc-e9fd-41dc-b606-028374bb6f46,2021-12-16,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,576.73
+db6130cb-3071-47f3-b128-e91342297aa9,2021-12-17,Cartão da Conta,Pag*14bushamburgueria    Presidente Prbr,Pag*14bushamburgueria,-66.0
+117aaaf4-55a8-4da5-84c9-8a49f25a698c,2021-12-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+8b6ce5e2-9863-43b1-a22f-16ff75862ab8,2021-12-18,Cartão da Conta,Drogazao                 Presidente Prbr,Drogazao,-225.89
+e81fba5f-754a-4c3d-8b29-8082aae83420,2021-12-19,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,3.36
+6bd447d3-4ea3-47a4-a8fd-db74fb5f971a,2021-12-19,Cartão da Conta,Boticario                Presidente Prbr,Boticario,-43.41
+2025dfd1-1df1-4c43-a2ee-41d9a3446727,2021-12-19,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-62.4
+1a473b49-1689-4702-8c90-d67f3af70d59,2021-12-20,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-24.74
+fc78a46c-4c59-497c-9bfc-069d6a39d6f4,2021-12-20,Pix enviado,Transferência Pix,Transferência Pix,-93.0
+127a4c56-3630-48f0-93b2-8d27ad0f2cc9,2021-12-21,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-34.15
+9312c228-8c6b-47f1-921c-f10d2e081c8c,2021-12-21,Cartão da Conta,Quartzo Comercio De Ali  Presidente Prbr,Quartzo Comercio De Ali,-11.0
+6c6aeeab-2d17-4d46-a479-7bb79f28e102,2021-12-21,Cartão da Conta,Copas Cafe E Vinho       Presidente Prbr,Copas Café,-60.0
+e68cf4e6-98cd-4e5b-afd9-0287c4107205,2021-12-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+85649823-ff4e-4945-b7fc-715da8736392,2021-12-22,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,2377.01
+5c77359c-ded6-4939-b669-36fa40924ca4,2021-12-23,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,396.78
+ee03560f-1641-4d28-960a-4ffa7ade228e,2021-12-26,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-22.75
+2b865783-fa8f-4a2b-a25b-cd0ac0a1a42b,2021-12-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.35
+813f91b2-d6a3-48fe-becb-a58cc6824775,2021-12-29,Cartão da Conta,Sorveteria Chiquinho     Presidente Prbr,Sorveteria Chiquinho,-27.0
+d5394c21-15a5-44db-8b76-31763dd637d6,2021-12-29,Cartão da Conta,Burger King              Presidente Prbr,Burger King,-44.9
+c50546a6-3fa4-4b6f-b7cc-2b2ec3d0dd73,2021-12-29,Pix enviado,Transferência Pix,Transferência Pix,-215.0
+3cb0db1b-b241-488d-b56b-69f6aed1743d,2022-01-03,Tesouro Direto,Pagamento de Juros - Tesouro Direto,Pagamento de Juros - Tesouro Direto,146.7
+87366e86-de19-4386-a6fa-38905e5f163c,2022-01-03,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,215.0
+6453dcb3-b63a-4ec7-a73c-84eb98974b10,2022-01-04,Pix enviado,Transferência Pix,Transferência Pix,-50.0
+7e97131c-c0cb-4141-bb24-28cacc801ff4,2022-01-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.39
+18cff045-7fa7-4415-a8c0-02073536141b,2022-01-05,Renda Fixa,Resgate de CDB,Resgate de CDB,1532.54
+f86570e9-5160-43ad-bec3-987072c756c0,2022-01-07,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.18
+aa2150e0-395a-4625-b6d3-42c2f365f983,2022-01-08,Cartão da Conta,Auto Posto Grigoleto Ii  Presidente Prbr,Auto Posto Grigoleto Ii,-75.88
+bf6d2c00-2051-409d-8630-f9db6330317b,2022-01-08,Cartão da Conta,Pag*espetinhosdo         Presidente Prbr,Pag*espetinhosdo,-24.0
+e891f03a-9e86-495c-a14c-6c92c1eab4fe,2022-01-08,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-47.65
+82e25e8f-a283-4ea2-a8ec-0cecf9ab4f75,2022-01-08,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,9.11
+c27224cf-74a4-47b2-8cb4-b823c201c396,2022-01-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+48320d75-27e7-4f42-b223-3c64c1dc4916,2022-01-09,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-125.67
+070bf0b0-754c-4c49-9182-3dd6317370df,2022-01-09,Cartão da Conta,Siqgrill Pp              Presidente Prbr,Siqgrill Pp,-68.36
+911f6aca-7684-43de-8c23-653e9f5b1c48,2022-01-09,Cartão da Conta,Teresa Tanaka            Presidente Prbr,Teresa Tanaka,-112.84
+d0a0349b-4ab6-4f2c-83ba-46a55501834c,2022-01-12,Cartão da Conta,Auto Posto Grigoleto Ii  Presidente Prbr,Auto Posto Grigoleto Ii,-100.0
+9845565c-03c2-4528-b453-a08461759519,2022-01-12,Cartão da Conta,Suco Bagaco              Presidente Prbr,Suco Bagaco,-12.99
+a91d2127-eeff-4685-8c62-a095b419e460,2022-01-13,Cartão da Conta,Filial Presidente        Presidente Prbr,Filial Presidente,-20.3
+b1049fe9-57d6-4b8d-9224-25f29db0dc4c,2022-01-13,Cartão da Conta,Drogasil 1102            Presidente Prbr,Drogasil,-27.66
+9c16bd43-d9dd-4a30-b02e-11c30c3c836b,2022-01-13,Cartão da Conta,Netflix.com              Sao Paulo    Br,Netflix,-39.9
+2cd92bda-9427-4880-883b-2ba51f51b955,2022-01-13,Pix enviado,Transferência Pix,Transferência Pix,-200.0
+da77aba1-2c6a-4cd3-8ef4-902c65965b6c,2022-01-14,Cartão da Conta,Chiquinho Sorvetes       Presidente Prbr,Chiquinho Sorvetes,-32.0
+ba4070b9-fcc3-484c-bb0c-8481e6411ec2,2022-01-14,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.39
+eefad2ae-56ee-40ab-a26b-63b9c5e9a633,2022-01-15,Cartão da Conta,Burger King              Presidente Prbr,Burger King,-47.9
+5afcf737-fc8d-484f-a2c1-e97043513e7e,2022-01-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.9
+e46f9350-8b0d-4c13-aa2a-944d81f395a9,2022-01-18,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-439.0
+58176a44-f05a-4f37-aaf1-3104a165f3a5,2022-01-18,Estorno Cartão da Conta,Verificacao Inter        Belo Horizontbr,Verificacao Inter,9.21
+58176a44-f05a-4f37-aaf1-3104a165f3a5,2022-01-18,Cartão da Conta,Verificacao Inter        Belo Horizontbr,Verificacao Inter,-9.21
+7ce81480-234f-49df-82cc-2819e6fc4a4e,2022-01-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+098996b0-19c3-4e7d-96d5-03267d8fea00,2022-01-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+304de712-9298-48bf-95fc-c8c727cff7a8,2022-01-19,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-449.88
+69ab0756-bcf5-4541-98d5-b22b0f1b33ef,2022-01-19,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-57.9
+5b8fb40c-7cc9-4a30-bb2f-585dd3bd412f,2022-01-19,Cartão da Conta,Ame Digital              Sao Paulo    Br,Ame Digital,-200.85
+3e57e043-7254-4b0a-963f-727c8f2bb409,2022-01-19,Pix enviado,Transferência Pix,Transferência Pix,-199.0
+b7b91b91-74e5-4226-a968-8c9cd403cc98,2022-01-19,Cartão da Conta,Pg *intershop Intersho   Belo Horizontbr,Inter Shop,-53.25
+76266237-5e56-4047-a22b-d4d1ab3ca0c9,2022-01-21,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-619.46
+2e369cee-5bd3-4610-a5ef-febf7df013b3,2022-01-21,Pix enviado,Transferência Pix,Transferência Pix,-570.0
+0e098477-90c0-49cd-ac74-2ee7bf11d686,2022-01-21,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-58.96
+a9ceec03-2f46-4bbf-b779-c90473e7fb0c,2022-01-21,Cartão da Conta,Muffato Max Prud         Presidente Prbr,Muffato Max,-20.99
+644450b1-3aa7-4671-ba9e-dd906bfd675b,2022-01-21,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,100.0
+f46eb531-7336-4f5a-9689-82cc85950a7d,2022-01-21,Pix enviado,Transferência Pix,Transferência Pix,-2750.0
+42e487f3-5e3a-4d80-8f17-b5b1a7701c4c,2022-01-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+917a790f-8e3b-413d-a754-0be8eed301a9,2022-01-24,Renda Fixa,Resgate de CDB,Resgate de CDB,2089.15
+a254568d-bcc9-4946-b799-e2159d519e4a,2022-01-25,Pix enviado,Transferência Pix,Transferência Pix,-3.5
+0e4a6d00-7964-4f84-8025-d9234badfc77,2022-01-26,Pix enviado,Transferência Pix,Transferência Pix,-183.41
+a7acf297-6e86-406c-bac0-32dea541cb73,2022-01-26,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-259.12
+59cc66a6-7677-4eb1-8fc6-034ddd3a0eb6,2022-01-26,Cartão da Conta,Chiquinho Sorvetes       Presidente Prbr,Chiquinho Sorvetes,-32.0
+7a806745-9e52-43a5-afcb-dca83ee4324a,2022-01-28,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-35.15
+0c37f90f-1c88-489c-afb1-c4cd3508fe11,2022-01-28,Cartão da Conta,Bk Brasil                Presidente Prbr,Bk Brasil,-10.9
+f411d2a1-8706-4636-a54b-723f0859feee,2022-01-28,Cartão da Conta,Noel Fernandes Do        Presidente Prbr,Noel Fernandes Do,-25.0
+e839358e-c798-4eb1-afbf-a08c04d69961,2022-01-28,Cartão da Conta,Noel Fernandes Do        Presidente Prbr,Noel Fernandes Do,-58.0
+59714078-03d8-4260-8037-d7cb499cea62,2022-01-28,Cartão da Conta,Supermerc Nagai Pp       Presidente Prbr,Supermerc Nagai Pp,-12.66
+a5c97dd7-9643-420b-87cd-2d77861d21ef,2022-01-29,Depósito,Adição de dinheiro via Boleto,Adição de dinheiro via Boleto,12.06
+a082d45b-54f2-4ae4-a9c3-a4dcfd88336f,2022-02-01,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1500.0
+75ec0272-0fde-48d7-9413-16f9cc4e685f,2022-02-02,Cartão da Conta,Presid Prudente 12       Presidente Prbr,Presid Prudente 12,-37.35
+3f945733-fd5b-438f-b63f-08a84dcf1a40,2022-02-02,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.28
+a75f2755-85e3-4211-901d-193a25b6ad9b,2022-02-02,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-39.59
+8371fd8f-031f-4a8a-b1bf-6b776807e72c,2022-02-03,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-8.71
+5ae4bab4-c694-49f0-b1a7-33b152ca77a9,2022-02-03,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,266.84
+afa31fec-dd9a-483b-ba67-8d96256b2933,2022-02-03,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,11.52
+ed7588da-eee3-4c01-ae42-39db771649a1,2022-02-06,Cartão da Conta,Teresa Tanaka            Presidente Prbr,Teresa Tanaka,-205.87
+bca70957-350f-4467-ba74-a7f9ca6d4780,2022-02-07,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-29.88
+3d41b1af-f18d-4a95-9dd4-d5732771d951,2022-02-08,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-18.32
+b237acae-670e-488b-83bc-2bc374ebd667,2022-02-08,Cartão da Conta,A Ciclista               Presidente Prbr,A Ciclista,-30.0
+2a629bd3-f530-455b-b849-52017ca9145b,2022-02-08,Cartão da Conta,Eletrorede               Presidente Prbr,Eletrorede,-12.5
+849c3a7f-79bb-49e7-8e6b-e1c684e0117a,2022-02-08,Cartão da Conta,Matheus Quase Tudo Um    Presidente Prbr,Matheus Quase Tudo Um,-4.25
+3424faba-996a-4fa2-b628-700f57760113,2022-02-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+9dd2d3ad-64b3-4864-9738-d09362177674,2022-02-09,Transferência Enviada,Transferência Para Outras Contas,Transferência Entre Contas,-40.0
+8378a2c7-640d-463f-b658-740500440f41,2022-02-10,Cartão da Conta,Pag*renilson             Presidente Prbr,Pag*renilson,-33.0
+a0a16596-c7cc-4771-8b4a-6d935a3f654c,2022-02-12,Cartão da Conta,Iris Park                Presidente Prbr,Iris Park,-12.95
+e24e9021-c5a1-4e7b-90c7-579279d7099d,2022-02-12,Cartão da Conta,Real Forte Prudente Ut   Presidente Prbr,Real Forte Prudente Ut,-12.58
+00f1cb80-c093-4adf-946f-653b0b09898b,2022-02-12,Pix recebido,Transferência Pix,Transferência Pix,200.0
+01e4c493-0527-43e1-a453-81956602cb8f,2022-02-12,Pix enviado,Transferência Pix,Transferência Pix,-200.0
+9a058e33-7b7d-4b23-8bba-5e93d9baaedf,2022-02-13,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+850d6c13-b565-4549-814b-34ab904221f3,2022-02-13,Cartão da Conta,Droga Rizzo              Presidente Prbr,Droga Rizzo,-6.1
+40f10e0d-8592-4675-bf5e-98faeb9695d9,2022-02-13,Cartão da Conta,Paulo Sussumu            Presidente Prbr,Paulo Sussumu,-9.5
+2c3148b0-ba1d-4976-a916-b27faca1d485,2022-02-13,Cartão da Conta,Posto Presidente Pruden  Presidente Prbr,Posto Presidente Pruden,-80.03
+26151a08-075e-420f-909f-fd6e8933ff05,2022-02-13,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-72.23
+98aaaa11-4d0c-4afa-9a17-0da7de68922e,2022-02-13,Cartão da Conta,Delivery Chantilly       Presidente Prbr,Delivery Chantilly,-16.04
+4d735cc2-0ccd-4f31-a9f2-eb1ad8c0d41b,2022-02-13,Cartão da Conta,Netflix.com              Sao Paulo    Br,Netflix,-39.9
+617da36f-800a-46e0-a00d-b39b8c3fea84,2022-02-15,Cartão da Conta,Papelaria Mix Prudente   Presidente Prbr,Papelaria Mix Prudente,-3.0
+49530d96-1e97-4773-92d4-7513dedf4ed5,2022-02-15,Cartão da Conta,Xerox Do Marcos          Presidente Prbr,Xerox Do Marcos,-2.0
+0a49abd7-413e-4337-9c1e-9ef6fe3d1d4b,2022-02-16,Cartão da Conta,99app       *99app       Presidente Prbr,99app,-14.3
+dd0caad3-8559-4ff5-b7a3-d03780a7ffac,2022-02-16,Cartão da Conta,99app       *99app       Presidente Prbr,99app,-14.5
+398ea0d9-8e7a-4dbf-858f-8cd21e62ba65,2022-02-16,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,5.0
+024ec4a4-e373-4c67-83de-67d328bbec1b,2022-02-17,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+d59b1121-eaef-412b-b5e1-5f5dcf6ba8e2,2022-02-17,Pix enviado,Transferência Pix,Transferência Pix,-70.0
+225649d6-c14e-4217-8e90-1de644c6ad66,2022-02-17,Pix enviado,Transferência Pix,Transferência Pix,-80.0
+711af583-46a7-4d8e-bab9-73ad5e75d384,2022-02-17,Cartão da Conta,99app       *99app       Presidente Prbr,99app,-14.2
+b3fe06ad-c3c6-44b2-ad26-570d3cd38e6d,2022-02-17,Estorno Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,14.17
+b3fe06ad-c3c6-44b2-ad26-570d3cd38e6d,2022-02-17,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-14.17
+9ff0832d-ecf0-46db-a6d5-56a811391012,2022-02-17,Estorno Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,14.13
+9ff0832d-ecf0-46db-a6d5-56a811391012,2022-02-17,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-14.13
+2f6dab53-6553-46fc-99dd-caf20abfd98a,2022-02-17,Cartão da Conta,Presid Prudente 12       Presidente Prbr,Presid Prudente 12,-23.78
+9587004b-a15f-40ce-bc72-249ab5561a37,2022-02-18,Pix enviado,Transferência Pix,Transferência Pix,-70.0
+8c73ec1b-0e07-485b-a55e-0b46ff8bb659,2022-02-18,Cartão da Conta,99app       *99app       Presidente Prbr,99app,-14.9
+b8e5c4ca-4765-4aac-81ac-7ac66d009b9f,2022-02-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+42184c8c-0b7f-48bd-b470-2d0a255272d9,2022-02-19,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-180.64
+90317235-0ac8-4089-a05e-ab7e1cd6444f,2022-02-19,Cartão da Conta,Maq Center Papelaria     Presidente Prbr,Maq Center Papelaria,-35.9
+a338c5d5-d6ba-48f0-9718-c7f4a248d872,2022-02-19,Pix enviado,Transferência Pix,Transferência Pix,-85.0
+36fb7f54-17db-4e82-b933-cd05bc59f2d2,2022-02-20,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-10.0
+b1696fb7-8dbd-4929-b391-1c804dbf2b70,2022-02-20,Cartão da Conta,Burger King              Presidente Prbr,Burger King,-47.9
+3b765b98-3144-427c-8f70-42dd279af6d3,2022-02-20,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-15.18
+a3f1ff91-7fa1-4fe7-9efd-59488774f554,2022-02-20,Cartão da Conta,Presid Prudente 12       Presidente Prbr,Presid Prudente 12,-34.74
+de56ae93-c910-457e-b15f-2219a4ebcc9f,2022-02-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+d02ce4c6-f501-48d8-b076-f05ed20389f3,2022-02-22,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.16
+d06a23c4-e891-49ee-b034-a1e0ce58ee18,2022-02-23,Pix enviado,Transferência Pix,Transferência Pix,-37.1
+b1f8f6d9-88f2-4223-af73-f7c8ba9c7d98,2022-02-23,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-925.02
+22d7bd9b-1928-4958-97ad-61e54d82b967,2022-02-23,Renda Fixa,Resgate de CDB,Resgate de CDB,1506.55
+7f4a3bfd-75fc-4809-88e0-6df89457a7e3,2022-02-24,Pix enviado,Transferência Pix,Transferência Pix,-300.0
+71de5560-852f-40a6-903e-ec9064585ebe,2022-02-24,Cartão da Conta,99app       *99app       Presidente Prbr,99app,-8.6
+f0e15a4e-09ab-487a-a00e-6966b21880f9,2022-02-26,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-54.34
+e86af702-19c1-4cda-926d-5bd13ae062bd,2022-02-26,Cartão da Conta,All Chicken              Presidente Prbr,All Chicken,-47.2
+93d47689-d42d-465b-b958-916d89999d27,2022-02-27,Cartão da Conta,Pg *intershop Intersho   Belo Horizontbr,Inter Shop,-192.79
+ecb9529d-a8a7-4ebe-b762-df18059f38f5,2022-02-27,Cartão da Conta,Pg *intershop Intersho   Belo Horizontbr,Inter Shop,-252.91
+30604d47-7eb6-4a60-afb1-632a3b60f1a0,2022-02-28,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,400.0
+573b8a3c-a884-4447-a926-94aed0b1647d,2022-02-28,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-73.49
+9c223bb0-8f37-46b0-8527-4077013d0883,2022-02-28,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1156.27
+f7e6a15b-4d0a-4c41-97d1-8dee51d92b33,2022-02-28,Cartão da Conta,Pag*casapratica          Presidente Prbr,Pag*casapratica,-299.9
+d62ef2f1-a406-4d07-b576-e9b5a3ff6bce,2022-03-01,Cartão da Conta,Delivery Chantilly       Presidente Prbr,Delivery Chantilly,-19.22
+707c6c77-12de-47a0-8e26-79df77503c80,2022-03-02,Estorno Cartão da Conta,Uber * Pending           Sao Paulo    Br,Uber,8.63
+4ecd0a6f-539c-49d8-aa87-5976e402fd81,2022-03-02,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-8.63
+e985abf6-8b76-4ae3-abfa-51055a702108,2022-03-02,Estorno Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,8.63
+e985abf6-8b76-4ae3-abfa-51055a702108,2022-03-02,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-8.63
+707c6c77-12de-47a0-8e26-79df77503c80,2022-03-02,Cartão da Conta,Uber * Pending           Sao Paulo    Br,Uber,-8.63
+44061858-6b13-4ca8-a302-32976a741438,2022-03-03,Pix enviado,Transferência Pix,Transferência Pix,-38.79
+8331f07c-4b04-4f0a-99dc-c7a52c8d70b0,2022-03-05,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-158.36
+517e032d-645d-4c98-a7dc-a6584ebcfce5,2022-03-07,Cartão da Conta,Pgo*eu Amo Cookies       Presidente Prbr,Pgo*eu Amo Cookies,-33.5
+3a85e986-92fd-437c-ad9b-40da55e5a9eb,2022-03-08,Pix enviado,Transferência Pix,Transferência Pix,-399.9
+d64a9feb-f7f4-48aa-a7e9-8026adc4da88,2022-03-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+310b66dd-944e-494a-ac22-36ca09b31eb1,2022-03-09,Cartão da Conta,Uber* Pending            Www.uber.com.br,Uber,-10.95
+6d1f9d7a-e662-4fba-b5a4-f7284d585a07,2022-03-10,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-17.68
+1687586c-5e9c-4b1f-b0ea-45de2840f925,2022-03-12,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-24.73
+d296c65b-d898-423a-aaf4-19c516a124ce,2022-03-12,Cartão da Conta,Frutus Comercio V        Presidente Prbr,Frutus Comercio V,-12.99
+8ed9aef9-b239-489a-947b-152330da7367,2022-03-12,Cartão da Conta,Turquesa-comercio        Presidente Prbr,Turquesa-comercio,-26.0
+61dcbe5b-c9f9-4c24-9547-2ed6af32d9a7,2022-03-12,Cartão da Conta,Quartzo Comercio De Ali  Presidente Prbr,Quartzo Comercio De Ali,-8.0
+3f1fc500-7679-4785-adfa-2714c70ea228,2022-03-13,Cartão da Conta,Cia Do Brigadeiro        Presidente Prbr,Cia Do Brigadeiro,-42.4
+022e44be-4518-465e-9098-6da1b404c866,2022-03-13,Cartão da Conta,Netflix.com              Sao Paulo    Br,Netflix,-39.9
+f394c690-7cb0-4fa5-b7de-19392eec87b9,2022-03-15,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,148.07
+330c0c98-c435-439b-90cb-12ddbeec5127,2022-03-15,Cartão da Conta,Picpay**dq2*steam        Sao Paulo    Br,Steam,-1.76
+fccac616-d480-4977-ac09-879824c97531,2022-03-15,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,580.0
+cbc9fc45-e9b3-47ca-926a-ffaba2dbdc8e,2022-03-15,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-39.63
+9bb0dc21-4839-4508-9e00-6f9383a12c97,2022-03-16,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-948.84
+31f398d2-e1d9-48e1-8b31-5db2e8bad141,2022-03-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+19c0e4a5-6a87-4e1d-8788-9fc2268ab9e1,2022-03-19,Pix enviado,Transferência Pix,Transferência Pix,-124.76
+22be8f3c-5307-4bca-97cb-0877ffa664a5,2022-03-19,Pix enviado,Transferência Pix,Transferência Pix,-27.69
+7defae7f-f195-4a52-8830-243e8a62d08f,2022-03-19,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-34.04
+1fc7ac4e-f04c-4465-a907-f94c70a828f7,2022-03-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+6b9882a8-e030-413f-ac9d-d4d46d1a8573,2022-03-22,Cartão da Conta,Panificadora Chantilly   Presidente Prbr,Panificadora Chantily,-23.94
+ad1271dc-3d52-4c1c-9729-d617ea9d8a1f,2022-03-22,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.24
+5780f894-48e0-4cc7-8e7f-25e581eb0d40,2022-03-23,Cartão da Conta,99*roberto Luiz Rodriguespresidente Prbr,99app,-9.4
+6bbf7e10-90f6-4812-87c0-aa64ab1370d5,2022-03-24,Cartão da Conta,Tsa Bikes                Presidente Prbr,Tsa Bikes,-24.0
+538e3cf0-05bf-4cd3-8c3e-02c6a44e69d0,2022-03-25,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,760.0
+0732f42e-259e-4d74-97a2-3f3e9be1df4b,2022-03-26,Pix enviado,Transferência Pix,Transferência Pix,-37.1
+adfbcf46-6a34-469d-bb6a-273d3e8bfdb7,2022-03-26,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-299.63
+1fb46ffd-1340-4cd2-ba6c-34ade0f3cb14,2022-03-26,Cartão da Conta,Pag*mrcheff              Presidente Prbr,Pag*mrcheff,-39.98
+4080f829-d705-4a8f-8f4a-7b0ed4a69802,2022-03-27,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,250.56
+090ee105-b842-4274-b53f-6a446a793a9d,2022-03-27,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-48.51
+dca9fe90-fd00-4b08-991c-fff49028057b,2022-03-28,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,657.68
+8a53f448-9c11-4bc5-9be5-580c2bb01030,2022-03-29,Cartão da Conta,Mercearia Stadella       Presidente Prbr,Mercearia Stadella,-1.99
+38dc755c-c03d-4782-a605-8d4fefc6dab8,2022-03-29,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-20.11
+5dd12847-e485-4c58-8012-199212c58780,2022-03-29,Cartão da Conta,Laboratorio Marle        Presidente Prbr,Laboratorio Marle,-130.0
+74597711-fe2c-4490-91d4-bf721472e636,2022-03-30,Pix enviado,Transferência Pix,Transferência Pix,-500.0
+eb02e79d-5b78-44bf-a931-cfe9d87ae425,2022-04-01,Cartão da Conta,Santos   Fonseca   Lan   Presidente Prbr,Santos   Fonseca   Lan,-21.62
+21c162dc-0535-461b-9120-c408e2f25444,2022-04-01,Pix enviado,Transferência Pix,Transferência Pix,-64.8
+8792ffbd-d093-4cc3-ae23-98eea3ce79c8,2022-04-01,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-27.9
+98262401-f5b7-4753-9dd5-98fa69c6730c,2022-04-01,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,150.0
+ef843042-9fd0-4868-a15f-c4bf5d78caac,2022-04-02,Pix enviado,Transferência Pix,Transferência Pix,-9.9
+b186d6f5-ac40-426f-8dc8-7e42c095072b,2022-04-02,Cartão da Conta,Presid Prudente 12       Presidente Prbr,Presid Prudente 12,-14.49
+7c7494d4-fec9-46e3-b9c5-8bdb667902da,2022-04-02,Cartão da Conta,Santos   Fonseca   Lan   Presidente Prbr,Santos   Fonseca   Lan,-26.41
+c5b1637d-cbe1-476c-8501-ceae1654ff95,2022-04-03,Pix enviado,Transferência Pix,Transferência Pix,-43.05
+f5560c13-678d-4480-80d4-807c005f4d9a,2022-04-03,Pix enviado,Transferência Pix,Transferência Pix,-122.71
+9902c0e7-08e8-4119-ac30-8d4b81296a91,2022-04-04,Pix enviado,Transferência Pix,Transferência Pix,-33.0
+bcb4b4f8-9ba6-45c5-abee-829233d9d0ba,2022-04-05,Salário recebido,Recebimento De Salário,Recebimento De Salário,556.83
+cd2f1e7a-1a8a-4bfb-a264-929deb7c3296,2022-04-05,Pix enviado,Transferência Pix,Transferência Pix,-20.0
+c7a19cbf-78ee-405d-a2a3-0f02a3c1eebe,2022-04-06,Cartão da Conta,Cianita Comercio De Ali  Presidente Prbr,Cianita Comercio De Ali,-65.6
+fd7799c7-808a-463b-a63d-ceb1cb359f83,2022-04-06,Pix enviado,Transferência Pix,Transferência Pix,-43.01
+fe90d88c-3f5e-4087-aab5-eebca0056d4a,2022-04-07,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,20.0
+05c9ba50-f97d-45b5-8e2e-0456125059ab,2022-04-08,Cartão da Conta,Ph Fcd Sb Presidente P   Sao Paulo    Br,Ph Fcd Sb Presidente P,-79.8
+25f158e5-2593-42e3-b280-9dd5ecd2dddf,2022-04-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+28283de8-bfbd-4e18-9e59-757a4146ff48,2022-04-10,Cartão da Conta,Santos   Fonseca   Lan   Presidente Prbr,Santos   Fonseca   Lan,-27.82
+7e9e2432-ee08-4250-a115-1534dc838ae2,2022-04-10,Pix enviado,Transferência Pix,Transferência Pix,-47.9
+ad7000bf-a5e7-46d4-8f44-e386741fedec,2022-04-10,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-87.26
+fc495fd5-7836-477b-8b17-e788e0893984,2022-04-12,Pix enviado,Transferência Pix,Transferência Pix,-5.0
+a97b7fd1-45a7-4a00-9cb1-257b5a6ecd49,2022-04-13,Outros,Shopping Cashback Recebido,Shopping Cashback Recebido,5.0
+69fde0e8-d02c-4133-8f3c-445894c3470d,2022-04-14,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,15.0
+4ed4784d-3451-45e8-a54d-306a2c990ed6,2022-04-16,Pix enviado,Transferência Pix,Transferência Pix,-40.01
+a2c20c1b-137c-44a9-a14b-ca8931fc858c,2022-04-17,Cartão da Conta,Chiquinho Sorvetes       Presidente Prbr,Chiquinho Sorvetes,-30.0
+48bf6b78-7818-4263-a7df-44c88bc1d601,2022-04-17,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-42.86
+efa5ba76-fac5-429a-adc0-20d305136538,2022-04-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+46a35316-1ef3-4039-9e44-1f76f5ead209,2022-04-20,Salário recebido,Recebimento De Salário,Recebimento De Salário,768.0
+370b16c0-65b3-4259-9d66-a6493d724995,2022-04-21,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+695fb967-7fbd-4527-9778-b69bdf7fe60b,2022-04-22,Cartão da Conta,Edjalme Peligrinoti Pi   Presidente Prbr,Edjalme Peligrinoti Pi,-33.0
+38a15d1b-229e-4be9-95d9-66c77ad87f95,2022-04-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+dc525379-8071-444b-94c1-2a562d903917,2022-04-22,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-193.4
+353bcf36-bcd8-49a3-8a5f-967e54ca75ee,2022-04-22,Cartão da Conta,Muffato Max Prud         Presidente Prbr,Muffato Max,-86.11
+80adb3b1-1aa5-4993-88d8-79e73ff3d274,2022-04-22,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.84
+a932b3ef-3a35-45ee-b75e-4b9fd6ba1804,2022-04-23,Cartão da Conta,Edjalme Peligrinoti Pi   Presidente Prbr,Edjalme Peligrinoti Pi,-33.0
+5ddb45f0-fb34-466e-bc04-1bbdee44d743,2022-04-24,Pix enviado,Transferência Pix,Transferência Pix,-13.78
+61f3d787-7a2b-4a79-a333-ef70f1509bf0,2022-04-24,Pix enviado,Transferência Pix,Transferência Pix,-84.99
+5f612e1e-8ca1-47b3-be62-edc0bc03a646,2022-04-25,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.69
+3c3874a4-0854-499b-a862-7e6c0918d694,2022-04-26,Pix enviado,Transferência Pix,Transferência Pix,-9.8
+f3f82970-de76-4b63-ade1-672be47d60b6,2022-04-28,Pix enviado,Transferência Pix,Transferência Pix,-34.74
+2929d852-5fb5-410e-8e10-9fb8c56eed8b,2022-04-29,Cartão da Conta,Ph Fcd Sb Presidente P   Sao Paulo    Br,Ph Fcd Sb Presidente P,-87.81
+ae311efa-274c-4e78-9ec0-b670730472a7,2022-04-30,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+4e42913d-843b-4c21-bd90-eb0b81f84b8f,2022-04-30,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-7.64
+7a8cde17-a10c-4ba5-bf59-a426d51137dc,2022-05-01,Cartão da Conta,Chiquinho Sorvetes       Presidente Prbr,Chiquinho Sorvetes,-31.0
+1d89b7dc-f3c3-4306-b79d-60f0ee285e5b,2022-05-04,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-19.0
+0e777557-86aa-41e2-bbd4-32135d515a21,2022-05-04,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,100.0
+a8634831-8c5f-4f20-8125-6df32e6cf884,2022-05-05,Salário recebido,Recebimento De Salário,Recebimento De Salário,794.72
+47aff8b2-6bf4-4220-85e6-3ced17926edc,2022-05-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.57
+64c80e05-2fd9-45ab-ad38-bd2fba71705b,2022-05-07,Pix enviado,Transferência Pix,Transferência Pix,-43.01
+e38ed73c-6097-40dd-afee-afca53ab5e06,2022-05-07,Cartão da Conta,Drogaria_sp Drogariasppresao Paulo    Br,Drogaria São Paulo,-163.34
+108c7a0f-e31a-4307-88e3-f1385a9b2366,2022-05-08,Cartão da Conta,Chiquinho Sorvetes       Presidente Prbr,Chiquinho Sorvetes,-36.0
+6757fdbe-b4aa-42ca-be10-87c85027e2f2,2022-05-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+553bd4e1-1b44-451d-908c-9faf8daaa33f,2022-05-10,Pix enviado,Transferência Pix,Transferência Pix,-56.64
+7a464b1a-29a6-4af4-8cf1-9d77f2609e14,2022-05-12,Pix enviado,Transferência Pix,Transferência Pix,-10.18
+17329f5c-cda8-4755-bcef-ff997b9795ee,2022-05-13,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+b4a955b1-be19-40be-b66b-c1ad95101242,2022-05-14,Cartão da Conta,Associacao Cultural Ag   Presidente Prbr,Associacao Cultural Ag,-50.0
+6382031b-d665-4ce2-8ce7-247083806bfa,2022-05-17,Cartão da Conta,99*wandernei De Lima Ferrpresidente Prbr,99app,-11.6
+d32eb253-aa71-4989-8e04-2de0831fd66e,2022-05-17,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-11.91
+687b50b6-d114-4fb4-847d-00a9a88cbacf,2022-05-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,100.0
+2af53508-c2f0-463b-9d9b-f83f6eab5b21,2022-05-18,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-965.69
+7e14afc0-ea5a-4ab5-b924-629e4fe0ef10,2022-05-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,728.97
+7665c1f3-c999-4975-8a88-c6b55f8df6f1,2022-05-18,Pix enviado,Transferência Pix,Transferência Pix,-200.0
+6a021fea-21a8-4a32-b40c-47580ea29312,2022-05-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+923a67ad-f276-4679-9465-95742c030a51,2022-05-19,Outros,Shopping Cashback Recebido,Shopping Cashback Recebido,5.0
+d5cdfb0e-5204-4434-ab0f-df53d771351b,2022-05-20,Salário recebido,Recebimento De Salário,Recebimento De Salário,768.0
+163cab02-b579-455b-969c-78aba1be3594,2022-05-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.25
+7284d7df-7c00-4d49-a092-3669200b5d3c,2022-05-21,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+3ece3e30-ec91-442e-9872-0021dd141ee1,2022-05-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+878a3581-ab0a-4379-a0f1-2ad8c4e6cacd,2022-05-24,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1000.0
+f56a09c9-3959-4f6b-b39d-c337bddd1012,2022-05-24,Pix enviado,Transferência Pix,Transferência Pix,-29.73
+75682775-6ada-4df9-8ce4-09cb380c555a,2022-05-25,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1000.0
+4a993ce0-8a46-4deb-af02-cf3a70c9af57,2022-05-25,Pix enviado,Transferência Pix,Transferência Pix,-100.0
+62010d62-7e35-4d97-9e7e-67093515cf43,2022-05-26,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1500.0
+671d197a-ef6f-4761-8fd4-0dec187cfb8e,2022-05-26,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-1003.88
+87659b38-dfc7-4070-911b-ecf6d24e8185,2022-05-26,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1000.0
+694724e3-b0e0-4ec8-9db6-a841bdfc9ee8,2022-05-28,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,2.34
+58a138f8-5eff-4a59-84f5-807b995c34b2,2022-05-28,Pix enviado,Transferência Pix,Transferência Pix,-40.12
+a0ae902b-e3f4-4c71-b0e7-593e0d64f31d,2022-05-28,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,1040.0
+757f454b-f2ed-473d-901f-5210a42cb9c0,2022-05-28,Cartão da Conta,Presidente Prudente Iii  Presidente Prbr,Presidente Prudente Iii,-33.78
+b14b9016-8f16-41bf-8dc7-d5ec11b92a61,2022-05-28,Cartão da Conta,Drogasil 1089            Presidente Prbr,Drogasil,-31.79
+93defdf9-234e-4fc8-b15b-9ee073ed50e9,2022-05-30,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-24.07
+cd38a8fd-5d20-4988-b424-65491da8a698,2022-05-31,Pix enviado,Transferência Pix,Transferência Pix,-28.79
+32f8f130-dc92-411d-a008-fed5c43d24cc,2022-05-31,Pix enviado,Transferência Pix,Transferência Pix,-70.19
+49d35dc4-65bb-42d7-804d-c8799dca099e,2022-05-31,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-39.76
+df3adc99-9bff-4ff9-95a4-ae3e4116a5f8,2022-06-03,Cartão da Conta,Vivo Easy*diaria Voz     Sao Paulo    Br,Vivo Easy,-1.49
+76b8f5d0-8bc1-4e09-80ca-1bca4cc8b8c7,2022-06-03,Cartão da Conta,Rifane Mat Hidraulicos   Presidente Prbr,Rifane Mat Hidraulicos,-31.5
+ec972d6c-d6aa-4104-aad7-0e37ad8c8dc6,2022-06-03,Cartão da Conta,Rifane Mat Hidraulicos   Presidente Prbr,Rifane Mat Hidraulicos,-5.5
+f02151fa-16e4-4076-b8ed-ccc606e1a942,2022-06-04,Cartão da Conta,Vivo Easy*diaria Voz     Sao Paulo    Br,Vivo Easy,-29.7
+145e2554-5c3d-4ed7-8268-e3fedb9e3a2e,2022-06-04,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.62
+7ca0eb1f-94f4-48b8-9340-2a98b6783b0b,2022-06-05,Cartão da Conta,Turquesa-comercio        Presidente Prbr,Turquesa-comercio,-27.98
+166e3ea3-7d38-419c-b8b3-cd3f0b5df29a,2022-06-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.22
+e1b402e4-b809-4ea7-8133-33a1028cdb69,2022-06-05,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-35.9
+0d679ed2-48a3-4bc8-9cac-41d263638ba0,2022-06-06,Pix enviado,Transferência Pix,Transferência Pix,-35.8
+6582b54c-60ad-4f24-af41-ea01edaf52ba,2022-06-06,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,35.8
+d69aa557-f3df-4716-9cc9-9dbe65c61efd,2022-06-06,Pix enviado,Transferência Pix,Transferência Pix,-35.8
+f93212ce-505a-470f-a213-18b3dc83a154,2022-06-06,Salário recebido,Recebimento De Salário,Recebimento De Salário,846.91
+ab8dac99-fbdf-475d-8ad8-a9be4e67e00a,2022-06-07,Pix enviado,Transferência Pix,Transferência Pix,-49.49
+33243adb-d9ab-4978-82b5-145664f335a9,2022-06-07,Transferência Enviada,Transferência Para Outras Contas,Transferência Entre Contas,-1500.0
+e5425905-3b85-4a09-bac5-86a20c612d01,2022-06-08,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,100.0
+3773203c-bb59-4aca-865f-6d07bfb03a89,2022-06-08,Pix enviado,Transferência Pix,Transferência Pix,-34.19
+1f1fcad8-2d04-47d2-b22c-417796d3a238,2022-06-09,Cartão da Conta,Ebanx       *spotify     Curitiba     Br,Spotify,-34.9
+e64d1ab9-0560-4798-95d1-829f4524be5f,2022-06-13,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-961.37
+7bbc2560-591e-418c-9421-8b04a61ab463,2022-06-13,Cartão da Conta,All Chicken              Presidente Prbr,All Chicken,-25.6
+ebf699dd-4914-4fb7-b335-48c235ffa5da,2022-06-17,Pagamento de conta,Pagamento De Contas E Títulos,Pagamento De Contas E Títulos,-38.65
+d42fcd34-31e7-4800-8d88-68b7458fcf7f,2022-06-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+d8bba5f7-2f70-4364-8d61-8fc354c74abe,2022-06-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+c02ebdd0-dd5a-451a-9f0c-9e8e27fcaeb7,2022-06-18,Cartão da Conta,Pag*restaurante          Presidente Prbr,Pag*restaurante,-55.0
+81d356b8-742b-404d-9582-5ca32f37a1ee,2022-06-18,Cartão da Conta,Real Forte Decor Utili   Presidente Prbr,Real Forte Decor Utili,-70.77
+215d15b4-7692-457d-b577-99b5f47429b9,2022-06-18,Pix enviado,Transferência Pix,Transferência Pix,-35.0
+63e78e3f-07da-4b11-b2e4-3165edee5de3,2022-06-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+65be9f31-0a11-49a3-b7a4-ab82d1f87b4f,2022-06-19,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.04
+a0aee284-c257-4bdb-b8e8-e70828875b00,2022-06-20,Salário recebido,Recebimento De Salário,Recebimento De Salário,830.5
+4e81aa4a-651f-45b7-901d-db72a2ff23d2,2022-06-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,5.67
+e14f04a1-3c62-4549-9f2a-531d2e44e51c,2022-06-21,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.15
+adbee43e-382a-48c1-8583-ce871089a0db,2022-06-21,Pix enviado,Transferência Pix,Transferência Pix,-8.15
+41b9329f-4a8d-4bf8-8aff-8a3b8ce5e91e,2022-06-21,Cartão da Conta,All Chicken              Presidente Prbr,All Chicken,-25.6
+c60595e5-8591-46a2-ac4f-c8adb5434c1e,2022-06-21,Pix enviado,Transferência Pix,Transferência Pix,-220.0
+85a4e800-1976-4d82-8e31-e51f139f9d7a,2022-06-21,Cartão da Conta,99* Pop 21jun 11h27min   Sao Paulo    Br,99app,-6.5
+bbe7c882-b00e-47c9-bd65-86697c13f24b,2022-06-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-9.9
+383fb24b-20ec-4732-a7fa-f12b357e6dad,2022-06-23,Pix enviado,Transferência Pix,Transferência Pix,-336.87
+e775daea-969d-49a1-ac14-5826a26e68f9,2022-06-27,Pix enviado,Transferência Pix,Transferência Pix,-24.18
+69b13e75-3753-459a-a920-9368a481b019,2022-06-28,Cartão da Conta,Presid Prudente 12       Presidente Prbr,Presid Prudente 12,-23.43
+a4e6b8af-9c8d-47f6-8a6c-1c1b2c77f039,2022-06-30,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-8.5
+4599249c-c228-468f-aed6-9276c0fae1f5,2022-06-30,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-27.9
+30b3f0f4-a778-4295-8ed3-5f95033dfe87,2022-06-30,Pix enviado,Transferência Pix,Transferência Pix,-214.1
+399d7635-ece9-488a-8999-da9179e9ede0,2022-07-01,Tesouro Direto,Pagamento de Juros - Tesouro Direto,Pagamento de Juros - Tesouro Direto,132.99
+5d6a7a29-8bc8-4d0c-9a8b-543ea69057bd,2022-07-02,Pix enviado,Transferência Pix,Transferência Pix,-22.39
+ea22b927-8c88-44ee-8c9d-faacad864d11,2022-07-03,Cartão da Conta,Ph Fcd Sb Presidente P   Sao Paulo    Br,Ph Fcd Sb Presidente P,-87.8
+225c5e7b-d74e-4452-add5-9b41d3107666,2022-07-05,Salário recebido,Recebimento De Salário,Recebimento De Salário,632.16
+de4ad7ac-a614-4363-94d3-6a6fec6d9c92,2022-07-08,Pix enviado,Transferência Pix,Transferência Pix,-19.83
+30535fc1-d9fd-48ac-b4d3-6e3dc4659222,2022-07-08,Pix enviado,Transferência Pix,Transferência Pix,-41.79
+e6845000-8342-4d84-babe-a07c17c20596,2022-07-09,Cartão da Conta,Edjalme Peligrinoti Pi   Presidente Prbr,Edjalme Peligrinoti Pi,-33.0
+cfdd0106-12ef-4e8c-99d4-4033c62a1cca,2022-07-09,Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,-34.9
+9928be2a-9519-41a0-80b0-155376c78dd4,2022-07-10,Pix enviado,Transferência Pix,Transferência Pix,-46.57
+69884810-0210-40b9-9568-878dce0a8ee6,2022-07-10,Cartão da Conta,Drogasil 1639            Presidente Prbr,Drogasil,-21.63
+69887c79-f67f-4e4a-baab-66088c85f860,2022-07-10,Cartão da Conta,Viva Acai                Presidente Prbr,Viva Açaí,-27.07
+a3d304e5-c679-4445-8f54-89bd56979bda,2022-07-11,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-27.9
+fa3c18b4-1791-4586-b484-74c0800b9c5f,2022-07-12,Pix enviado,Transferência Pix,Transferência Pix,-34.14
+fc39d82f-a0e6-400e-a37a-45129cfa9c6f,2022-07-13,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-34.43
+2e6f20f2-1b38-493e-bd3d-ef7d977a5f53,2022-07-13,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-20.9
+be531f07-4f1f-4283-bcbf-0ae847ce8052,2022-07-13,Pix enviado,Transferência Pix,Transferência Pix,-56.26
+0a55400a-6f97-4b29-9d0f-11ec7d9bab1e,2022-07-13,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,49.9
+54a7666c-6da9-4357-9af8-467f3c4e2bbf,2022-07-13,Pix enviado,Transferência Pix,Transferência Pix,-49.9
+b58d75a0-e9dc-4d01-9ccd-22c52741810a,2022-07-15,Cartão da Conta,Gygabon Goulart          Presidente Prbr,Gygabon,-27.9
+b7b224e3-f990-4785-ab64-5e91f25bf14d,2022-07-15,Devolução saldo Cartão Pré-Pago,Mastercard final 0034,Mastercard final 0034,0.01
+92bc0f27-3cec-4d6e-bbf0-0753cf176aed,2022-07-16,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-270.67
+f3f85ade-a707-400a-a78f-354e5343f856,2022-07-16,Cartão da Conta,A E M Lanchonete         Presidente Prbr,A E M Lanchonete,-23.5
+8ba7ca15-0d3b-40f8-a75a-9da110960011,2022-07-18,Cartão da Conta,Acai Mania               Presidente Prbr,Acai Mania,-18.35
+d1e4613e-978f-4e92-b9fd-248cd2b71c6f,2022-07-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+bdc49925-7dd3-4ae5-a9d4-b753873046e8,2022-07-19,Uso de Cashback,Saldo de cashback para pagamento,Saldo de cashback para pagamento,50.0
+bdc49925-7dd3-4ae5-a9d4-b753873046e8,2022-07-19,Recargas e Gift Cards,Steam,Steam,-53.0
+956af66a-9167-432c-9347-da4e1cc69101,2022-07-19,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+b0ced91e-9215-47bd-9920-df0026836216,2022-07-19,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+f8e097a5-41e0-4d62-badc-fab72d9091aa,2022-07-19,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.04
+d85333ff-93a8-4d79-9982-76263b8a47a4,2022-07-20,Salário recebido,Recebimento De Salário,Recebimento De Salário,830.5
+a58e14c1-3042-4ccf-9afd-3e0245dc7fec,2022-07-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,3.47
+c51a89eb-1e44-4632-a485-6d557396c7a5,2022-07-22,Cartão da Conta,Picpay**dt6*steam        Sao Paulo    Br,Steam,-19.8
+b9e6fe38-24dc-4632-88c2-d0c355575e64,2022-07-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+3ac491a7-4aed-41dd-9c1f-0b0724ea5097,2022-07-23,Pix enviado,Transferência Pix,Transferência Pix,-265.35
+e2d3d2db-5baa-4fc4-a891-7807a972c33b,2022-07-29,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,100.0
+9e4ecb54-1d17-49d0-b6b0-5cf08d0913d8,2022-07-29,Cartão da Conta,Muffato Max Prud         Presidente Prbr,Muffato Max,-82.13
+34086053-fc9d-4001-8afe-ff3997e75967,2022-07-31,Cartão da Conta,Acai Mania               Presidente Prbr,Acai Mania,-20.51
+b597556b-ff01-48b6-b76c-661d9b7dca1e,2022-08-03,Pix enviado,Transferência Pix,Transferência Pix,-54.79
+ad7d59c5-eb6c-4ef3-a5d9-14d2b64dbad0,2022-08-04,Cartão da Conta,Viva Acai                Presidente Prbr,Viva Açaí,-30.92
+6e442ece-6dc1-4e3a-953f-8b2ac2049a67,2022-08-04,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-204.23
+71951c73-02c6-4e51-8cec-3d819260bd24,2022-08-04,Tesouro Direto,Aplicação em Tesouro Direto,Aplicação em Tesouro Direto,-103.64
+b40269c7-b582-4428-9fec-c3ddd72ef257,2022-08-05,Salário recebido,Recebimento De Salário,Recebimento De Salário,686.08
+e187eef5-bbe0-407c-8edc-8f08edda2e4d,2022-08-05,Cartão da Conta,Vivo Easy*diaria Voz     Sao Paulo    Br,Vivo Easy,-14.7
+7d00c301-5fbb-4bdf-a44f-cb0b51437c06,2022-08-07,Pix enviado,Transferência Pix,Transferência Pix,-50.0
+704c301f-e122-4753-b35a-34a2f0d2f842,2022-08-08,Pix enviado,Transferência Pix,Transferência Pix,-44.19
+5df5a77b-1a16-45ef-91fb-2832aca5fb19,2022-08-09,Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,-34.9
+636a97ab-1853-40d8-b87a-d6f6e350674c,2022-08-09,Estorno Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,10.96
+636a97ab-1853-40d8-b87a-d6f6e350674c,2022-08-09,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-10.96
+29469dbc-f9d5-4337-b46d-a9672ca1a366,2022-08-10,Pix enviado,Transferência Pix,Transferência Pix,-51.76
+11f9e11b-1af0-49ae-945f-0e055c854651,2022-08-11,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,887.87
+c2be3948-6f3d-4fb3-a02f-6bbb40347547,2022-08-13,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-57.59
+7ddd30fa-a787-4950-bd67-ddcab2b070ce,2022-08-15,Pagamento de conta,Zemo Pay Tecnologia Em Pagamentos Ltda.,Zemo Pay Tecnologia Em Pagamentos Ltda.,-969.56
+fbcecb49-29a7-40d4-8a80-160354e4abf1,2022-08-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+4a2bbe54-d60e-4641-9129-e96a3acb67ca,2022-08-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+ebbd142a-08dc-4597-8419-e76bc0370c42,2022-08-18,Salário recebido,Recebimento De Salário,Recebimento De Salário,830.5
+152230d7-c0fa-4a42-a733-74047e0dec30,2022-08-18,Pix recebido,Recebimento De Transferência Pix,Recebimento De Transferência Pix,8.0
+40b958da-2035-4f8f-b669-5eac9c430079,2022-08-19,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.15
+86461c0d-8cb4-4eeb-b4fa-236f73d48055,2022-08-20,Cartão da Conta,Auto Posto Grigoleto Ii  Presidente Prbr,Auto Posto Grigoleto Ii,-113.0
+a3390060-93a2-486a-8545-9e7152314db7,2022-08-20,Cartão da Conta,Mercadolivre*tchechurrascosasco       Br,Mercadolivre*tchechurrasc,-81.3
+21e32d56-0001-4b12-bb2f-0ed2bda822f6,2022-08-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,4.74
+7c22a2be-1045-4a0e-b59d-8416ea9492d7,2022-08-21,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-71.43
+1fb584a8-81db-4fc1-94ed-45d664463a14,2022-08-21,Pix enviado,Loja Integrada,Loja Integrada,-42.32
+c6f6f15e-76c2-4106-bf25-3ae1151cc839,2022-08-21,Cartão da Conta,Graocafe.com.br          Presidente Prbr,Grão Café,-50.0
+8643c299-8bb6-40e6-afd0-17acfd20ada2,2022-08-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+72c66762-1ca8-4fca-8f5b-7957e71f96da,2022-08-22,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-277.96
+873dea73-6dc2-4db1-b03b-47698b9d15d8,2022-08-23,Cartão da Conta,Pag*restaurante          Presidente Prbr,Pag*restaurante,-60.28
+f09ab885-1289-49d0-a2c8-e9343741dfb5,2022-08-23,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-35.58
+fdee1bcd-d5bd-4e9c-ae99-d8a215652eef,2022-08-23,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-22.9
+06b35fb8-05b7-4dca-be7e-79456d850cb6,2022-08-24,Cartão da Conta,Mercadolivre*padariasuprepresidente Prbr,Mercadolivre*padariasupre,-14.5
+9bc63106-81aa-4a21-90cf-8e4b1a3c02bc,2022-08-26,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-200.0
+72ee54b7-f27a-474a-a1ec-9d92b4d334cc,2022-08-26,Cartão da Conta,Jose Roberto Ramos Juniorpirapozinho  Br,Jose Roberto Ramos Junior,-20.0
+8a097fcb-53f4-4719-beb2-6b9120862dfd,2022-08-26,Pix enviado,Calvin Souza Procopio Dos Santos,Calvin Souza Procopio Dos Santos,-80.0
+ee29bb0a-42dd-44c3-9083-39a178978c96,2022-08-28,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-43.27
+83b6d58f-0807-47cf-b0ab-efc4c7afc2f8,2022-08-28,Cartão da Conta,Carrefour Epp            Presidente Prbr,Carrefour,-189.23
+0e05a41e-dc58-455b-9131-9768ae7299d1,2022-08-29,Pix enviado,Ediel Ferreira Da Silva,Ediel Ferreira Da Silva,-10.0
+ca1d9245-eafa-4434-82f2-b0836f3e7b48,2022-08-30,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-48.97
+3e2eb235-5a0e-4e9f-af31-c96a36f24026,2022-08-31,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,282.0
+5d7f330f-c8c8-4e70-bd27-8320c7c456d2,2022-09-02,Pix recebido,Marcos Lacerda Teixeira,Marcos Lacerda Teixeira,100.0
+6855fabc-47d9-4887-ac0c-d2f969b35c4e,2022-09-03,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-149.0
+fac2187a-e567-484c-be99-866cc042497f,2022-09-04,Cartão da Conta,Max Guanabara            Presidente Prbr,Max Guanabara,-145.01
+43907eb4-2f6d-4fa9-8c36-c39f980fadb8,2022-09-05,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-44.19
+a8064317-c6a0-4f04-be79-1a31450be6cf,2022-09-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.91
+ee75b241-e105-44f0-8964-55a1bd3c259c,2022-09-05,Salário recebido,Recebimento De Salário,Recebimento De Salário,704.75
+ebfd9eb8-2934-4697-91d5-7c5d089f7040,2022-09-06,Cartão da Conta,99*                      Sao Paulo    Br,99app,-6.1
+4d40b844-b4eb-4d9e-bc3e-1558a62dbcf0,2022-09-06,Cartão da Conta,Maq Center Papelaria     Presidente Prbr,Maq Center Papelaria,-28.8
+35c55508-cee0-46b4-856c-bc03672e82c0,2022-09-06,Cartão da Conta,Anholeto   Runichi C.    Presidente Prbr,Anholeto   Runichi C.,-24.0
+3a752ba1-ffd1-41dd-9dac-72bcb9bca191,2022-09-07,Pix recebido,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,19.74
+22457233-3427-43c0-946b-160c279c5d84,2022-09-07,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-19.74
+2fa9195a-bf0f-46c6-a71e-c13638395f52,2022-09-07,Cartão da Conta,Suco Bagaco              Presidente Prbr,Suco Bagaco,-12.99
+5ded78ca-66c5-4602-ab75-facad0b1ee2c,2022-09-08,Pix enviado,Wanderson Rodrigues Pereira,Wanderson Rodrigues Pereira,-50.0
+ff23f345-e6d8-476b-8895-f311568b6c14,2022-09-08,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-500.0
+ebaf5036-31d5-424e-b286-4328f8d5c78c,2022-09-08,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,300.0
+3738e525-6f44-4d83-b625-f7281448d42e,2022-09-08,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,200.31
+2baa615a-4373-4ff4-acf5-fb815c344754,2022-09-08,Cartão da Conta,Banca Do Tenis Clube     Presidente Prbr,Banca Do Tenis Clube,-12.0
+18acc24e-26b0-4b9f-b40e-93481a2246cc,2022-09-09,Cartão da Conta,Ebw*spotify              Curitiba     Br,Spotify,-34.9
+1e7b11e5-58cd-40cb-8494-ca971c3808ee,2022-09-09,Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,-34.9
+4262d24c-38a0-491f-8594-af5c31b4f15d,2022-09-09,Pix recebido,Wanderson Rodrigues Pereira,Wanderson Rodrigues Pereira,100.0
+b88d3702-827f-47ca-903f-a2943ba01cd1,2022-09-10,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-11.18
+1e7b11e5-58cd-40cb-8494-ca971c3808ee,2022-09-10,Estorno Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,34.9
+f89098d7-4a8c-49a7-af82-f67feacd973e,2022-09-12,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-72.89
+41007f49-fe3b-4938-bfbb-2b687adf20d8,2022-09-12,Pix enviado,Magalu Pagamentos Ltda,Magalu Pagamentos Ltda,-48.95
+579f9c05-1af0-4014-90a2-10a5711b66df,2022-09-12,Transferência Recebida,Transferência Recebida,Transferência Recebida,0.19
+7190b441-64e1-45ec-a326-cb6f5ced8ef0,2022-09-12,Transferência Recebida,Transferência Recebida,Transferência Recebida,0.07
+48e07f93-a2be-4708-b250-2ec3130c4c44,2022-09-13,Recargas e Gift Cards,Steam,Steam,-21.0
+48e07f93-a2be-4708-b250-2ec3130c4c44,2022-09-13,Uso de Cashback,Saldo de cashback para pagamento,Saldo de cashback para pagamento,19.47
+0c4a6745-dd4f-41d4-8bb9-efd58e896d8d,2022-09-14,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-10.0
+e49acac3-43f2-4ff8-a5c4-96b4056bb9a6,2022-09-14,Cartão da Conta,Turquesa-comercio        Presidente Prbr,Turquesa-comercio,-30.49
+40677f79-fe48-43d8-99bf-52d251fab074,2022-09-15,Salário recebido,Recebimento De Salário,Recebimento De Salário,729.85
+e27b0041-f200-4034-b1c5-967e090f13b8,2022-09-15,Tesouro Direto,Resgate em Tesouro Direto,Resgate em Tesouro Direto,106.86
+887c449f-45e6-4e5e-8125-6928b145279a,2022-09-16,Cartão da Conta,Lojas Americanas         Presidente Prbr,Lojas Americanas,-10.28
+06453a04-c6c8-40bb-921a-04f585a97267,2022-09-17,Cartão da Conta,Paypal *steam Games      35314369001  Gb,Steam,-5.0
+756a5615-15eb-4f9d-b7e6-dca9113735b6,2022-09-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+0f0a576d-b99c-4a34-ae78-6c0ad8d28512,2022-09-18,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,8.0
+e5eb3ece-ff02-425a-87f7-f6cbb1d348d3,2022-09-18,Cartão da Conta,Viva Acai Presidente Pr  Presidente Prbr,Viva Açaí,-12.9
+a4851906-fcb6-4ada-a317-fc548987b931,2022-09-18,Cartão da Conta,Max Guanabara            Presidente Prbr,Max Guanabara,-25.27
+4b6ef5f7-6ce6-454f-a771-e91a6b6f3218,2022-09-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.6
+29bfa3fc-e2b9-44b2-9b67-8950d4be84b6,2022-09-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+f002d352-e9b3-4320-b3bd-f31b3a95a278,2022-09-19,Cartão da Conta,Picpay**dt6*steam        Sao Paulo    Br,Steam,-1.8
+4e88d2f7-b909-4c6e-9e2b-02c6d6e7ae6d,2022-09-20,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1500.0
+f9579a92-658f-4f12-824b-900085e92232,2022-09-20,Tesouro Direto,Resgate em Tesouro Direto,Resgate em Tesouro Direto,1245.33
+06453a04-c6c8-40bb-921a-04f585a97267,2022-09-21,Cartão da Conta - Ajuste a Débito,Paypal *steam Games      35314369001  Gb,Steam,-0.21
+aac9e0f2-91b2-4513-950d-218ba769a18f,2022-09-22,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-277.22
+9dbcb01f-be42-44d7-962a-e97c116b61e2,2022-09-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+9cf88d2c-9eab-4b79-bc2a-5e3b1ae0fc35,2022-09-23,Cartão da Conta,Edjalme Peligrinoti Pi   Presidente Prbr,Edjalme Peligrinoti Pi,-50.0
+ff905708-3c9b-4e1e-ae0a-cdda02ac2cdb,2022-09-24,Cartão da Conta,Mercadopago*vanessa      Presidente Prbr,Mercadopago*vanessa,-15.0
+c565f29d-087a-47dc-8975-c590972d88e3,2022-09-24,Cartão da Conta,Pag*espetinhosdo         Presidente Prbr,Pag*espetinhosdo,-17.0
+f18bb903-ba5d-4837-bb68-55795e05a932,2022-09-24,Cartão da Conta,Sales Silva Lanchonete   Presidente Prbr,Sales Silva Lanchonete,-19.6
+91642bd5-f55b-4a04-a487-95c00e092628,2022-09-24,Cartão da Conta,Mais1 Cafe Sp/presiden   Presidente Prbr,Mais1 Cafe Sp/presiden,-35.2
+93c26804-e6c3-477b-a7fe-2a7615bacdff,2022-09-27,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-53.9
+2217f16b-1725-45d0-a2ad-548c087cc76c,2022-09-28,Transferência Enviada,Transferência Para Outras Contas,Transferência Entre Contas,-2495.0
+c4320a63-04be-4003-84be-490cf1a96605,2022-09-28,Transferência Enviada,Transferência Para Outras Contas,Transferência Entre Contas,-5.0
+52feff6c-ceb6-4150-9128-bf0effdd3d2a,2022-09-28,Estorno Transferência Enviada,Devolução Da Transferência,Devolução Da Transferência,10.0
+52feff6c-ceb6-4150-9128-bf0effdd3d2a,2022-09-28,Transferência Enviada,Transferência Para Outras Contas,Transferência Entre Contas,-10.0
+9ae9f2ba-e4e1-4e0e-ba50-9ac1e9ad0a1c,2022-09-28,Tesouro Direto,Resgate em Tesouro Direto,Resgate em Tesouro Direto,2352.17
+a3d406ac-5480-4f8e-bf49-d68eb51c0dd1,2022-09-28,Pix enviado,Calvin Souza Procopio Dos Santos,Calvin Souza Procopio Dos Santos,-80.0
+35952b06-4304-4c27-87c8-002499ffdde0,2022-09-30,Cartão da Conta,Vivo Easy                Sao Paulo    Br,Vivo Easy,-0.32
+b3fa4859-4de3-4df1-b7da-7207637a7081,2022-09-30,Cartão da Conta,Vivo Easy                Sao Paulo    Br,Vivo Easy,-2.99
+a31d44ce-d404-49e6-9dbc-de4a138b2cfc,2022-09-30,Cartão da Conta,Vivo Easy                Sao Paulo    Br,Vivo Easy,-30.96
+025d1971-4c42-47e5-9c6e-d0d328689287,2022-10-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.34
+854f6fda-af24-4b5a-bfe9-99e8f030718e,2022-10-02,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.83
+34e9f459-7c51-4447-b800-b7e0ebeb6796,2022-10-04,Pix recebido,Marcos Lacerda Teixeira,Marcos Lacerda Teixeira,100.0
+73970186-90ff-4166-9fd6-1ef46e238117,2022-10-04,Pagamento de conta,Instituto Nacional Do Seguro Social,Instituto Nacional Do Seguro Social,-85.0
+5a35aa9e-40d4-4e78-b88f-6f971747a07b,2022-10-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.96
+510654a3-fcef-4f36-bdd3-898f16adba82,2022-10-08,Pix enviado,Alex Sandro Alves Bezerra,Alex Sandro Alves Bezerra,-35.0
+fc58ccf1-5251-4922-898f-f9c8b34f8e6c,2022-10-09,Cartão da Conta,Ebw*spotify              Curitiba     Br,Spotify,-34.9
+7b2403ae-6124-41c7-9ba1-ddde63712190,2022-10-09,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-44.19
+4267276e-5cec-40d6-bae1-81e2ab38e30b,2022-10-10,Cartão da Conta,99* Pop 10out 10h46min   Sao Paulo    Br,99app,-10.5
+cbcb9a5e-fb09-4700-adda-54def5ba05d2,2022-10-10,Estorno Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,12.93
+cbcb9a5e-fb09-4700-adda-54def5ba05d2,2022-10-10,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-12.93
+7c59911e-8358-4c37-9a7c-bcaa6d8087a6,2022-10-10,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-14.95
+8e3a32b2-f675-49b6-8e39-39227f12170c,2022-10-11,Cartão da Conta,Lojas Americanas         Presidente Prbr,Lojas Americanas,-7.99
+5c8eb25f-9d0c-4a92-954d-dc13f5a47b82,2022-10-11,Cartão da Conta,Lojas Americanas         Presidente Prbr,Lojas Americanas,-14.99
+19cea0a2-43cd-4c9c-b18a-4909315f3698,2022-10-17,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+8adfedfc-d086-4465-af36-6f4d16018e20,2022-10-19,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+61028f24-6907-4e74-b3ac-d7f6ad222ac2,2022-10-19,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-25.45
+f04b9c51-6397-4f52-b2f1-6f89c2d056bc,2022-10-20,Pagamento de conta,Oeste Saude . Assistencia A Saude Suplementar,Oeste Saúde,-27.63
+e82fe476-f6bd-4cf2-b174-0c59b9036e0f,2022-10-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+ec6db23e-9c0a-471b-a331-911af4c998ae,2022-10-31,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.34
+90e6deca-5e0e-4a18-a014-62a4513e258e,2022-11-01,Pix enviado,Calvin Souza Procopio Dos Santos,Calvin Souza Procopio Dos Santos,-80.0
+78215236-b613-4dc8-9ae4-a563990ef566,2022-11-02,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.83
+fdf5f56c-8ecb-4036-8a99-cb7594b31ef0,2022-11-03,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.02
+e7a15f11-ac58-45e8-aeff-183a4c351ebb,2022-11-04,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.12
+0358c19d-7a85-41e3-a803-6a35bcdeb5cc,2022-11-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.2
+7b0eddb5-7eb7-4cf1-949d-f908895efd61,2022-11-07,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,166.5
+7bc19a5c-9221-4881-b563-f2b732fcb543,2022-11-08,Pix enviado,Adyen Do Brasil Ltda,Adyen Do Brasil Ltda,-40.19
+8ca57a8a-d4db-44cf-bca9-000a79257806,2022-11-09,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-212.27
+254a7d13-87e2-4fd1-b3bd-e9ba74044f5b,2022-11-09,Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,-34.9
+84b8ee1d-0343-4795-b183-fb3c4e300a00,2022-11-10,Estorno Pix enviado,Joao Candido Barbosa Sobrinho,Joao Candido Barbosa Sobrinho,15.0
+84b8ee1d-0343-4795-b183-fb3c4e300a00,2022-11-10,Pix enviado,Joao Candido Barbosa Sobrinho,Joao Candido Barbosa Sobrinho,-15.0
+e6ec67ef-ec1f-4926-8091-fa41846022f4,2022-11-10,Estorno Pix enviado,Joao Candido Barbosa Sobrinho,Joao Candido Barbosa Sobrinho,15.0
+e6ec67ef-ec1f-4926-8091-fa41846022f4,2022-11-10,Pix enviado,Joao Candido Barbosa Sobrinho,Joao Candido Barbosa Sobrinho,-15.0
+1d64109b-2654-433b-97ae-c244fb77777b,2022-11-15,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-25.6
+eabee177-1b32-4f2c-84e4-e6c0443a9912,2022-11-18,Pix enviado,Quero Bolsa,Quero Bolsa,-166.9
+88aa7945-7393-4c79-bf49-0e0ab1b3de22,2022-11-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+f96a3417-6492-4809-9678-ceae9d86422c,2022-11-18,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,720.0
+69b2f46a-0a3b-48ac-95f3-ba48d3cb7ec0,2022-11-19,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+47337132-dd28-46f0-a6b0-711868624a3f,2022-11-20,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,45.1
+26014f49-98c5-4833-b403-10405865f388,2022-11-21,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-500.0
+2dfcb509-d81c-48da-b2b2-ed569b72b1a2,2022-11-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+2dfcb509-d81c-48da-b2b2-ed569b72b1a2,2022-11-22,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,14.9
+c4590285-aa1e-45d8-882b-3c5c2d0b799c,2022-11-23,Pix enviado,Via Varejo S/a,Via Varejo S/a,-27.87
+fa3c7b2d-55be-48b2-ad3c-4eb2c42ac505,2022-11-28,Pagamento de conta,Energisa Sul.sudeste . Distribuidora De Energ,Conta de Luz Energisa,-268.97
+fa3c7b2d-55be-48b2-ad3c-4eb2c42ac505,2022-11-28,Uso de Cashback,Liberação de cashback para pagamento de conta,Liberação de cashback para pagamento de conta,35.1
+c7340938-5785-4ea4-a025-e1e463193c2c,2022-11-28,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,290.01
+37025c82-bcc1-4cf5-aa75-7b93c3a20802,2022-11-30,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-20.11
+3b1e1521-f2ff-4883-a175-1f51d3e22da7,2022-11-30,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,150.0
+f9e4999a-c9ad-4117-8a1e-e6422cb32261,2022-12-01,Cartão da Conta,Mercearia Stadella       Presidente Prbr,Mercearia Stadella,-14.64
+c7d268f5-a090-4838-987d-adb27587cab8,2022-12-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.7
+30ea3369-f4e8-4f28-a6e2-5d58ef269faa,2022-12-02,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.83
+248efc03-b221-46af-a727-ab85eb3ee054,2022-12-03,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.03
+d107e597-76a1-4e9a-b704-39fe40f1e8c8,2022-12-04,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.12
+b2c54a46-0f58-48a9-8a9f-7998c15d6957,2022-12-05,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-36.5
+f5daa4dd-6dbe-4975-8558-138606517fc6,2022-12-06,Cartão da Conta,Ametista Comercio De A   Presidente Prbr,Ametista Comercio De A,-29.0
+fbd0c299-431a-479f-bbea-e236277c3413,2022-12-06,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,936.18
+52a8dab7-2fa9-4a6b-8142-6edc12426019,2022-12-09,Cartão da Conta,Ebw         *spotify     Rio De Janeirbr,Spotify,-34.9
+9e594977-9ee3-4399-be04-f1abf8e9c197,2022-12-09,Pix enviado,Raia Drogasil,Drogasil,-105.38
+a676ccc4-e6e4-4810-b8e9-e31acec50643,2022-12-13,Pagamento de conta,Zemo Pay Tecnologia Em Pagamentos Ltda.,Zemo Pay Tecnologia Em Pagamentos Ltda.,-948.95
+b98c77c5-05b5-4e60-b896-cbe3c987dd9f,2022-12-14,Cartão da Conta,Consorcio Estacionamen   Presidente Prbr,Consorcio Estacionamen,-12.0
+6333299a-4053-43f9-9729-441dffed7a5a,2022-12-15,Cartão da Conta,Picpay**ps3*steam        Sao Paulo    Br,Steam,-5.8
+58758b4b-d1f6-4feb-99c9-72eeec4e5613,2022-12-15,Pix enviado,Tellis Freitas Nunes,Tellis Freitas Nunes,-200.0
+1bf2e785-8df2-4bdc-8250-32d2368ec125,2022-12-15,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,150.0
+6a064126-7626-4329-bf55-e52d0ad65867,2022-12-15,Pagamento de fatura,Recuperação de valores financeiros - Cartão de Cré,Recuperação de valores financeiros - Cartão de Crédito,-128.65
+d25e46f8-aae4-4c93-a024-f69a3f044140,2022-12-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+0af52785-7455-4160-a439-204d74967138,2022-12-18,Pix enviado,Raia Drogasil,Drogasil,-50.56
+dfcd3f69-e0c1-446a-8f1e-704679bceb93,2022-12-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.71
+c626a8d8-001e-4a71-8a02-6bf3f837f3c0,2022-12-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+370d115d-1b91-4e51-9e12-edd58e151fcb,2022-12-20,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,127.5
+f540ae0d-35cc-448a-8484-5a105da15cc6,2022-12-20,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,720.0
+05b3b3ec-0246-4d82-a44a-929b6e69549c,2022-12-22,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-43.75
+1e85fe6a-b472-45c9-a1c1-5b20dca54a5c,2022-12-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+f63d6d39-1ca8-42d6-a384-982d1039c613,2022-12-26,Pagamento de conta,Energisa Sul.sudeste . Distribuidora De Energ,Conta de Luz Energisa,-294.85
+9e440d43-2bb0-4064-9369-6f68a863da6b,2022-12-26,Pix recebido,Carolina Sayuri Franca Takazono,Carolina Sayuri Franca Takazono,400.0
+a7535420-ab1c-427f-9d22-0cdc1271005d,2022-12-26,Cartão da Conta,Drogasil 1102            Presidente Prbr,Drogasil,-74.78
+ce663b57-fa96-48f2-bb63-c0078812ee95,2022-12-26,Cartão da Conta,99* Pop 26dez 12h07min   Sao Paulo    Br,99app,-6.39
+fdfcc384-b545-4b1c-a451-5be4a064010f,2022-12-26,Cartão da Conta,99* Pop 26dez 11h51min   Sao Paulo    Br,99app,-5.57
+b8b00f4e-eead-441f-9901-d70e083d4200,2022-12-27,Pix recebido,Tellis Freitas Nunes,Tellis Freitas Nunes,150.0
+7bde2d7a-f155-41ce-b794-bbbce2e11614,2022-12-27,Pix enviado,Vantuir Paquiela,Vantuir Paquiela,-20.0
+21489b35-16b1-4c6c-b591-b9a550ff8424,2022-12-28,Cartão da Conta,Pag*joaojulhao           Pirapozinho  Br,Pag*joaojulhao,-43.0
+21489b35-16b1-4c6c-b591-b9a550ff8424,2022-12-28,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,7.0
+45b4d36d-6ac3-49d3-a9b9-4f3ef41a2404,2022-12-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.46
+c04b4124-bfc2-4f75-bf6a-4d4eb602cf9c,2022-12-29,Pix recebido,Tellis Freitas Nunes,Tellis Freitas Nunes,100.0
+aedbfb22-9eba-490a-adce-ab67b6e6b432,2022-12-30,Cartão da Conta,Pag*cantinhomineiro      Pirapozinho  Br,Pag*cantinhomineiro,-45.0
+2080f4b8-e1fc-4b50-81f6-c3df3265d99a,2022-12-30,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.21
+f5ce4cb2-3ff3-4e12-8617-01be8501a26f,2023-01-01,Cartão da Conta,Kanabara Acai            Presidente Prbr,Kanabara Acai,-20.6
+5370246b-5e93-447e-ad17-be6642ebb443,2023-01-02,Tesouro Direto,Pagamento de Juros - Tesouro Direto,Pagamento de Juros - Tesouro Direto,36.75
+94d618e5-0dec-4221-9762-fc68684df9cd,2023-01-05,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-83.8
+abaef4e8-054e-43ca-8a86-7af1200e0f12,2023-01-06,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-12.55
+badd32cc-c8fa-4cca-9f59-e28682aabaff,2023-01-06,Salário recebido,Germibras Comercio Representacao Importacao E Exp,Germibras Comercio Representacao Importacao E Exp,936.18
+429ca572-f499-4782-ace4-46ac2657ba05,2023-01-07,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-47.5
+fbbfc717-d95d-4e62-b09b-91cf0e04dda5,2023-01-09,Cartão da Conta,Ebw*spotify              Curitiba     Br,Spotify,-34.9
+caf83a02-bf40-4955-ad16-0899b65eb781,2023-01-09,Pix enviado,Raia Drogasil,Drogasil,-203.17
+d901e770-cd71-4920-94da-5e8dfeeb1d64,2023-01-15,Pix recebido,Carolina Sayuri Franca Takazono,Carolina Sayuri Franca Takazono,500.0
+8e045cc4-1564-4ac6-9f5e-ada4cb047b3d,2023-01-16,Pix enviado,Raia Drogasil,Drogasil,-22.74
+26eebb32-d6ba-423f-972d-78da173bf018,2023-01-17,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,5.0
+26eebb32-d6ba-423f-972d-78da173bf018,2023-01-17,Cartão da Conta,Xerox Do Marcos          Presidente Prbr,Xerox Do Marcos,-5.0
+f4002fcf-be15-495c-adce-c3fce880781b,2023-01-18,Pix enviado,Raia Drogasil,Drogasil,-16.95
+1717c63b-bdaf-4ca0-a736-4c2bc071588f,2023-01-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+186ab73b-ec10-4671-bb1a-b930b549375a,2023-01-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.43
+028720d9-5744-4d61-8105-f109b7c019e2,2023-01-19,Pix enviado,Calvin Souza Procopio Dos Santos,Calvin Souza Procopio Dos Santos,-80.0
+3ed5a477-e9e2-41ec-b4c9-02408a1b2113,2023-01-20,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,7.65
+3ed5a477-e9e2-41ec-b4c9-02408a1b2113,2023-01-20,Cartão da Conta,Edjalme Peligrinoti Pi   Presidente Prbr,Edjalme Peligrinoti Pi,-42.0
+270fbefb-8221-4e12-b048-099aa47917d1,2023-01-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,6.55
+2dbaaf11-a02e-4db1-bebf-ceb7ba475ec0,2023-01-21,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+bf7b8a25-83cb-4619-9614-825af639fe1d,2023-01-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+8201c69a-a22b-4a5d-b4a1-6689bf799383,2023-01-23,Cartão da Conta,Auto Posto Grigoleto Ii  Presidente Prbr,Auto Posto Grigoleto Ii,-89.03
+cc5a62cd-c9c2-4bdd-a644-2d8f5231b9a9,2023-01-23,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-125.54
+d56fd55c-1b9c-424f-9171-d6dc546d75d7,2023-01-26,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-114.18
+7677560c-2aec-44e7-80ee-dc9955d197f7,2023-01-26,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-40.0
+bca5ddc9-28bf-4e33-aa74-748e830cce74,2023-01-26,Estorno Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,40.0
+bca5ddc9-28bf-4e33-aa74-748e830cce74,2023-01-26,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-40.0
+ce19dfc5-1308-49d4-b42d-1655ba916906,2023-01-26,Estorno Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,40.0
+ce19dfc5-1308-49d4-b42d-1655ba916906,2023-01-26,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-40.0
+d235e1af-6e04-4f10-949a-d1cd29b34cf6,2023-01-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.15
+a5920a99-9e7f-49c0-b10a-b04fa56880b5,2023-01-27,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.08
+f355a47e-dee2-4b23-9e32-5c35c7524cdf,2023-01-28,Cartão da Conta,Max Guanabara            Presidente Prbr,Max Guanabara,-120.41
+58db3984-9680-4d29-a022-f5d7ee399319,2023-01-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.17
+654e9b33-b52f-48c1-bdf9-9ae6a0644f1a,2023-01-29,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+eb73eae3-79b1-4fa2-b83c-e169a339f469,2023-01-29,Cartão da Conta,Carrefour Epp 077        Presidente Prbr,Carrefour,-65.89
+2089ffc6-b802-4f8a-a016-88bffbf41794,2023-01-29,Cartão da Conta,Milky Moo                Presidente Prbr,Milky Moo,-32.0
+d77b5104-4be1-4c83-b0a7-42c6c8018b3b,2023-01-29,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.11
+74dfdeef-43b6-419b-b50f-4e8ece0b11a1,2023-01-30,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,2255.58
+7ae46633-92fe-4ddb-9984-a2b27c6c669a,2023-01-30,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-2500.0
+476006af-12e2-4bfc-9eb5-bf93fc0252fd,2023-01-30,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,2623.78
+88d7fa9f-1054-447e-aa09-6303ed9eb6f4,2023-01-31,Cartão da Conta,Picpay**steam            Sao Paulo    Br,Steam,-5.92
+154126e7-ae0d-4abd-9432-d4b6e4ebcf41,2023-02-01,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-79.9
+420389e4-1dcc-4fcf-afe4-5fa77c9a9d71,2023-02-01,Pix enviado,Lucas Furtado Quintao,Lucas Furtado Quintao,-250.0
+e2d54c94-6821-40e5-9c68-4ee3eb28d596,2023-02-02,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,901.33
+3f57a024-cc94-4094-a2a1-a1d946b5bb15,2023-02-02,Pix enviado,Growth Supplements P A E,Growth Supplements,-175.16
+81c7fb1a-305f-4e58-89ec-b6b3cab73da3,2023-02-02,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,79.9
+64773095-134f-4232-bd1b-7400f9367539,2023-02-04,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,23.29
+05ab6ae8-6816-4bc7-b8f1-d28889aea8b5,2023-02-04,Cartão da Conta,Mercadopago*vanessa      Presidente Prbr,Mercadopago*vanessa,-10.0
+3500d04f-3f05-4568-a384-802129c9593c,2023-02-04,Cartão da Conta,Mercadopago*vanessa      Presidente Prbr,Mercadopago*vanessa,-24.5
+b3ef8109-93de-424b-978b-184402b9f89f,2023-02-04,Cartão da Conta,Paulo Sussumu            Presidente Prbr,Paulo Sussumu,-32.0
+c5e0ae50-d48f-42c5-8ac0-93087c3bf311,2023-02-04,Cartão da Conta,Mercadopago*temperos     Presidente Prbr,Mercadopago*temperos,-9.0
+d51e7d06-972b-4db1-85c9-25dbf140f47e,2023-02-05,Cartão da Conta,Consorcio Estacionamen   Presidente Prbr,Consorcio Estacionamen,-12.0
+16a860d1-525c-4ae7-9a95-ddb919c3e37e,2023-02-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-79.9
+5721fc96-abfe-4651-af6d-9a5355abff36,2023-02-06,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-47.5
+92ed586f-77e6-47de-b55a-dd6cf44d438f,2023-02-06,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,5.3
+0583b20e-3e23-4602-b05e-2a1b5f04fa87,2023-02-07,Cartão da Conta,Anhanguera Educacional   Valinhos     Br,Anhanguera,-139.45
+ceec2add-23f6-448c-ae30-68d5bddfa235,2023-02-07,Cartão da Conta,Amazon.com.br            Sao Paulo    Br,Amazon,-25.16
+3a167f80-0c59-4c51-a20e-123373e4c570,2023-02-08,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-23.95
+f09d9a5a-a602-498e-a68d-63f96835b744,2023-02-08,Pix enviado,Raia Drogasil,Drogasil,-39.99
+29a31527-a3bd-40ec-afd8-424dff4db83e,2023-02-09,Cartão da Conta,Ebw*spotify              Curitiba     Br,Spotify,-34.9
+c65253d6-9950-4d2c-9f8e-d7b53ad5600c,2023-02-09,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-1300.0
+9868d09f-4371-4338-a6c7-eb2e94c0d828,2023-02-09,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-2000.0
+2bf697f4-2828-4e40-bd69-6a76625d4249,2023-02-11,Pix enviado,Ebanx Ltda.,Ebanx Ltda.,-48.07
+c2334dcc-2768-4f40-9b63-e3609701a163,2023-02-15,Cartão da Conta,Amazon-marketplace       Sao Paulo    Br,Amazon,-74.9
+51699481-061c-4e24-b93e-c36b03b4d383,2023-02-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,3.28
+2019448d-e4e6-4932-a41a-e27d14faf69b,2023-02-18,Cartão da Conta,Panificadora Chantilly   Presidente Prbr,Panificadora Chantily,-15.33
+2019448d-e4e6-4932-a41a-e27d14faf69b,2023-02-18,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,6.07
+bed068be-20b9-4dbf-9060-4801b107a5cc,2023-02-18,Cartão da Conta,Lojas Americanas         Presidente Prbr,Lojas Americanas,-26.46
+bed068be-20b9-4dbf-9060-4801b107a5cc,2023-02-18,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,26.46
+3df28a4c-e6e8-454a-9a3e-c393b5e554b2,2023-02-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+986cd201-3698-47b3-b08f-d6d69275cdc5,2023-02-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+8accdb5c-2d5a-4564-aa88-2de63e966fe0,2023-02-20,Cartão da Conta,Posto Itatiaia           Presidente Prbr,Posto Itatiaia,-12.0
+3667b4e3-3923-4dc3-b6f6-31a433ae6b7e,2023-02-20,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-24.15
+69b2f253-1272-45d1-a5f4-ca33fa5a5940,2023-02-20,Cartão da Conta,Yaki Sushi               Presidente Prbr,Yaki Sushi,-43.3
+22b5c08b-1e4e-4d22-80da-f6091d6c4031,2023-02-20,Cartão da Conta,Ametista Comercio De A   Presidente Prbr,Ametista Comercio De A,-29.0
+a3381573-2713-41f5-b082-c6e5bb2e6ab9,2023-02-21,Pix enviado,Calvin Souza Procopio Dos Santos,Calvin Souza Procopio Dos Santos,-80.0
+ee6f22bc-7a95-427e-9b4a-210b5727625b,2023-02-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+8e9a01c2-f31a-40a6-a769-b99e91baead0,2023-02-23,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-140.22
+f908acd5-be08-489c-b2cb-26c2dce403db,2023-02-23,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,250.0
+9ad416b1-58dd-497c-abfa-5f342ea27c10,2023-02-24,Pix enviado,Raia Drogasil,Drogasil,-29.19
+9b5f5a32-facb-41f4-b913-6f7ced0aa740,2023-02-25,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-29.9
+df0d8a54-f4c9-4432-9b99-ab6de6b4e2d1,2023-02-25,Cartão da Conta,Pag*rosalinadasilva      Presidente Prbr,Pag*rosalinadasilva,-17.0
+2a4a82c8-0ccb-4b3a-a192-c55dacbf4e84,2023-02-25,Cartão da Conta,Mercadopago*soniadantas  Presidente Prbr,Mercadopago*soniadantas,-28.0
+f57668d7-5952-4601-84c7-0ca60f4e400c,2023-02-28,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1352.0
+9a81f4ff-47f6-4e3b-bb42-eebae89335f0,2023-02-28,Pix enviado,Magalu Pagamentos Ltda,Magalu Pagamentos Ltda,-37.8
+dc6090ad-f8f0-4b64-b8fe-6813daf97e6e,2023-03-02,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-500.0
+998a3781-aba6-4609-bf29-d029524e7735,2023-03-02,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-40.0
+8028adea-9b72-4bf3-8664-e237eee18073,2023-03-03,Estorno Cartão da Conta,99* Pop 03mar 17h17min   Sao Paulo    Br,99app,21.0
+36cf00dc-3144-4d4b-bfd5-3299ab3bb604,2023-03-03,Cartão da Conta,99* Pop 03mar 17h18min   Sao Paulo    Br,99app,-19.5
+8028adea-9b72-4bf3-8664-e237eee18073,2023-03-03,Cartão da Conta,99* Pop 03mar 17h17min   Sao Paulo    Br,99app,-21.0
+b67df305-17a3-49ce-87e4-58cc42e70139,2023-03-03,Estorno Cartão da Conta,99* Pop 03mar 17h13min   Sao Paulo    Br,99app,15.1
+b67df305-17a3-49ce-87e4-58cc42e70139,2023-03-03,Cartão da Conta,99* Pop 03mar 17h13min   Sao Paulo    Br,99app,-15.1
+a9ff730d-5c17-422a-b446-e959daed69e2,2023-03-03,Pix enviado,Maria Lucia Dolovet,Maria Lucia Dolovet,-200.0
+b8d730da-9aa9-48a3-8b68-88edaadc13a9,2023-03-07,Cartão da Conta,Anhanguera Educacional   Valinhos     Br,Anhanguera,-139.45
+2ca7ae8d-5a2c-4f53-b775-857b239c8d13,2023-03-09,Cartão da Conta,Ebn         *spotify     Rio De Janeirbr,Spotify,-34.9
+d278821e-c188-4609-ad08-1f8c953cf6c3,2023-03-09,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-302.46
+332ae45e-9d38-4fab-bba0-89a131c05b06,2023-03-11,Cartão da Conta,Mp*londrifrutas          Presidente Prbr,Mp*londrifrutas,-10.0
+21c69f4e-b123-4827-a4c8-0872515e1fdb,2023-03-16,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,12.3
+7af2235e-d7fc-4d6a-a2cd-958e6a6c7906,2023-03-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.57
+234e29b8-ca38-4649-9c39-6009b38d6f6f,2023-03-18,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-59.97
+234e29b8-ca38-4649-9c39-6009b38d6f6f,2023-03-18,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,8.3
+8f9451c9-ed4c-4c65-b6fd-b8260cfa314f,2023-03-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+11adceef-4a10-46f1-ad84-d70351449f00,2023-03-20,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,13.64
+a0f8555b-a620-4913-8e51-f64d19f8eef0,2023-03-20,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+fc9c277b-be99-4fda-ad4b-00bb20ccc3d7,2023-03-21,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,250.0
+470df5a6-c7f1-48f9-9c9d-6c2a57afa8be,2023-03-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+1ea2e8c7-a658-48fe-89dc-a8f65c7672fe,2023-03-23,Pagamento de conta,Energisa Sul.sudeste . Distribuidora De Energ,Conta de Luz Energisa,-129.98
+283c1db5-73f6-4995-a5ca-5daec86cb4dd,2023-03-23,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+60305b66-de66-46f4-ab6f-9d2a1b8a6773,2023-03-24,Pix enviado,Raia Drogasil,Drogasil,-28.26
+122b8e12-79cc-4ad7-b1bc-e946e2d89734,2023-03-24,Cartão da Conta,Delivery Chantilly       Presidente Prbr,Delivery Chantilly,-15.61
+6cd48c15-47ff-444b-bd7e-11eeb037d75b,2023-03-25,Cartão da Conta,Mercpago*suelizinezzi    Presidente Prbr,Mercpago*suelizinezzi,-6.9
+a40bd9f0-1be7-4d07-8c7f-e4763b82265a,2023-03-25,Cartão da Conta,Pag*tatianemassumi       Presidente Prbr,Pag*tatianemassumi,-22.0
+7dda38c3-6071-4ac4-bc4b-d139fbfcd78d,2023-03-25,Cartão da Conta,Mercpago*pastelkidelic   Presidente Prbr,Mercpago*pastelkidelic,-36.0
+45f940c3-d902-4a12-af12-fb4aff42a5ac,2023-03-28,Cartão da Conta,Viva Acai Presidente Pr  Presidente Prbr,Viva Açaí,-30.07
+6ab2e3f5-3b66-4245-b14a-23ae635876b6,2023-03-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.53
+ded58a94-cee3-4da2-b074-fdc647a1cf05,2023-03-31,Pix enviado,Raia Drogasil,Drogasil,-23.55
+fb67f092-8454-4193-b1a9-ce4bce57db6c,2023-03-31,Cartão da Conta,Padaria Do Helcio        Presidente Prbr,Padaria Do Helcio,-5.93
+af46b5be-91c4-411d-b11a-a45d5b17bce9,2023-04-01,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-8.28
+e8486937-fd57-4126-aae7-3933b1bf2274,2023-04-01,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-10.53
+45b4c4bb-1112-4d91-b658-759684dca903,2023-04-05,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1352.0
+b4efb414-efee-424f-8197-e73adbba1335,2023-04-08,Cartão da Conta,Mercpago*soniadantas     Presidente Prbr,Mercpago*soniadantas,-7.0
+fdaf77e9-73b6-4843-abd2-1992021dd96a,2023-04-08,Cartão da Conta,Pag*erminiamaruki        Presidente Prbr,Pag*erminiamaruki,-47.0
+fdaf77e9-73b6-4843-abd2-1992021dd96a,2023-04-08,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,8.88
+fb1c3430-45c3-4a76-bf29-468fb5241468,2023-04-09,Cartão da Conta,Ebn         *spotify     Rio De Janeirbr,Spotify,-34.9
+0fa56520-0000-4b52-bed2-e589f9584245,2023-04-09,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-654.82
+ee402079-15d0-4966-be08-ecff780d3c0e,2023-04-11,Pix enviado,H 2 O Purificadores E Refil De Agua Eireli Epp,H 2 O Purificadores E Refil De Agua Eireli Epp,-79.7
+c4828efa-9a79-47e9-9c80-a69f2947ae22,2023-04-12,Cartão da Conta,Zenklub.com.br           +55123456789 Br,Zenklub,-70.0
+1b0efaf3-6926-4a27-8990-cd26680fbf5f,2023-04-15,Cartão da Conta,Mercpago*soniadantas     Presidente Prbr,Mercpago*soniadantas,-21.0
+866f4d07-c806-45ea-80fd-8c4a923f22bf,2023-04-16,Cartão da Conta,Pg *ton Distribuidor     Sao Paulo    Br,Pg *ton Distribuidor,-16.0
+69099980-b925-4ecf-933b-bf807cb51bf4,2023-04-16,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.54
+2c7d1a9c-26ed-4c07-8414-7030a7a4e92b,2023-04-17,Cartão da Conta,Milky Moo                Presidente Prbr,Milky Moo,-36.0
+428c5c19-3bcd-4c07-ac25-441ca17a7a8c,2023-04-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+a4f873e3-d955-4120-b4b7-eea166a523fa,2023-04-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+bea9a77a-1fd1-4db0-b5a3-10628f1bc807,2023-04-19,Cartão da Conta,Burger King Acae         Presidente Prbr,Burger King,-59.8
+d025e80b-2aca-47fc-b45c-65d9ff90044d,2023-04-19,Cartão da Conta,Eduardo Yoshio Od        Presidente Prbr,Eduardo Yoshio Od,-11.25
+2640b86b-3b4f-48f2-9395-4d56d8519a32,2023-04-20,Estorno Cartão da Conta,Burger King App          Barueri      Br,Burger King,5.0
+2640b86b-3b4f-48f2-9395-4d56d8519a32,2023-04-20,Cartão da Conta,Burger King App          Barueri      Br,Burger King,-5.0
+cc7d7adc-b4aa-4a79-9727-f501758442b6,2023-04-21,Pix enviado,Paulo A Bazam Junior Me,Paulo A Bazam Junior Me,-63.95
+72e340c6-8626-4509-879c-d2a84da7bf73,2023-04-22,Cartão da Conta,Pag*carlosalexandre      Presidente Prbr,Pag*carlosalexandre,-24.0
+3b0053c6-29d7-4983-80be-e4d8095f2683,2023-04-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+2ae78d8d-0ad6-422e-977b-4ec9bae8d55c,2023-04-24,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-149.61
+b71543a6-9cee-4d75-919d-74f5c904064c,2023-04-28,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1352.01
+008ee316-b08c-418e-86cb-1669ab2b16bb,2023-04-30,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-60.21
+1bf5668f-58d2-4c8b-b863-d6d934b9a989,2023-05-02,Cartão da Conta,Anhanguera Educacional   Valinhos     Br,Anhanguera,-94.51
+60c440ca-2aa9-4edb-b33e-284ce7b06cc3,2023-05-04,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,238.0
+39ea0d52-9462-47ce-9716-1a01c4db5dac,2023-05-04,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-230.0
+c9dc3825-5e69-4a84-96da-61b35662d636,2023-05-05,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.28
+61dd5a00-2e3f-440b-b064-89656d5d4f29,2023-05-06,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+6b820c77-1e4f-4711-b82a-d9a5a502a355,2023-05-06,Cartão da Conta,Estacenter               Presidente Prbr,Estacenter,-18.0
+6b820c77-1e4f-4711-b82a-d9a5a502a355,2023-05-06,Uso de Cashback,Liberação de Cashback para pgto Cartão da Conta,Liberação de Cashback para pgto Cartão da Conta,12.92
+3d9cbb6b-c2e3-4321-9447-c1fcc9d294ec,2023-05-09,Cartão da Conta,Ebn         *spotify     Rio De Janeirbr,Spotify,-34.9
+a2022e4e-5711-450b-9173-cbf85bacf638,2023-05-09,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-266.15
+3bf7a159-82b5-4ec3-8fc3-122b01d8473e,2023-05-13,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-31.65
+66eaf7d4-9eed-450d-a308-b967b7ab58fc,2023-05-13,Cartão da Conta,Pag*postotriangulode     Presidente Prbr,Pag*postotriangulode,-115.65
+bfeca526-253e-49f1-a361-be58595f782d,2023-05-16,Cartão da Conta,Viva Acai Presidente Pr  Presidente Prbr,Viva Açaí,-38.49
+4252dc44-2c1f-4e67-93f2-c8e2d5dfdf81,2023-05-17,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-44.35
+42eb1c05-a9ef-47fb-8395-aaf12ccab0f2,2023-05-17,Cartão da Conta,Ametista Comercio De A   Presidente Prbr,Ametista Comercio De A,-63.99
+e3d8adb1-98b9-4e18-a5e4-c1b9b3a216b9,2023-05-17,Pix enviado,Raia Drogasil,Drogasil,-47.39
+b59831a2-773b-4bf9-80f3-072d03b044f7,2023-05-18,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-2000.0
+0ff22763-a7fd-4ced-a3ce-68b7f47c4dda,2023-05-18,Renda Fixa,Aplicação em CDB,Aplicação em CDB,-500.0
+b617007d-71d5-4f67-af15-f720795f9962,2023-05-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+beb309d4-d621-4881-aa30-dea6820c8f06,2023-05-18,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,2092.67
+fbc5c4da-1c8b-4f6d-86cf-3255b242a75d,2023-05-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+d685e541-6a23-45f5-83fc-cc26439a1911,2023-05-18,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,824.78
+1b7cb652-d206-4a06-a563-9032e2916a10,2023-05-19,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+f669e1c0-a584-4f4b-92de-a37181d6447d,2023-05-20,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-15.45
+1dc72b1b-a895-40d4-855d-388e1748f38c,2023-05-20,Pix enviado,Lojas Americanas S.a.,Lojas Americanas S.a.,-29.96
+e13aaaa4-3c07-4a9f-9235-fae7dee54335,2023-05-20,Cartão da Conta,Rifane Mat Hidraulicos   Presidente Prbr,Rifane Mat Hidraulicos,-26.5
+9bcb16e8-cd06-4db5-bf54-8c61854ab9f1,2023-05-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+3f2ca86e-8e10-47ca-9f02-56aaaab9df4b,2023-05-23,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-115.1
+709bb459-19a1-4b60-9505-f59ce26517ce,2023-05-24,Pix enviado,Cristanini Sorveteria Ltda,Gygabon,-16.87
+cc18a936-f791-4003-ab60-7383bd684d00,2023-05-24,Cartão da Conta,Uber   *uber   *trip     Sao Paulo    Br,Uber,-6.38
+02073485-ecb1-4128-9949-994f4c1709b3,2023-05-26,Cartão Valor Reservado,Resgate total de CDB,Resgate total de CDB,891.59
+37a24600-da12-4c29-999d-8abf5606b6f4,2023-05-27,Cartão da Conta,Delivery Chantilly       Presidente Prbr,Delivery Chantilly,-59.02
+ae7423bf-7797-4ca3-9146-726b61f2a091,2023-05-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,6.83
+d61131bd-97bb-4988-a0f0-5dc55465cf2e,2023-06-01,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1370.0
+acbe244f-9ca0-4da3-a92a-07ce15f06688,2023-06-02,Cartão da Conta,Estacenter               Presidente Prbr,Estacenter,-4.0
+9bddefed-d61a-4597-b145-8bbbba4d8c60,2023-06-02,Pix enviado,Maria Lucia Dolovet,Maria Lucia Dolovet,-80.0
+1d56c486-7b5e-485e-af95-c81d8e177b96,2023-06-03,Cartão da Conta,Anhanguera Educacional   Valinhos     Br,Anhanguera,-94.51
+77deb0f9-f02e-459e-bacb-928d43d5eb33,2023-06-03,Cartão da Conta,Pag*silvanacristinade    Presidente Prbr,Pag*silvanacristinade,-36.0
+25caa4cc-8ec6-498c-baaf-d20c68777260,2023-06-08,Pix enviado,Warley Fernando De Oliveira,Warley Fernando De Oliveira,-50.0
+9f00487c-03fc-486f-8a50-723cf57c2560,2023-06-08,Pix enviado,Warley Fernando De Oliveira,Warley Fernando De Oliveira,-100.0
+b3f031ee-5cd6-4a9c-88ae-79d01310bf8c,2023-06-09,Cartão da Conta,Ebn*spotify              Curitiba     Br,Spotify,-34.9
+056cbc27-5300-4789-acf7-58f098d4a1bd,2023-06-09,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-510.73
+70c9f957-f2af-4184-80c3-1d2d2af4b690,2023-06-13,Pix enviado,Lucas Furtado Quintao,Lucas Furtado Quintao,-200.0
+b5f289fd-b241-4dd9-9232-824fcc7a017c,2023-06-16,Pix enviado,Edjalme Peligrinoti Pinho,Edjalme Peligrinoti Pinho,-40.0
+9d5d0a58-cd1f-463f-863d-fa19bd6f244d,2023-06-17,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+b709d67a-b290-4144-b991-8a6f46cf3203,2023-06-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.63
+134bb72f-88a3-4530-9bad-95e49e177876,2023-06-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+6178a412-41d1-49b6-bb00-3894700a8b24,2023-06-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+12e82d1f-f3e1-42c5-bee1-edb5ffaa2dd7,2023-06-20,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,150.0
+2bbf893f-f3be-41de-a30f-b5e6993cb3ce,2023-06-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+19badd15-a57e-42ba-9f33-808e4228eef4,2023-06-22,Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-116.24
+2a3adef4-462e-4eb1-97f3-29550d9e7e6a,2023-06-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,7.4
+d9fa1192-c88d-45b9-8650-e30f7d3102eb,2023-06-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,6.39
+0b6df7ff-74f8-4853-9067-aa6fcc75620e,2023-07-01,Cartão da Conta,Pag*rosalinadasilva      Presidente Prbr,Pag*rosalinadasilva,-16.0
+f720fa9b-449d-41be-9984-58b3ad3e6abf,2023-07-01,Cartão da Conta,Lojas Americanas         Presidente Prbr,Lojas Americanas,-39.97
+82fd12c9-92c9-473c-a5de-5ce52064c0a6,2023-07-01,Cartão da Conta,Pasteloko Centro         Presidente Prbr,Pasteloko Centro,-37.5
+e618144c-0027-4627-a501-6db8b4a9b38d,2023-07-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.82
+180aef5d-75ba-41a0-90b3-c3d807c80ae0,2023-07-03,Tesouro Direto,Pagamento de Juros - Tesouro Direto,Pagamento de Juros - Tesouro Direto,36.76
+ddd41a42-b6e1-41ef-b692-47dfb8b1dd60,2023-07-04,Transferência Recebida,Central Nacional Unimed,Central Nacional Unimed,61.73
+df57d2f1-d685-457c-a9f6-e498e47c3058,2023-07-06,QR Code Pix enviado,Raia Drogasil,Drogasil,-73.88
+c2a83f40-ce39-4c57-99c5-72e8e1e0557b,2023-07-08,Renda Fixa,Resgate total de CDB,Resgate total de CDB,507.37
+0e334e10-f174-4a5c-b5e7-331633add73f,2023-07-08,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-255.62
+d19eb76e-ba5d-4494-8afc-44d131f83ca6,2023-07-08,Cartão da Conta,Leo Presentes            Presidente Prbr,Leo Presentes,-54.0
+f2fb7398-75e1-494b-a93a-7f8112cf65ff,2023-07-08,Cartão da Conta,Pag*restaurante          Presidente Prbr,Pag*restaurante,-41.97
+59822a53-af00-4a2d-976e-83c35a6ea690,2023-07-08,Cartão da Conta,Giovani Flumian D        Presidente Prbr,Giovani Flumian D,-33.9
+374ac603-d5dc-4fe8-9243-902c5308422a,2023-07-08,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-35.92
+1060680f-b878-48fe-afaa-ff5658ae087c,2023-07-08,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,21.36
+c9cd7d7b-5625-4a92-9765-fb41921d4224,2023-07-08,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1272.22
+a5173849-6efd-4ae6-8f60-7d75add1975c,2023-07-09,Cartão da Conta,Ebn         *spotify     Rio De Janeirbr,Spotify,-34.9
+31674c23-85d0-4f78-b1ab-68970483072e,2023-07-13,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-25.4
+2e89c0d8-d4e4-490c-b50e-544a06e6c869,2023-07-13,Cartão da Conta,Mercearia Stadella       Presidente Prbr,Mercearia Stadella,-16.58
+ec333cde-e52d-4543-b073-dad6403f90b7,2023-07-13,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-97.19
+8f0db7f8-f6b5-4c43-9552-2f50910c4b11,2023-07-15,Cartão da Conta,Cacau Show Pruden        Presidente Prbr,Cacau Show,-39.6
+c7225fc1-b061-40ca-9d21-067fc54f3a4f,2023-07-16,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-300.0
+45720656-f545-4a10-957e-748d0007ab43,2023-07-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+f2a3157c-1b77-492d-8550-81738e3b4101,2023-07-18,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.63
+30f4293e-d0ae-4dde-a4cb-51e51b2378d8,2023-07-19,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.05
+f929c08c-1802-4963-8286-b1c0724a183b,2023-07-20,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-500.0
+9e42fe71-bd69-491d-a96a-1c5abc0fc7f0,2023-07-20,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-2000.0
+16d22f14-b492-463d-b64a-88a8f7d2d254,2023-07-20,Pix recebido,Latam Gateway,Latam Gateway,132.7
+0ebd3143-a4e3-4666-8f98-7b77ab68fc8d,2023-07-20,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,8.0
+16701b77-6c43-45be-a112-8d8c6166bae4,2023-07-20,Cartão da Conta,Eduardo Yoshio Od        Presidente Prbr,Eduardo Yoshio Od,-5.0
+701fb683-da45-4ad7-aba9-4f29c58c75b6,2023-07-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.16
+dd37476b-eb5e-4e81-91e1-0717ddaa7eed,2023-07-22,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-14.9
+6cf6be0a-3996-4832-bfe4-50fe4f771558,2023-07-22,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-19.99
+58e19208-d222-47a9-9775-a5110f42f7d2,2023-07-22,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-39.62
+98a68372-93e1-4afa-a172-f50795efce4c,2023-07-23,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-22.9
+488a50f2-3b38-4bc7-b704-e9015f54c64e,2023-07-23,Cartão da Conta,Padaria Do Helcio        Presidente Prbr,Padaria Do Helcio,-26.23
+dd1fe891-85a1-452e-8d15-7ad36bc9e1ad,2023-07-24,QR Code Pix enviado,Energisa Sul-sudeste - Distribuidora De Energia S,Conta de Luz Energisa,-132.51
+a5a29ef5-5d18-4260-a8a6-bb3e158556c6,2023-07-26,Cartão da Conta,Amazonprimebr            Sao Paulo    Br,Amazon Prime,-119.0
+b79eb26a-94df-4413-a93e-967a3d1f3079,2023-07-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,2.53
+4ca813d9-9acd-4946-971d-c3d59b5ad393,2023-07-29,Cartão da Conta,Pag*carlosalexandre      Presidente Prbr,Pag*carlosalexandre,-32.0
+0367d2fd-fa95-452c-9cb0-d4386db86313,2023-07-29,Cartão da Conta,Iris Park                Presidente Prbr,Iris Park,-67.0
+583ed6d8-c2b4-4894-a165-2642b8578d3b,2023-07-29,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-23.47
+aa0e3d7c-3d29-4241-b3c1-e7d82ec940d9,2023-07-29,Cartão da Conta - Ajuste a Crédito,Amazonprimebr            Sao Paulo    Br,Amazon Prime,14.9
+786e9d0a-8742-4716-b492-e45f4fbb9c4a,2023-08-01,Cartão da Conta,Eduardo Yoshio Od        Presidente Prbr,Eduardo Yoshio Od,-5.8
+607a86b5-9f23-4146-ad4c-5fc595ab5997,2023-08-01,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1370.01
+ec60f76a-cbcd-439b-8065-2b5d2b462768,2023-08-02,Tesouro Direto,Resgate em Tesouro Direto,Resgate em Tesouro Direto,898.69
+9a0a8e57-a384-451a-9048-1a0158cc0866,2023-08-05,Cartão da Conta,Mercearia Stadella       Presidente Prbr,Mercearia Stadella,-3.99
+9033dd27-8468-4cc1-b888-ad164d2d8f9a,2023-08-05,Cartão da Conta,Mp *pastelkidelic        Osasco       Br,Mp *pastelkidelic,-18.0
+2c2ff71a-bb56-4bd3-947c-51785eb090f8,2023-08-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-1018.26
+bda41fcf-075e-4da0-be86-2269d497cc51,2023-08-08,Pix enviado,Aline Dos Santos Fabris,Aline Dos Santos Fabris,-180.0
+bb14323c-410d-4fdf-b882-f9ae799aa10b,2023-08-09,Cartão da Conta,Ebn         *spotify     Curitiba     Br,Spotify,-34.9
+5789b4f7-7931-44fb-b600-e399b7d61288,2023-08-10,QR Code Pix enviado,Aulys Daniel Messas,Aulys Daniel Messas,-350.0
+8cd0fbab-e091-4094-89a0-e8f7618ed4bd,2023-08-11,Pix enviado,Aline Dos Santos Fabris,Aline Dos Santos Fabris,-180.0
+a02f4a8c-e38c-4241-a7b9-626e93de953e,2023-08-13,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,6.28
+94d4bbcf-8226-4424-9c49-ea00a6f5ecd6,2023-08-13,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1.3
+45d57438-5d16-4f61-9e7a-7e926cb59616,2023-08-13,Cartão da Conta,Drogaria Nissei 3        Presidente Prbr,Drogaria Nissei,-45.78
+a6d840c6-0bba-423e-8358-54785bad30ce,2023-08-16,Pix recebido,Luciano Guedes Cardoso,Luciano Guedes Cardoso,100.0
+fecd234f-c98e-43e2-a0c1-6bbe4b2d16a2,2023-08-17,Cartão da Conta,Copas Cafe E Vinho       Presidente Prbr,Copas Café,-75.0
+d8bbd7e5-7de6-4db9-ba5c-2a0a419c2f22,2023-08-18,Pix enviado,Aline Dos Santos Fabris,Aline Dos Santos Fabris,-360.0
+544c17be-9263-4189-91b0-ebb73b48d310,2023-08-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+4cb35c4f-0926-4158-81f6-d7cd2a7af23c,2023-08-18,Cartão da Conta,Eduardo Yoshio Od        Presidente Prbr,Eduardo Yoshio Od,-5.5
+6c6b8151-3f09-40b7-894d-77b3b0f36884,2023-08-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+6db2dde0-b048-414a-aed8-6c6ebb4f9410,2023-08-19,Cartão da Conta,Estacenter               Presidente Prbr,Estacenter,-10.0
+e90b9130-d28a-4e53-acaf-f8102cd205eb,2023-08-20,Cartão da Conta,Mp*donalinafeira         Presidente Epbr,Mp*donalinafeira,-16.0
+0c5fb378-264e-43a2-a168-fab6df1e701e,2023-08-20,Cartão da Conta,Pag*marcelocesarseidi    Presidente Prbr,Pag*marcelocesarseidi,-20.0
+ebac438a-5ea2-4884-9348-4f53d84dc0ed,2023-08-21,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-35.0
+84a16dbb-7adc-4049-bd23-f856cbcd2d93,2023-08-22,Pix enviado,Aline Dos Santos Fabris,Aline Dos Santos Fabris,-360.0
+2828f29c-eb42-495f-b67a-1f437114b8f7,2023-08-22,Renda Fixa,Resgate total de CDB,Resgate total de CDB,664.91
+d80194b5-662c-44b2-865f-fa0d78f90008,2023-08-24,QR Code Pix enviado,Energisa Sul-sudeste - Distribui,Conta de Luz Energisa,-138.07
+81564dc6-7c81-4509-8ce0-5c691f137d4f,2023-08-26,Renda Fixa,Resgate total de CDB,Resgate total de CDB,500.0
+80ea877c-ba05-481f-b058-92c6a8db3f79,2023-08-26,Cartão da Conta,Pag*rodrigooshima        Presidente Prbr,Pag*rodrigooshima,-51.0
+2ffb901e-6674-4eeb-b6c7-18c588499ea0,2023-08-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.64
+c0487d4c-219d-4f86-8556-ef4197f96ad7,2023-08-28,Pix enviado,Aline Dos Santos Fabris,Aline Dos Santos Fabris,-360.0
+02f1dcb8-db57-4bfc-a11b-958b3e207d29,2023-08-31,Pix recebido,Luciano Guedes Cardoso,Luciano Guedes Cardoso,110.0
+94cf1108-24a1-41e0-a25f-f85da57ba6cb,2023-09-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.27
+043cd1f6-6c7c-4b8b-86cf-14b1bccffb11,2023-09-02,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-315.0
+6b620613-ef37-4efa-8d13-46773f8f41fd,2023-09-02,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1370.0
+b30ceef0-5f0a-4df8-9995-8544149b064c,2023-09-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-211.75
+f72ab19e-fe3f-4f80-8c44-6ed193cb93a3,2023-09-07,QR Code Pix enviado,Growth Supplements P A E,Growth Supplements,-102.93
+edcf82f0-5c22-4689-81f7-98151023de4f,2023-09-08,Cartão da Conta,Pag*federacaodas         Presidente Prbr,Pag*federacaodas,-10.0
+9265b63b-fd6b-4630-8c98-974f068cc487,2023-09-09,Cartão da Conta,Ebn         *spotify     Curitiba     Br,Spotify,-34.9
+fd5dc9dc-ac26-44d6-949d-adb2e89241a7,2023-09-09,Cartão da Conta,Farmacia Nissei          Presidente Prbr,Drogaria Nissei,-15.65
+031d28a1-ca10-4984-a918-05ed04f6854e,2023-09-10,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-59.94
+3d26e952-13be-442f-a7a9-87caf2e16741,2023-09-11,Pagamento de conta,Anhanguera Educacional Participacoes S A,Anhanguera,-104.51
+8da16d2a-e266-4f33-b433-bc035da74940,2023-09-12,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+cb59c2fd-3399-46b5-84c4-366991fd8360,2023-09-14,Cartão da Conta,Viva Acai                Presidente Prbr,Viva Açaí,-23.89
+a09aa5a8-b888-41db-a601-977197d137aa,2023-09-15,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-178.69
+1ac5dfa0-3aff-4d34-826f-c5b0bc56abcf,2023-09-15,Pix recebido,Luciano Guedes Cardoso,Luciano Guedes Cardoso,120.0
+95d58721-a6bd-42b1-8c4e-a4f274563400,2023-09-16,Cartão da Conta,Laticinio Terra Doce Lt  Presidente Prbr,Laticinio Terra Doce Lt,-18.0
+56ebfc85-8e1b-49de-9320-048303f57856,2023-09-16,Cartão da Conta,Estacenter               Presidente Prbr,Estacenter,-10.0
+aeaac4f9-2d04-451e-9212-7ac33d49efb7,2023-09-16,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-9.8
+a6a65c42-d792-4bf0-bb2c-2560013869f8,2023-09-16,Cartão da Conta,Pag*rodrigooshima        Presidente Prbr,Pag*rodrigooshima,-51.0
+90e0a550-3ad7-4de5-a0a2-3cbc9e0b73c4,2023-09-17,QR Code Pix enviado,Pix Marketplace,Pix Marketplace,-12.9
+cae57b13-2c62-43f3-868f-1283196ea8b3,2023-09-17,Cartão da Conta,Farmacia Nissei          Presidente Prbr,Drogaria Nissei,-17.56
+406bb783-3db8-4153-b5ad-e736c3491a64,2023-09-18,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-12.0
+e96020e9-721d-4813-9d11-239f383e02be,2023-09-18,Cartão da Conta,Outback Pruden Shopping  Presidente Prbr,Outback Pruden Shopping,-149.75
+1e3d6e89-c0c8-4434-8757-206e5cca953c,2023-09-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+682d5f0c-b3c7-47e7-a53f-28431742b958,2023-09-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+1696742a-6fc4-42eb-8077-f3e4e3b94fbf,2023-09-20,Renda Fixa,Resgate total de CDB,Resgate total de CDB,506.8
+6d5a7e84-1148-43e9-b2c2-04cabba359f6,2023-09-21,Cartão da Conta,Drogaria Online          Sao Paulo    Br,Drogaria Online,-87.9
+0b06e7de-2a2c-4cac-a1d5-7706459034cc,2023-09-22,Cartão da Conta,Telha Norte              Presidente Prbr,Telha Norte,-85.9
+d47d381e-7c47-4921-8cfe-ce7518da04e7,2023-09-22,QR Code Pix enviado,Energisa Sul-sudeste - Distribui,Conta de Luz Energisa,-145.38
+6297b532-6ee2-4c41-b73a-792edd97e8bc,2023-09-22,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-102.69
+af7571ca-327a-4c4c-982f-e41d43d82db0,2023-09-22,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.29
+3e2d59d6-9271-454c-8775-fb1fd8c6b93e,2023-09-23,Cartão da Conta,Sabor Amigo              Presidente Prbr,Restaurante Sabor Amigo,-44.0
+af932c6a-cd9b-4586-bc7d-825c3928ccf8,2023-09-23,Cartão da Conta,Pastorinho Pruden        Presidente Prbr,Supermercados Pastorinho,-19.15
+d071284d-eaf0-46ba-85b3-27192de02529,2023-09-23,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-32.47
+90a1ab7e-5142-4bce-8606-7e4ed3caabe6,2023-09-24,Cartão da Conta,Panificadora Chan        Presidente Prbr,Panificadora Chantily,-15.76
+a939a31b-bdea-4170-afa8-c22181f0e3a2,2023-09-24,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-34.13
+8b1d942e-f07d-41af-a70a-824c00942a72,2023-09-25,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-23.65
+18dc481a-1390-4f8e-a02e-0c22881a17df,2023-09-26,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.62
+b44f74ce-7b82-43f4-b882-c1dfd141d404,2023-09-27,Cartão da Conta,Pag*14bushamburgueria    Presidente Prbr,Pag*14bushamburgueria,-94.0
+da654b3a-ce71-4999-8bc8-e5f7e17e4524,2023-09-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.69
+7a34800e-4cac-4bb1-82eb-cf516bafaf66,2023-09-29,Cartão da Conta,Farmacia Nissei          Presidente Prbr,Drogaria Nissei,-15.9
+cff5b0cb-097c-45b8-99e5-b7995a147a02,2023-09-30,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1000.0
+38a73973-b3fd-4cc7-a79d-20efe29be0bd,2023-09-30,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1360.57
+e985918c-7dfd-4c98-8cb5-379dbba4546e,2023-09-30,Cartão da Conta,Pag*presidente           Presidente Prbr,Pag*presidente,-75.0
+62a66692-b7a1-4796-b066-762072d9b850,2023-09-30,Cartão da Conta,Pronta Entrega           Presidente Prbr,Pronta Entrega,-38.23
+211931f0-8627-49a6-adb0-b560941d3f74,2023-09-30,Pix enviado,Maicon Douglas Ferreira De Souza,Maicon Douglas Ferreira De Souza,-80.0
+5711fd71-33cb-4327-8b28-c8e5406eada2,2023-09-30,Pix enviado,Walax Ferreira,Walax Ferreira,-80.0
+84eb1d75-56b3-4c8c-8a22-eaf5064f1fde,2023-09-30,Pix enviado,Hugo Henrique Salomao Vieira,Hugo Henrique Salomao Vieira,-150.0
+8a32c68f-1217-40c1-9a78-58e86ebe6a7c,2023-10-01,Cartão da Conta,Pag*presidente           Presidente Prbr,Pag*presidente,-25.0
+e87204f5-527e-4ef9-8084-41069e60c394,2023-10-01,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,370.0
+b664b22f-2f4b-4b33-ac65-b528d943eb4c,2023-10-01,Cartão da Conta,Teresa Tanaka            Presidente Prbr,Teresa Tanaka,-144.96
+01f303a1-23d4-4129-a498-f8a0a270b221,2023-10-01,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.1
+fc826494-cac5-4ca5-95d9-37992e406904,2023-10-02,QR Code Pix enviado,Raia Drogasil,Drogasil,-62.68
+e5d255a3-51f5-4b4d-8998-3a8cca8fbf9d,2023-10-02,Cartão da Conta,Pag*salviarestaurante    Presidente Prbr,Sálvia Restaurante,-94.69
+81d8e3fc-26ba-472b-a7ef-d3702e76eb57,2023-10-04,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-64.33
+a66cee7f-46fc-424b-b240-283851115c84,2023-10-04,Cartão da Conta,A Ciclista               Presidente Prbr,A Ciclista,-64.0
+dfd692ae-e1c1-41c7-9d90-cd8baf90b927,2023-10-04,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,1.2
+2ec0ef21-268c-4538-9ea2-fb1ea6fec276,2023-10-05,QR Code Pix enviado,Alipay/aliexpress - Pix,Aliexpress,-60.46
+d4a5e5dd-bdad-47f0-9176-5e2e6cdb1221,2023-10-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-93.19
+ebc6b4dc-524c-44c6-8102-24beb2f0ee01,2023-10-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-53.2
+90b87fac-83aa-4fe3-91ef-0980b057915f,2023-10-05,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-833.54
+288e9206-b35e-4655-aa73-475910a4227d,2023-10-07,Cartão da Conta,Mercado Do Real          Presidente Prbr,Mercado Do Real,-27.75
+93fa654a-5ab2-40ea-997f-063d07117fbe,2023-10-07,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-79.95
+f034602a-2161-4213-83c2-293aea73ef8f,2023-10-07,QR Code Pix enviado,Energisa Sul-sudeste - Distribui,Conta de Luz Energisa,-35.74
+99adb951-6049-406e-94d6-0a689d782cd4,2023-10-08,Pagamento de conta,Anhanguera Educacional Participacoes S A,Anhanguera,-94.51
+4474963a-cf87-4c43-a020-9492afbe8085,2023-10-09,Cartão da Conta,Ebn         *spotify     Rio De Janeirbr,Spotify,-34.9
+faf1ad82-c301-4001-ad2a-5cc29d1c40b1,2023-10-12,Cartão da Conta,Muffato Pq Shop P        Presidente Prbr,Muffato Parque Shopping,-113.85
+1ac3a20e-389c-4471-98c3-d38added5bdd,2023-10-12,Cartão da Conta,Cristanini Sorveteria L  Presidente Prbr,Gygabon,-18.96
+bbe5e637-c290-4ecb-b42c-7e773bdb439e,2023-10-12,Pagamento de conta,Ebct,Ebct,-36.39
+4243804c-5e74-4af8-bd3b-b908d0726590,2023-10-13,QR Code Pix enviado,Magazine Luiza Marketplace,Magazine Luiza Marketplace,-113.96
+3bee6327-53c9-46af-851b-a9ab983ef060,2023-10-14,Cartão da Conta,Achei Parafusos          Presidente Prbr,Achei Parafusos,-4.6
+5be6a95f-05f8-4b85-82f6-2e5235f93e46,2023-10-14,Cartão da Conta,Construserra             Presidente Prbr,Construserra,-15.8
+b45b8245-d5f1-43c3-afc4-c63ebd92443b,2023-10-15,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-150.0
+0d557b5b-55cb-41a0-b800-6894c49af30d,2023-10-15,Estorno Cartão da Conta,Recargapay Validacao     Sao Paulo    Br,Recargapay Validacao,0.8
+0d557b5b-55cb-41a0-b800-6894c49af30d,2023-10-15,Cartão da Conta,Recargapay Validacao     Sao Paulo    Br,Recargapay Validacao,-0.8
+dc4a5e8b-5049-4b3f-b73f-3b4967a47376,2023-10-16,QR Code Pix enviado,Pet Center Participacoes S A,Pet Center Participacoes S A,-76.75
+cc3ab82f-701a-4aaa-b910-d62fa5c104c2,2023-10-16,Cartão da Conta,Drogaria_sp Drogariasaopasao Paulo    Br,Drogaria São Paulo,-13.99
+0f759577-66bd-4cc1-9983-eed79a1514fc,2023-10-17,Pix enviado,Allen Elker Camargo De Toledo,Allen Elker Camargo De Toledo,-180.0
+a1a99c6b-0839-48ba-83f6-e2e7317a6973,2023-10-18,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+71605618-8684-4dde-8dd8-c7836bc32da6,2023-10-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+907611a7-5147-4564-b0f0-5c4ebc8c812c,2023-10-19,QR Code Pix enviado,Cia De Saneamento Basico Do Estado De Sao Paulo S,Conta de Água Sabesp,-64.92
+a6b1cd73-553e-4ff9-9ca0-35c259436db8,2023-10-20,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.54
+4c26a4ee-3230-4359-9b16-7db7a4df0e30,2023-10-26,Cartão da Conta,Anhanguera Educacional   Valinhos     Br,Anhanguera,-94.51
+2f34421a-a403-480e-8e95-e7c81ba6e301,2023-10-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.57
+abdda2f0-18b4-4ed2-b7dd-722b109c1754,2023-10-29,Cartão da Conta,Farmacia Nissei          Presidente Prbr,Drogaria Nissei,-21.9
+bfd2074c-8aa8-42d9-8c28-7bef6836478b,2023-10-30,Pix recebido,Latam Gateway,Latam Gateway,501.85
+414bb354-5c7c-44ef-9f6f-ff0e83f5e204,2023-10-31,QR Code Pix enviado,Energisa Sul-sudeste - Distribui,Conta de Luz Energisa,-35.74
+01682bab-54cc-4ce6-a3ad-c747d18010a5,2023-10-31,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.34
+ee2c9f7e-d25e-497a-80bd-2005a2802864,2023-11-01,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-332.67
+9f7092e2-1077-4c1e-bf6a-120aa8514eb9,2023-11-01,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-579.89
+05cc45b1-7578-4891-b2a6-d6f31468342b,2023-11-01,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1370.0
+4d89db54-7a53-4287-8f4d-39f3844c3156,2023-11-01,Pix enviado,Guilherme Aparecido Godoy Ribeiro,Guilherme Aparecido Godoy Ribeiro,-70.0
+b4181b6b-b6eb-46fe-86a8-6dda7ec86626,2023-11-02,Cartão da Conta,Pag*mayarafernanda       Presidente Prbr,Pag*mayarafernanda,-65.0
+357485eb-cce9-4e5f-b059-48fb3b2b8f9b,2023-11-02,QR Code Pix enviado,Magazine Luiza Marketplace,Magazine Luiza Marketplace,-242.99
+5090a986-de26-4679-b0f7-aa46da452a1a,2023-11-03,QR Code Pix enviado,Raia Drogasil,Drogasil,-50.86
+195be0ca-4809-43e0-93e1-1b63411d53c2,2023-11-03,Devolução Pix recebida,Raia Drogasil,Drogasil,38.0
+7c3af122-9e9e-414b-b68c-f17fd6ea25ea,2023-11-03,QR Code Pix enviado,Raia Drogasil,Drogasil,-38.0
+2ebb7abb-8c2a-406a-9836-e14b81cdd544,2023-11-04,Estorno Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,3.0
+2ebb7abb-8c2a-406a-9836-e14b81cdd544,2023-11-04,Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,-3.0
+3436c295-5bc7-476f-97fc-c9b79cc565cf,2023-11-04,Estorno Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,3.0
+3436c295-5bc7-476f-97fc-c9b79cc565cf,2023-11-04,Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,-3.0
+2165f939-3bdb-4d9f-9a04-1c28289e0cd6,2023-11-04,Estorno Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,3.0
+ec50de95-7e30-4382-976c-fafee947d27d,2023-11-04,Estorno Cartão da Conta,Steam Purchase           425-952-2985 De,Steam,8.36
+ec50de95-7e30-4382-976c-fafee947d27d,2023-11-04,Cartão da Conta,Steam Purchase           425-952-2985 De,Steam,-8.36
+2165f939-3bdb-4d9f-9a04-1c28289e0cd6,2023-11-04,Cartão da Conta,Google*temporary Hold    Cc Google.comsg,Google Temporary Hold,-3.0
+a34a30c7-8999-4004-8124-325f1de25479,2023-11-06,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-258.07
+b40fab49-c4e1-4133-9365-8e62956d3333,2023-11-08,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,151.19
+561e58c5-9dba-4c94-a118-00041384d040,2023-11-09,Cartão da Conta,Ebn*spotify              Curitiba     Br,Spotify,-34.9
+b166e048-0a58-40b0-83e9-a587054a13e9,2023-11-09,QR Code Pix enviado,Energisa Sul-sudeste - Distribui,Conta de Luz Energisa,-243.54
+37019495-c700-4f98-ac0b-1ac465649292,2023-11-12,Cartão da Conta,Agua Na Boca             Presidente Prbr,Agua Na Boca,-39.95
+2d5ccd2e-9ef3-478d-a240-1d951a51d9ad,2023-11-16,Pix recebido,Rosiane De Lima Rocha,Rosiane De Lima Rocha,100.0
+de50d54f-21bb-487e-b032-bbbdc34048ce,2023-11-17,Pix recebido,Luciano Guedes Cardoso,Luciano Guedes Cardoso,580.0
+a61441a1-91cb-4d99-8440-24eb2f72d411,2023-11-18,Cartão da Conta,S V Comercio             Presidente Prbr,S V Comercio,-43.97
+42bbe4c1-8ba3-44d1-b9b3-80e9a8d44dec,2023-11-18,Pix recebido,Vítor José De Almeida Soares,Vítor José De Almeida Soares,8.0
+d4df80b9-8be7-4496-92df-4f808c6789bc,2023-11-19,QR Code Pix enviado,Cia De Saneamento Basico Do Estado De Sao Paulo S,Conta de Água Sabesp,-64.92
+45ba853c-6893-4de1-918d-4c1823fde5d8,2023-11-19,Cartão da Conta,Pag*presidente           Presidente Prbr,Pag*presidente,-30.98
+61728b4b-7a14-4a38-bb04-e7fa24d7bd30,2023-11-19,Pix recebido,Ana Clara Novais Silva,Ana Clara Novais Silva,8.0
+9dcd7146-7c82-43a1-a4f7-2a75172bb66c,2023-11-27,Cartão da Conta,Consorcio Estacio        Presidente Prbr,Consorcio Estacio,-13.0
+c4eaf9da-1618-4473-9e79-b02e90be6c76,2023-11-28,Pagamento de conta,Anhanguera Educacional Participacoes S A,Anhanguera,-52.41
+2c14676a-a2f4-4fac-8c8b-df0bce5c7145,2023-11-28,QR Code Pix enviado,Raia Drogasil,Drogasil,-13.69
+e6b450e5-dd2c-4eb1-994f-41acea348b58,2023-11-28,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.55
+7988d05f-5ba2-4a50-a023-c187696c4aff,2023-11-29,QR Code Pix enviado,Growth Supplements P A E,Growth Supplements,-183.24
+555e7d5d-7fc6-460a-a184-85ec88c70bfe,2023-11-30,Rendimento da conta,Rendimento líquido sobre dinheiro em conta,Rendimento líquido sobre dinheiro em conta,0.69
+6bc62adc-7925-4f12-bafe-65df16d9045f,2023-12-05,Pix enviado,Raphael Henrique Vieira Coelho,Transferência Entre Contas,-533.9
+aa64d202-d7d6-4327-9b85-1c7ce8f86585,2023-12-05,Cartão da Conta,Farmacia Santa Catarina  Presidente Prbr,Farmacia Santa Catarina,-55.0
+8300d67a-8df5-41ff-8306-0426214f6cee,2023-12-05,Cartão de Crédito,Pagamento de Fatura,Pagamento de Fatura,-368.79
+6c5ba1e7-cb99-49c3-8cdd-4869bff6e1ea,2023-12-05,Pix recebido,Raphael Henrique Vieira Coelho,Transferência Entre Contas,1370.0
+b57dc3f6-e089-4ad9-9333-4c9634c2117c,2023-12-05,Cartão da Conta,Pag*wjjorgepolivet       Presidente Prbr,Policlínica Veterinária Dr. Wilman Jorge,-105.0
+257343c4-9f5e-4a51-af44-d449fa668498,2023-12-09,QR Code Pix enviado,Ebanx Ltda.,Banggod,-74.01

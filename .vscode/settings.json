@@ -1,6 +1,16 @@
 {
-    "python.pythonPath": "/Users/rapha/Documents/Github/py-sql-tasks/.venv",
     "files.exclude": {
-        "**/__pycache__": true
-    }
+        "**/__pycache__": true,
+        "**/.ssh": true,
+        "**/.tmp.drivedownload": true,
+        "**/.tmp.driveupload": true,
+    },
+    "python.autoComplete.extraPaths": ["/Users/rapha/Documents/Github",
+                                       "/Users/rapha/Documents/Github/py-sql-tasks",
+                                       "/Users/rapha/Documents/Github/py-sql-tasks/src"
+                                      ],
+    "python.analysis.extraPaths": ["/Users/rapha/Documents/Github",
+                                   "/Users/rapha/Documents/Github/py-sql-tasks",
+                                   "/Users/rapha/Documents/Github/py-sql-tasks/src"
+                                  ],
 }

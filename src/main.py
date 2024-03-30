@@ -1,54 +1,81 @@
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
 
-# Importação de bibliotecas atrás do __init__.py
-from __init__ import *
+# Permite funcionalidades para interações com o sistema operacional e ao ambiente Python
+import os, sys
+
+# Corrige o path para chamar as funcionalidades do projeto
+sys.path.append(os.getcwd())
 
 # Importa as funcionalidades padrões do projeto
-from utils.utils import *
+from shared.utils.resources import *
 
 # Limpa o terminal
-limpar_terminal(True)
+terminal_clear(True)
 
-# Define se deve mostrar o log de execução das funções
-logger_execucao_funcao: str = 'info'
-
-# Configura o logger
-logger: logging.Logger = configurar_logger(__name__, logger_execucao_funcao)
-
-# Define a mensagem de nivel de logger
-logger_manual(logging.getLevelName(logger.level))
-
-# Configura o arquivo de log
-configurar_arquivo_log()
-
-# Obtém o nome do script
-nome_script: Path = Path(__file__).name
+# Obtém o nome do scripts
+file_name: str = Path(__file__).name
 
 # Obtém o diretório completo do script com o nome do arquivo .py
-diretorio_completo_script_arquivo: Path = Path(__file__).parent
+full_path_file: Path = Path(__file__).parent
 
 # Obtém o diretório da pasta do script
-diretorio_pasta_script: Path = Path(__file__).parent.parent
+path_file_folder: Path = Path(__file__).parent.parent
+
+# Obtém o diretório da pasta do script
+path_file_folder_name: str = Path(__file__).parent.parent.name
+
+# Obtém o diretório da pasta do script
+log_file_name: str = str(f'{Path(__file__).parent.parent.name}_{file_name}')
+
+# Configura o logger
+logger: logging.Logger = logging_config(python_file = log_file_name,
+                                        fg_log_file = False,
+                                        log_file_path = Path.cwd() / 'py-sql-tasks' / 'logs')
 
 # Mensagem de inicialização
-logger.info(f'Iniciando o script {cyan(nome_script)} no diretório {green(diretorio_completo_script_arquivo)}.')
+logger.info(f'Iniciando o script {cyan(path_file_folder_name+'/'+file_name)} no diretório {green(full_path_file)}.')
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 #////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////#
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
-# Caminho para o arquivo .yaml
-arquivo_yaml: Path = Path(diretorio_pasta_script / 'config' / 'config.yaml')
+# Caminho para o arquivo .env
+env_path: Path = Path(path_file_folder / '.env')
 
-# Carregar variáveis de ambiente do arquivo .yaml
-variaveis_yaml: dict = carrega_yaml(arquivo_yaml)
+print(env_path)
+
+# Carregar variáveis de ambiente
+load_dotenv(env_path)
+
+def check_env_variables(env_vars, *variables):
+    '''
+    Verifica se todas as variáveis de ambiente especificadas foram carregadas.
+    Retorna True se todas as variáveis foram encontradas, False caso contrário.
+    '''
+    for var in variables:
+        if var not in env_vars:
+            return False
+    return True
+
+# Carrega as variáveis de ambiente do arquivo .env
+env_vars = dotenv_values(env_path)
+
+# Verifica se todas as variáveis de ambiente foram carregadas
+required_variables = ['API_KEY', 'DATABASE_URL']
+if check_env_variables(env_vars, *required_variables):
+    print("Todas as variáveis de ambiente foram carregadas.")
+else:
+    print("Algumas variáveis de ambiente não foram carregadas.")
+
+
+exit()
 
 # Lista as variáveis de ambiente do arquivo .yaml
 lista_variaveis: list = list(lista_variaveis_yaml(arquivo_yaml))
 
 # Define os tokens de acesso ao banco de dados
-server_name: str = variaveis_yaml['banco_de_dados']['SERVER_NAME']
-database_name: str = variaveis_yaml['banco_de_dados']['DATABASE_NAME']
+server_name: str = os.getenv('SERVER_NAME')
+#database_name: str = variaveis_yaml['banco_de_dados']['DATABASE_NAME']
 username: str = variaveis_yaml['banco_de_dados']['USERNAME']
 password: str = variaveis_yaml['banco_de_dados']['PASSWORD']
 trusted_connection: str = variaveis_yaml['banco_de_dados']['TRUSTED_CONNECTION']
@@ -116,6 +143,109 @@ def gerar_nome_arquivo_com_data(nome_arquivo: str = 'py-export', formato: int = 
     return nome_do_arquivo
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+# class ConectorBancoDados(object):
+#     '''
+#     Permite estabelecer uma conexão com o banco de dados do tipo SQL Server, utilizando o Pyodbc como engine.
+#     '''
+#     def __init__(self, username: str, password: str, server_name: str, database_name: str, trusted_connection: bool) -> None:
+#         '''
+#         Inicializa a classe ConectorBancoDados com os parâmetros necessários para criar uma conexão com o banco de dados.
+
+#         Parâmetros:
+#             `username` (str): Nome de usuário para autenticação.
+#             `password` (str): Senha para autenticação.
+#             `server_name` (str): Nome do servidor.
+#             `database_name` (str): Nome do banco de dados.
+#             `trusted_connection` (bool): True se a autenticação for baseada em Windows, False caso contrário.
+#         '''
+#         self.username: str = username
+#         self.password: str = password
+#         self.server_name: str = server_name
+#         self.database_name: str = database_name
+#         self.trusted_connection: bool = trusted_connection
+#         self.engine: Optional[Engine] = None
+
+#     def criar_engine(self) -> Engine:
+#         '''
+#         Cria e retorna uma instância do SQLAlchemy Engine.
+
+#         Retorna:
+#             `create_engine` (Engine): Instância do SQLAlchemy Engine.
+#         '''
+#         if not all([self.username, self.password, self.server_name, self.database_name]):
+#             logger.error('Parâmetros de entrada inválidos.')
+#             return None
+                
+#         if self.trusted_connection:
+#             connection_string: str = f'mssql+pyodbc://{self.username}:{self.password}@{self.server_name}/{self.database_name}?driver=ODBC+Driver+17+for+SQL+Server'
+#         else:
+#             connection_string: str = f'mssql+pyodbc://{self.server_name}/{self.database_name}?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server'
+        
+#         try: 
+#             self.engine = create_engine(connection_string)
+#             logger.info('A engine de conexão com o banco de dados foi criada.')     
+#             return self.engine
+#         except Exception as e:
+#             logger.error(f'Erro ao criar a engine: {e}')
+#             return None
+
+#     def criar_conexao(self) -> Connection:
+#         '''
+#         Valida e cria a conexão criada pela engine.
+
+#         Retorna:
+#             `conn` (Connection): Conexão estabelecida.
+#         '''
+#         try:
+#             if self.engine is None:
+#                 logger.error('A engine não foi inicializada.')
+#                 return None
+#             conn: Connection = self.engine.connect()
+#             logger.info('A conexão com o banco de dados foi estabelecida.')
+#             return conn
+#         except Exception as e:
+#             logger.error(f'Erro ao estabelecer a conexão: {e}')
+#             return None
+
+#     def estabelecer_conexao(self) -> Optional[Connection]:
+#         '''
+#         Cria uma engine de conexão com o banco de dados e retorna a conexão estabelecida.
+
+#         Retorna:
+#             `conn` (Connection): Conexão estabelecida.
+#         '''
+#         if self.criar_engine() is None:
+#             return None
+#         return self.criar_conexao()
+
+#     def desconectar_engine(self) -> None:
+#         '''
+#         Encerra a conexão criada pela engine.
+#         '''
+#         try:
+#             if self.engine is None:
+#                 logger.error('A engine não foi inicializada.')
+#                 return
+#             self.engine.dispose()
+#             logger.info('A conexão com o banco de dados foi encerrada.')
+#         except Exception as e:
+#             logger.error(f'Erro ao encerrar a conexão: {e}')
+
+
+# db_connector = ConectorBancoDados(username, password, server_name, database_name, trusted_connection)
+# conn = db_connector.estabelecer_conexao()
+# # Use a conexão 'conn' para executar consultas, etc.
+# # Quando terminar, você pode desconectar a engine chamando:
+# db_connector.desconectar_engine()
+
+# exit()
+
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+
+
 
 # Cria a engine de conexão com o banco de dados
 def criar_engine(username: str, password: str, server_name: str, database_name: str, trusted_connection: bool) -> Engine:
@@ -189,7 +319,7 @@ def estabelecer_conexao(username: str, password: str, server_name: str, database
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 # Encerra a conexão criada pela engine
-def desconectar_engine(engine: create_engine) -> None:
+def desconectar_engine(engine: Engine) -> None:
     try:
         engine.dispose()
         logger.info(f'A conexão com o banco de dados foi {yellow('encerrada')}.')
@@ -265,7 +395,7 @@ def formatar_dataframe(dataframe: DataFrame) -> str:
 
     '''
     # Formata o DataFrame com bordas redondas
-    df_formatado = tb(dataframe, headers='keys', tablefmt='rounded_grid')
+    df_formatado = tabulate(dataframe, headers='keys', tablefmt='rounded_grid')
     logger.debug('Formatação do DataFrame executada com sucesso.')
 
     # Imprime o DataFrame formatado
@@ -432,6 +562,8 @@ def main() -> None:
    
     
     exportar_dataframe(consultas_sql, diretorio_arquivo_output, codificacao, qualificador, delimitador)
+    
+    terminate_script()
     
 
     #print(json.dumps(consultas, indent=4, ensure_ascii=False))

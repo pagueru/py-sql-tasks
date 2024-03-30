@@ -125,18 +125,16 @@ celerybeat.pid
 
 # Environments
 .env
+**/*.env
+*./env
 .venv
+**/*.vscode
 .vscode
+*./vscode
+./pylintrc
+*./pylintrc
 .yml
 .yaml
-**/*.env
-**/*.vscode
-**/*.yml
-**/*.yaml
-*./env
-*./vscode
-*./yml
-*./yaml
 env/
 venv/
 ENV/

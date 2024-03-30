@@ -1,8 +1,0 @@
-
-# Configurações de conexão
-banco_de_dados:
-  SERVER_NAME: 'RAPHAEL-PC'
-  DATABASE_NAME: 'dbLilith'
-  USERNAME: 'sa'
-  PASSWORD: '123'
-  TRUSTED_CONNECTION: true  # Define o tipo de conxão (False = Autenticação do Windows; True = Autenticação com usuário e senha)
